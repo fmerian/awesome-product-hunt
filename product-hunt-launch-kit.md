@@ -141,7 +141,7 @@ This file includes the required inputs to submit a new product on Product Hunt.
 > Supports basic HTML: `<strong>`, `<em>`, `<a>`, `<li>`.
 
 ```
-Explain how you dicovered the product. Invite people to join the conversation, ask questions to the Makers.
+Explain how you discovered the product. Invite people to join the conversation, ask questions to the Makers.
 ```
 
 # review and Launch
