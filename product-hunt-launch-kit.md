@@ -16,6 +16,7 @@ This file includes the required inputs to submit a new product on Product Hunt.
 - [makers](#makers)
 - [extras](#extras)
 - [review and launch](#review-and-launch)
+- [additional notes](#additional-notes)
 
 # link to the product
 
@@ -147,3 +148,13 @@ Explain how you discovered the product. Invite people to join the conversation, 
 # review and Launch
 
 - launch date: `YYYY-MM-DD`
+
+# additional notes
+
+- You can still edit your post and change the launch date by adding `/edit` to the end of your URL.
+
+On launch day:
+
+- Add `/launch-day` to the end of your URL to get to a dashboard where you can monitor your entire launch from, respond to questions and comments about your product throughout the day.
+- Share a link to your launch on social, email, and beyond. Don't explicitly ask for upvotes or spam with cold DMs and emails. Keep it genuine.
+- Utilizing upvote services will result in your removal from the homepage. Sharing in promotion/upvote groups often results in low quality or spam activity that will negatively impact your launch performance. If your "growth consultant" is using prohibited tactics you will be held responsible.
