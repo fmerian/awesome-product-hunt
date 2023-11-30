@@ -66,7 +66,7 @@ This file includes the required inputs to submit a new product on Product Hunt.
 
 > **260 characters max.** Supports basic HTML: `<strong>`, `<em>`, `<a>`, `<li>`.
 
-```
+``` html
 
 ```
 
@@ -141,7 +141,7 @@ This file includes the required inputs to submit a new product on Product Hunt.
 > This comment is posted when your product launches. Adding a first comment is essential to get the discussion started. <br />
 > Supports basic HTML: `<strong>`, `<em>`, `<a>`, `<li>`.
 
-```
+``` html
 Explain how you discovered the product. Invite people to join the conversation, ask questions to the Makers.
 ```
 
