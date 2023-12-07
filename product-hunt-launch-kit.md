@@ -2,6 +2,8 @@
 
 This file includes the required inputs to submit a new product on Product Hunt.
 
+Looking for inspiration? [See examples here](https://github.com/fmerian/awesome-product-hunt?tab=readme-ov-file#examples).
+
 ## how to use this file
 
 1. Download or copy the raw file, or [duplicate this Notion page ↗︎](https://fmerian.notion.site/Product-Hunt-Launch-Kit-ef200ab2912045ea8e7719984042e306?pvs=4)
