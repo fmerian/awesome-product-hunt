@@ -1,8 +1,14 @@
 # product-hunt-community-kit
 
-```
+# how to use this file
+
+1. Download or copy the raw file
+2. Import or paste it to your fav tool (Notion, Google Docs...)
+3. Fill out the inputs. All set!
+
+---
+
 TL,DR: we're launching soon on Product Hunt. Join the launch!
-```
 
 We know how difficult it is to write from scratch. So, here's some inspiration to help you spread the word. Thanks a million!
 
