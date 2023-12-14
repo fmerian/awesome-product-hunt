@@ -20,6 +20,7 @@ this repository includes:
 | [Langfuse ↗︎](https://www.producthunt.com/products/langfuse#langfuse) | #1 Product of the Day. |
 | [Raycast Pro ↗︎](https://www.producthunt.com/products/raycast#raycast-pro) | #1 Product of the Day, #4 Product of the Week. |
 | [Resend ↗︎](https://www.producthunt.com/products/resend#resend-3) | #2 Product of the Day, #2 Product of the Week, #2 Product of the Month. |
+| [Supabase AI SQL Editor ↗︎](https://www.producthunt.com/products/supabase#ai-sql-editor-by-supabase) | #1 Product of the Day. |
 
 if you enjoyed this list, please do [repost this ↗︎](https://twitter.com/fmerian/status/1718968543088439685)
 
