@@ -13,6 +13,8 @@ this repository includes:
 
 ## examples
 
+> sorted alphabetically.
+
 | Product | Award |
 | ------- | ------- |
 | [Appwrite ↗︎](https://www.producthunt.com/products/appwrite#appwrite-2) | #1 Product of the Day, #2 Product of the Week, 2022 Developer Tool of the Year. |
@@ -23,7 +25,8 @@ this repository includes:
 | [Resend ↗︎](https://www.producthunt.com/products/resend#resend-3) | #2 Product of the Day, #2 Product of the Week, #2 Product of the Month. |
 | [Specify ↗︎](https://www.producthunt.com/products/specify#specify-2) | #2 Product of the Day. |
 | [Supabase AI SQL Editor ↗︎](https://www.producthunt.com/products/supabase#ai-sql-editor-by-supabase) | #1 Product of the Day. |
+| [Warp ↗︎](https://www.producthunt.com/products/warp#warp) | #1 Product of the Day, #3 Product of the Week, #3 Product of the Month. |
 
-if you enjoyed this list, please do [repost this ↗︎](https://twitter.com/fmerian/status/1718968543088439685)
+- [ ] if you enjoyed this list, please do [repost this ↗︎](https://twitter.com/fmerian/status/1718968543088439685)
 
 enjoy your launch day!
