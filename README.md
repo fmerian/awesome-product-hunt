@@ -14,18 +14,21 @@ this repository includes:
 ## examples
 
 > sorted by launch date.
+> - `POTD` = Product of the Day;
+> - `POTW` = Product of the Week;
+> - `POTM` = Product of the Month;
 
-| Launch date | Product | Awards |
-| ------- | ------- | ------- |
-| 2023-11-15 | [OpenMeter ↗︎](https://www.producthunt.com/products/openmeter#openmeter) | #2 Product of the Day. |
-| 2023-09-19 | [Graphite ↗︎](https://www.producthunt.com/products/graphite-5#graphite-6) | #2 Product of the Day, #2 Product of the Week, #3 Product of the Month. |
-| 2023-08-20 | [Langfuse ↗︎](https://www.producthunt.com/products/langfuse#langfuse) | #1 Product of the Day. |
-| 2023-08-10 | [AI SQL Editor by Supabase ↗︎](https://www.producthunt.com/products/supabase#ai-sql-editor-by-supabase) | #1 Product of the Day. |
-| 2023-05-10 | [Raycast Pro ↗︎](https://www.producthunt.com/products/raycast#raycast-pro) | #1 Product of the Day, #4 Product of the Week. |
-| 2023-02-08 | [Resend ↗︎](https://www.producthunt.com/products/resend#resend-3) | #2 Product of the Day, #2 Product of the Week, #2 Product of the Month. |
-| 2022-09-21 | [Appwrite ↗︎](https://www.producthunt.com/products/appwrite#appwrite-2) | #1 Product of the Day, #2 Product of the Week, 2022 Developer Tool of the Year. |
-| 2022-04-06 | [Warp ↗︎](https://www.producthunt.com/products/warp#warp) | #1 Product of the Day, #3 Product of the Week, #3 Product of the Month. |
-| 2022-02-24 | [Specify ↗︎](https://www.producthunt.com/products/specify#specify-2) | #2 Product of the Day. |
+| Launch date | Product | `POTD` | `POTW` | `POTM` |
+| ------- | ------- | ------- | ------- | ------- |
+| `2023-11-15` | [OpenMeter ↗︎](https://www.producthunt.com/products/openmeter#openmeter) | #2 |
+| `2023-09-19` | [Graphite ↗︎](https://www.producthunt.com/products/graphite-5#graphite-6) | #2 | #2 | #3 |
+| `2023-08-20` | [Langfuse ↗︎](https://www.producthunt.com/products/langfuse#langfuse) | #1 |
+| `2023-08-10` | [AI SQL Editor by Supabase ↗︎](https://www.producthunt.com/products/supabase#ai-sql-editor-by-supabase) | #1 |
+| `2023-05-10` | [Raycast Pro ↗︎](https://www.producthunt.com/products/raycast#raycast-pro) | #1 | #4 |
+| `2023-02-08` | [Resend ↗︎](https://www.producthunt.com/products/resend#resend-3) | #2 | #2 | #2 |
+| `2022-09-21` | [Appwrite ↗︎](https://www.producthunt.com/products/appwrite#appwrite-2) | #1 | #2 |
+| `2022-04-06` | [Warp ↗︎](https://www.producthunt.com/products/warp#warp) | #1 | #3 | #3 |
+| `2022-02-24` | [Specify ↗︎](https://www.producthunt.com/products/specify#specify-2) | #2 |
 
 - [ ] if you enjoyed this list, please do [repost this ↗︎](https://twitter.com/fmerian/status/1718968543088439685)
 
