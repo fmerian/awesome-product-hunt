@@ -29,6 +29,7 @@ this repository includes:
 | `2022-09-21` | [Appwrite ↗︎](https://www.producthunt.com/products/appwrite#appwrite-2) | #1 | #2 |
 | `2022-04-06` | [Warp ↗︎](https://www.producthunt.com/products/warp#warp) | #1 | #3 | #3 |
 | `2022-02-24` | [Specify ↗︎](https://www.producthunt.com/products/specify#specify-2) | #2 |
+| `2021-11-30` | [Raycast API and Store ↗︎](https://www.producthunt.com/posts/raycast-api-and-store) | #1 | #4 |
 | `2021-02-17` | [Ray.so ↗︎](https://www.producthunt.com/posts/ray-so) | #3 | #2 | #4 |
 
 - [ ] if you enjoyed this list, please do [repost this ↗︎](https://twitter.com/fmerian/status/1718968543088439685)
