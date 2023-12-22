@@ -1,8 +1,10 @@
 # product-hunt
 
-hand-picked resources and examples to launch a developer tool on Product Hunt
+Hand-picked [resources](#resources) and [examples](#examples) to launch a developer tool on Product Hunt.
 
-this repository includes:
+- Want to contribute? See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-product-hunt/blob/main/CONTRIBUTING.md)
+
+This repository also includes:
 
 - [product-hunt-launch-kit.md](https://github.com/fmerian/product-hunt/blob/main/product-hunt-launch-kit.md): required inputs to submit a new product;
 - [product-hunt-community-kit.md](https://github.com/fmerian/product-hunt/blob/main/product-hunt-community-kit.md): some ideas to leverage your network;
@@ -13,7 +15,7 @@ this repository includes:
 
 ## examples
 
-> sorted by launch date.
+> Sorted by launch date.
 > - `POTD` = Product of the Day;
 > - `POTW` = Product of the Week;
 > - `POTM` = Product of the Month;
@@ -32,6 +34,7 @@ this repository includes:
 | `2021-11-30` | [Raycast API and Store ↗︎](https://www.producthunt.com/posts/raycast-api-and-store) | #1 | #4 |
 | `2021-02-17` | [Ray.so ↗︎](https://www.producthunt.com/posts/ray-so) | #3 | #2 | #4 |
 
-- [ ] if you enjoyed this list, please do [repost this ↗︎](https://twitter.com/fmerian/status/1718968543088439685)
+- Want to add more examples? See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-product-hunt/blob/main/CONTRIBUTING.md)
+- **If you enjoyed this list, please do [repost this ↗︎](https://twitter.com/fmerian/status/1718968543088439685)**
 
-enjoy your launch day!
+Enjoy your launch day!
