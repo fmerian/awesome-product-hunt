@@ -11,7 +11,7 @@ This repository also includes:
 
 ## resources
 
-- [Launching developer tools on Product Hunt ↗︎](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt) by [@ronakganatra](https://github.com/ronakganatra)
+- [Launching developer tools on Product Hunt ↗︎](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt) by [@ronakganatra](https://github.com/ronakganatra) (launched [GraphCMS ↗︎](https://www.producthunt.com/products/graphcms#graphcms-3), ranked #5 Product of the Day)
 
 ## examples
 
