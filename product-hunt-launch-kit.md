@@ -133,18 +133,26 @@ Looking for inspiration? [See examples here](https://github.com/fmerian/awesome-
 ## press
 
 > Sometimes tech media is interested in covering new products on Product Hunt. <br />
-> Can we share your product with press contacts?
+> Can Product Hunt share your product with press contacts?
 
 -   [ ] **Yes**
 -   [ ] **No**
 
-## comment
+## first comment
 
 > This comment is posted when your product launches. Adding a first comment is essential to get the discussion started. <br />
 > Supports basic HTML: `<strong>`, `<em>`, `<a>`, `<li>`.
 
 ``` html
 Explain how you discovered the product. Invite people to join the conversation, ask questions to the Makers.
+```
+
+## ask for feedback
+
+> **300 characters max.** Help guide the conversation around your launch. This is your (optional) opportunity to ask for specific feedback about your product, pricing, branding, or anything else you'd like to focus on.
+
+```
+
 ```
 
 # review and Launch
