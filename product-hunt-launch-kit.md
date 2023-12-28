@@ -155,7 +155,7 @@ Explain how you discovered the product. Invite people to join the conversation, 
 
 ```
 
-# review and Launch
+# review and launch
 
 - launch date: `YYYY-MM-DD`
 
