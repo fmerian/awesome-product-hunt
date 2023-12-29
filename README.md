@@ -9,16 +9,19 @@ This repository also includes:
 - [product-hunt-launch-kit.md](https://github.com/fmerian/product-hunt/blob/main/product-hunt-launch-kit.md): required inputs to submit a new product;
 - [product-hunt-community-kit.md](https://github.com/fmerian/product-hunt/blob/main/product-hunt-community-kit.md): some ideas to leverage your network;
 
+## glossary
+
+- `POTD` = Product of the Day;
+- `POTW` = Product of the Week;
+- `POTM` = Product of the Month;
+
 ## resources
 
-- [Launching developer tools on Product Hunt ↗︎](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt) by [@ronakganatra](https://github.com/ronakganatra) (launched [GraphCMS ↗︎](https://www.producthunt.com/products/graphcms#graphcms-3), ranked #5 Product of the Day)
+- [Launching developer tools on Product Hunt ↗︎](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt) by [@ronakganatra](https://github.com/ronakganatra) (launched [GraphCMS ↗︎](https://www.producthunt.com/products/graphcms#graphcms-3), ranked #5 POTD)
 
 ## examples
 
 > Sorted by launch date.
-> - `POTD` = Product of the Day;
-> - `POTW` = Product of the Week;
-> - `POTM` = Product of the Month;
 
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
