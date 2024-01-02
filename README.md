@@ -1,13 +1,17 @@
 # product-hunt
 
-Hand-picked [resources](#resources) and [examples](#examples) to launch a developer tool on Product Hunt.
+Product Hunt is a great place to launch a developer tool.
 
-- Want to contribute? See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-product-hunt/blob/main/CONTRIBUTING.md)
+Many developer-first products successfully launched there. For inspiration, you can find [success stories](#resources) and [examples](#examples) below.
 
-This repository also includes:
+This repository includes a [wiki](https://github.com/fmerian/awesome-product-hunt/wiki) with bit-sized tips to help you prep your launch and enjoy it.
+
+It also includes:
 
 - [product-hunt-launch-kit.md](https://github.com/fmerian/product-hunt/blob/main/product-hunt-launch-kit.md): required inputs to submit a new product;
-- [product-hunt-community-kit.md](https://github.com/fmerian/product-hunt/blob/main/product-hunt-community-kit.md): some ideas to leverage your network;
+- [product-hunt-community-kit.md](https://github.com/fmerian/product-hunt/blob/main/product-hunt-community-kit.md): ideas to leverage your network;
+
+**Want to contribute? See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-product-hunt/blob/main/CONTRIBUTING.md)**
 
 ## glossary
 
