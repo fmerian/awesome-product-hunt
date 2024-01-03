@@ -30,6 +30,7 @@ It also includes:
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
 | `2023-11-15` | [OpenMeter ↗︎](https://www.producthunt.com/products/openmeter#openmeter) | #2 |
+| `2023-11-02` | [Liveblocks Comments ↗︎](https://www.producthunt.com/posts/liveblocks-comments) | #5 |
 | `2023-09-19` | [Graphite ↗︎](https://www.producthunt.com/products/graphite-5#graphite-6) | #2 | #2 | #3 |
 | `2023-08-20` | [Langfuse ↗︎](https://www.producthunt.com/products/langfuse#langfuse) | #1 |
 | `2023-08-10` | [AI SQL Editor by Supabase ↗︎](https://www.producthunt.com/products/supabase#ai-sql-editor-by-supabase) | #1 |
