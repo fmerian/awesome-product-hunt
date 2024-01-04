@@ -46,4 +46,15 @@ It also includes:
 - Want to add more examples? See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-product-hunt/blob/main/CONTRIBUTING.md)
 - **If you enjoyed this list, please do [repost this ↗︎](https://twitter.com/fmerian/status/1718968543088439685)**
 
+## about
+
+This repository is maintained by [@fmerian](https://producthunt.com/@fmerian).
+
+- launched twice on Product Hunt in 2022;
+- contributed to launching 20+ dev-first products in 2023;
+- among the most active users;
+- 2022 Community Member of the Year (runner-up).
+
+**Follow me [@fmerian on X ↗︎](https://x.com/fmerian) for more insights.**
+
 Enjoy your launch day!
