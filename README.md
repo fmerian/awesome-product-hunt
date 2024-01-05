@@ -47,6 +47,13 @@ It also includes:
 - Want to add more examples? See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-product-hunt/blob/main/CONTRIBUTING.md)
 - **If you enjoyed this list, please do [repost this ↗︎](https://twitter.com/fmerian/status/1718968543088439685)**
 
+## alternatives
+
+> Non-exhaustive list of alternative places to launch dev-first products. more suggestions in [this repository](https://github.com/fmerian/awesome-developer-first-channels). 
+
+- [DevHunt ↗︎](https://devhunt.org/)
+- [Hacker News (ShowHN) ↗︎](https://news.ycombinator.com/showhn.html)
+
 ## about
 
 This repository is maintained by [@fmerian](https://producthunt.com/@fmerian).
