@@ -29,20 +29,20 @@ It also includes:
 
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
-| `2023-11-15` | [OpenMeter ↗︎](https://www.producthunt.com/products/openmeter#openmeter) | #2 |
+| `2023-11-15` | [OpenMeter ↗︎](https://www.producthunt.com/products/openmeter#openmeter) | #2 | #8 |
 | `2023-11-02` | [Liveblocks Comments ↗︎](https://www.producthunt.com/posts/liveblocks-comments) | #5 |
 | `2023-10-17` | [Appwrite Cloud Beta ↗︎](https://www.producthunt.com/products/appwrite#appwrite-cloud-beta) | #4 |
 | `2023-09-28` | [Unrevealed ↗︎](https://www.producthunt.com/posts/unrevealed) | #4 |
 | `2023-09-19` | [Graphite ↗︎](https://www.producthunt.com/products/graphite-5#graphite-6) | #2 | #2 | #3 |
-| `2023-08-20` | [Langfuse ↗︎](https://www.producthunt.com/products/langfuse#langfuse) | #1 |
-| `2023-08-10` | [AI SQL Editor by Supabase ↗︎](https://www.producthunt.com/products/supabase#ai-sql-editor-by-supabase) | #1 |
+| `2023-08-20` | [Langfuse ↗︎](https://www.producthunt.com/products/langfuse#langfuse) | #1 | #9 |
+| `2023-08-10` | [AI SQL Editor by Supabase ↗︎](https://www.producthunt.com/products/supabase#ai-sql-editor-by-supabase) | #1 | #6 |
 | `2023-06-08` | [Supabase Vector ↗︎](https://www.producthunt.com/products/supabase#supabase-vector) | #5 |
 | `2023-05-10` | [Raycast Pro ↗︎](https://www.producthunt.com/products/raycast#raycast-pro) | #1 | #4 |
 | `2023-02-08` | [Resend ↗︎](https://www.producthunt.com/products/resend#resend-3) | #2 | #2 | #2 |
 | `2022-09-21` | [Appwrite ↗︎](https://www.producthunt.com/products/appwrite#appwrite-2) | #1 | #2 |
-| `2022-06-13` | [Mintlify ↗︎](https://www.producthunt.com/posts/mintlify) | #1 |
+| `2022-06-13` | [Mintlify ↗︎](https://www.producthunt.com/posts/mintlify) | #1 | #7 |
 | `2022-04-06` | [Warp ↗︎](https://www.producthunt.com/products/warp#warp) | #1 | #3 | #3 |
-| `2022-02-24` | [Specify ↗︎](https://www.producthunt.com/products/specify#specify-2) | #2 |
+| `2022-02-24` | [Specify ↗︎](https://www.producthunt.com/products/specify#specify-2) | #2 | #9 |
 | `2021-11-30` | [Raycast API and Store ↗︎](https://www.producthunt.com/posts/raycast-api-and-store) | #1 | #4 |
 | `2021-02-17` | [Ray.so ↗︎](https://www.producthunt.com/posts/ray-so) | #3 | #2 | #4 |
 
