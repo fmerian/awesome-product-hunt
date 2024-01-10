@@ -38,6 +38,7 @@ It also includes:
 | `2023-08-10` | [AI SQL Editor by Supabase ↗︎](https://www.producthunt.com/products/supabase#ai-sql-editor-by-supabase) | #1 | #6 |
 | `2023-06-08` | [Supabase Vector ↗︎](https://www.producthunt.com/products/supabase#supabase-vector) | #5 |
 | `2023-05-10` | [Raycast Pro ↗︎](https://www.producthunt.com/products/raycast#raycast-pro) | #1 | #4 |
+| `2023-03-17` | [Warp AI ↗︎](https://www.producthunt.com/products/warp#warp-ai) | #2 | #6 |
 | `2023-02-08` | [Resend ↗︎](https://www.producthunt.com/products/resend#resend-3) | #2 | #2 | #2 |
 | `2022-09-21` | [Appwrite ↗︎](https://www.producthunt.com/products/appwrite#appwrite-2) | #1 | #2 |
 | `2022-06-13` | [Mintlify ↗︎](https://www.producthunt.com/posts/mintlify) | #1 | #7 |
