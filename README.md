@@ -19,10 +19,6 @@ It also includes:
 - `POTW` = Product of the Week;
 - `POTM` = Product of the Month;
 
-## resources
-
-- [Launching developer tools on Product Hunt ↗︎](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt) by [@ronakganatra](https://github.com/ronakganatra) (launched [GraphCMS ↗︎](https://www.producthunt.com/products/graphcms#graphcms-3), ranked #5 POTD)
-
 ## examples
 
 > Sorted by launch date.
@@ -57,6 +53,10 @@ It also includes:
 
 - [DevHunt ↗︎](https://devhunt.org/)
 - [Hacker News (ShowHN) ↗︎](https://news.ycombinator.com/showhn.html)
+
+## resources
+
+- [Launching developer tools on Product Hunt ↗︎](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt) by [@ronakganatra](https://github.com/ronakganatra) (launched [GraphCMS ↗︎](https://www.producthunt.com/products/graphcms#graphcms-3), ranked #5 POTD)
 
 ## about
 
