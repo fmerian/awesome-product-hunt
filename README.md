@@ -41,6 +41,7 @@ It also includes:
 | `2023-03-17` | [Warp AI ↗︎](https://www.producthunt.com/products/warp#warp-ai) | #2 | #6 |
 | `2023-02-08` | [Resend ↗︎](https://www.producthunt.com/products/resend#resend-3) | #2 | #2 | #2 |
 | `2022-09-21` | [Appwrite ↗︎](https://www.producthunt.com/products/appwrite#appwrite-2) | #1 | #2 |
+| `2022-07-20` | [Raycast for Teams ↗︎](https://www.producthunt.com/posts/raycast-for-teams) | #4 |
 | `2022-06-13` | [Mintlify ↗︎](https://www.producthunt.com/posts/mintlify) | #1 | #7 |
 | `2022-04-06` | [Warp ↗︎](https://www.producthunt.com/products/warp#warp) | #1 | #3 | #3 |
 | `2022-02-24` | [Specify ↗︎](https://www.producthunt.com/products/specify#specify-2) | #2 | #9 |
