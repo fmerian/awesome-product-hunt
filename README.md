@@ -35,6 +35,7 @@ It also includes:
 | ------- | ------- | ------- | ------- | ------- |
 | `2023-11-15` | [OpenMeter ↗︎](https://www.producthunt.com/products/openmeter#openmeter) | #2 | #8 |
 | `2023-11-02` | [Liveblocks Comments ↗︎](https://www.producthunt.com/posts/liveblocks-comments) | #5 |
+| `2023-10-18` | [LastMile AI ↗︎](https://www.producthunt.com/products/lastmile-ai#lastmile-ai) | #2 | #4 |
 | `2023-10-17` | [Appwrite Cloud Beta ↗︎](https://www.producthunt.com/products/appwrite#appwrite-cloud-beta) | #4 |
 | `2023-10-11` | [OpenSauced ↗︎](https://www.producthunt.com/products/opensauced#opensauced) | #5 |
 | `2023-10-09` | [Payload 2.0 ↗︎](https://www.producthunt.com/posts/payload-2-0) | #2 |
