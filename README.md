@@ -33,6 +33,7 @@ It also includes:
 
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
+| `2024-01-25` | [Corbado ↗︎](https://www.producthunt.com/posts/corbado) | #4 |
 | `2023-11-15` | [OpenMeter ↗︎](https://www.producthunt.com/products/openmeter#openmeter) | #2 | #8 |
 | `2023-11-02` | [Liveblocks Comments ↗︎](https://www.producthunt.com/posts/liveblocks-comments) | #5 |
 | `2023-10-18` | [LastMile AI ↗︎](https://www.producthunt.com/products/lastmile-ai#lastmile-ai) | #2 | #4 |
