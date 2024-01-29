@@ -73,6 +73,7 @@ It also includes:
 ## resources
 
 - [Launching developer tools on Product Hunt ↗︎](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt) by [@ronakganatra](https://github.com/ronakganatra) (launched [GraphCMS ↗︎](https://www.producthunt.com/products/graphcms#graphcms-3), ranked #5 POTD)
+- [#1 Developer Tool of the Month ↗︎](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41) by [@tanya-rai](https://github.com/tanya-rai) (launched [LastMile AI ↗︎](https://www.producthunt.com/products/lastmile-ai#lastmile-ai), ranked #2 POTD)
 
 ## about
 
@@ -82,6 +83,10 @@ This repository is maintained by [@fmerian](https://producthunt.com/@fmerian).
 - contributed to launching 20+ dev-first products in 2023;
 - among the most active users;
 - 2022 Community Member of the Year (runner-up).
+
+``` diff
++ available for work: hello at fmerian.com
+```
 
 **Follow me [@fmerian on X ↗︎](https://x.com/fmerian) for more insights.**
 
