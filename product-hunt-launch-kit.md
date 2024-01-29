@@ -88,7 +88,7 @@ Looking for inspiration? [See examples here](https://github.com/fmerian/awesome-
 
 ## gallery
 
-> **Recommended size: 1270x760px.** Upload 3 to 8 images. <br />
+> **Recommended size: 1270x760px.** JPG. PNG. GIF. Upload 2 to 8 images. <br />
 > The first image is used as the social preview when your link is shared online.
 
 ## YouTube video
