@@ -2,7 +2,7 @@
 
 # how to use this file
 
-1. Download or copy the raw file
+1. Download or copy the raw fileor [duplicate this Notion page ↗︎](https://fmerian.notion.site/Product-Hunt-Community-Kit-3a5c0e65e6fc44d7b1e4662417eb121c?pvs=4)
 2. Import or paste it to your fav tool (Notion, Google Docs...)
 3. Fill out the inputs. All set!
 
