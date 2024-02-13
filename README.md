@@ -42,6 +42,7 @@ It also includes:
 | `2023-10-09` | [Payload 2.0 ↗︎](https://www.producthunt.com/posts/payload-2-0) | #2 |
 | `2023-09-28` | [Unrevealed ↗︎](https://www.producthunt.com/posts/unrevealed) | #4 |
 | `2023-09-19` | [Graphite ↗︎](https://www.producthunt.com/products/graphite-5#graphite-6) | #2 | #2 | #3 |
+| `2023-09-08` | [Gitstart ↗︎](https://www.producthunt.com/products/gitstart#gitstart) | #1 | #6 |
 | `2023-08-20` | [Langfuse ↗︎](https://www.producthunt.com/products/langfuse#langfuse) | #1 | #9 |
 | `2023-08-10` | [AI SQL Editor by Supabase ↗︎](https://www.producthunt.com/products/supabase#ai-sql-editor-by-supabase) | #1 | #6 |
 | `2023-06-08` | [Supabase Vector ↗︎](https://www.producthunt.com/products/supabase#supabase-vector) | #5 |
