@@ -75,6 +75,7 @@ It also includes:
 ## resources
 
 - [Launching developer tools on Product Hunt ↗︎](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt) by [@ronakganatra](https://github.com/ronakganatra) (launched [GraphCMS ↗︎](https://www.producthunt.com/products/graphcms#graphcms-3), ranked #5 POTD)
+- [How we launched a dev-first product on Product Hunt ↗︎](https://speakerdeck.com/fmerian/product-hunt) by [@fmerian](https://github.com/fmerian) (launched [Specify ↗︎](https://www.producthunt.com/products/specify#specify-2), ranked #2 POTD)
 - [#1 Developer Tool of the Month ↗︎](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41) by [@tanya-rai](https://github.com/tanya-rai) (launched [LastMile AI ↗︎](https://www.producthunt.com/products/lastmile-ai#lastmile-ai), ranked #2 POTD)
 
 ## about
