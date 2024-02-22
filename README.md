@@ -87,10 +87,6 @@ This repository is maintained by [@fmerian](https://producthunt.com/@fmerian).
 - among the most active users;
 - 2022 Community Member of the Year (runner-up).
 
-``` diff
-+ available for work: hello at fmerian.com
-```
-
 **Follow me [@fmerian on X ↗︎](https://x.com/fmerian) for more insights.**
 
 Enjoy your launch day!
