@@ -70,6 +70,7 @@ It also includes:
 
 > Non-exhaustive list of alternative places to launch dev-first products. more suggestions in [this repository](https://github.com/fmerian/awesome-developer-first-channels). 
 
+- [Beta Console ↗︎](https://console.dev/betas)
 - [DevHunt ↗︎](https://devhunt.org/)
 - [Hacker News (ShowHN) ↗︎](https://news.ycombinator.com/showhn.html)
 
