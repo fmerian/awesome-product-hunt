@@ -33,7 +33,7 @@ It also includes:
 
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
-| `2024-03-16` | [Sacktape ↗︎](https://www.producthunt.com/posts/stacktape) | #3 |
+| `2024-03-16` | [Stacktape ↗︎](https://www.producthunt.com/posts/stacktape) | #3 |
 | `2024-02-26` | [Octomind ↗︎](https://www.producthunt.com/posts/octomind) | #3 |
 | `2024-02-08` | [Retell AI ↗︎](https://www.producthunt.com/posts/retell-ai) | #5 |
 | `2024-01-25` | [Corbado ↗︎](https://www.producthunt.com/posts/corbado) | #4 |
@@ -42,6 +42,7 @@ It also includes:
 | `2023-10-18` | [LastMile AI ↗︎](https://www.producthunt.com/products/lastmile-ai#lastmile-ai) | #2 | #4 |
 | `2023-10-17` | [Appwrite Cloud Beta ↗︎](https://www.producthunt.com/products/appwrite#appwrite-cloud-beta) | #4 |
 | `2023-10-11` | [OpenSauced ↗︎](https://www.producthunt.com/products/opensauced#opensauced) | #5 |
+| `2023-10-10` | [Frigade ↗︎](https://www.producthunt.com/posts/frigade) | #4 |
 | `2023-10-09` | [Payload 2.0 ↗︎](https://www.producthunt.com/posts/payload-2-0) | #2 |
 | `2023-09-28` | [Unrevealed ↗︎](https://www.producthunt.com/posts/unrevealed) | #4 |
 | `2023-09-19` | [Graphite ↗︎](https://www.producthunt.com/products/graphite-5#graphite-6) | #2 | #2 | #3 |
