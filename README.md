@@ -62,6 +62,7 @@ It also includes:
 | `2022-04-06` | [Warp ↗︎](https://www.producthunt.com/products/warp#warp) | #1 | #3 | #3 |
 | `2022-02-24` | [Specify ↗︎](https://www.producthunt.com/products/specify#specify-2) | #2 | #9 |
 | `2021-11-30` | [Raycast API and Store ↗︎](https://www.producthunt.com/posts/raycast-api-and-store) | #1 | #4 |
+| `2021-11-05` | [Clerk Session Management ↗︎](https://www.producthunt.com/products/clerkdev#session-management-by-clerk) | #5 |
 | `2021-09-29` | [Railway ↗︎](https://www.producthunt.com/posts/railway) | #3 |
 | `2021-04-22` | [Clerk ↗︎](https://www.producthunt.com/products/clerk-2#clerk-2) | #4 |
 | `2021-02-17` | [Ray.so ↗︎](https://www.producthunt.com/posts/ray-so) | #3 | #2 | #4 |
