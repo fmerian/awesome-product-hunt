@@ -6,7 +6,7 @@ Looking for inspiration? [See examples here](https://github.com/fmerian/awesome-
 
 ## how to use this file
 
-1. Download or copy the raw file, or [duplicate this Notion page ↗︎](https://fmerian.notion.site/Product-Hunt-Launch-Kit-ef200ab2912045ea8e7719984042e306?pvs=4)
+1. Download or copy the raw file, or [duplicate this Notion page ↗︎](https://dub.sh/launch-kit)
 2. Import or paste it to your fav tool (Notion, Google Docs...)
 3. Fill out the required inputs. All set!
 
@@ -16,6 +16,7 @@ Looking for inspiration? [See examples here](https://github.com/fmerian/awesome-
 - [main info](#main-info)
 - [images and media](#images-and-media)
 - [makers](#makers)
+- [Shoutouts](#shoutouts)
 - [extras](#extras)
 - [review and launch](#review-and-launch)
 - [additional notes](#additional-notes)
@@ -102,6 +103,20 @@ Looking for inspiration? [See examples here](https://github.com/fmerian/awesome-
 
 ```
 
+```
+```
+
+```
+```
+
+```
+
+# shoutouts
+
+> You can shoutout 3 products you use. Their makers will be notified in case they'd like to support your launch.
+
+```
+How do you use the product? Why do you believe it's fantastic?
 ```
 ```
 
