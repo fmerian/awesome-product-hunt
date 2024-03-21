@@ -16,7 +16,7 @@ Looking for inspiration? [See examples here](https://github.com/fmerian/awesome-
 - [main info](#main-info)
 - [images and media](#images-and-media)
 - [makers](#makers)
-- [Shoutouts](#shoutouts)
+- [shoutouts](#shoutouts)
 - [extras](#extras)
 - [review and launch](#review-and-launch)
 - [additional notes](#additional-notes)
@@ -113,7 +113,7 @@ Looking for inspiration? [See examples here](https://github.com/fmerian/awesome-
 
 # shoutouts
 
-> You can shoutout 3 products you use. Their makers will be notified in case they'd like to support your launch.
+> You can shoutout 3 products you use (optional). 200 characters max. Their makers will be notified in case they'd like to support your launch.
 
 ```
 How do you use the product? Why do you believe it's fantastic?
