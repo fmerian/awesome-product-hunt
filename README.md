@@ -33,6 +33,7 @@ It also includes:
 
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
+| `2024-03-27` | [Daytona ↗︎](https://www.producthunt.com/posts/daytona) | #2 | #6 |
 | `2024-03-16` | [Stacktape ↗︎](https://www.producthunt.com/posts/stacktape-2) | #3 |
 | `2024-02-26` | [Octomind ↗︎](https://www.producthunt.com/posts/octomind) | #3 | #7 |
 | `2024-02-08` | [Retell AI ↗︎](https://www.producthunt.com/posts/retell-ai) | #5 |
