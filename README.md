@@ -47,6 +47,7 @@ It also includes:
 | `2023-10-09` | [Payload 2.0 ↗︎](https://www.producthunt.com/posts/payload-2-0) | #2 |
 | `2023-09-28` | [Unrevealed ↗︎](https://www.producthunt.com/posts/unrevealed) | #4 |
 | `2023-09-19` | [Graphite ↗︎](https://www.producthunt.com/products/graphite-5#graphite-6) | #2 | #2 | #3 |
+| `2023-09-12` | [Permit.io ↗︎](https://www.producthunt.com/posts/permit-io) | #1 | #2 | #6 |
 | `2023-09-08` | [Gitstart ↗︎](https://www.producthunt.com/products/gitstart#gitstart) | #1 | #6 |
 | `2023-08-20` | [Langfuse ↗︎](https://www.producthunt.com/products/langfuse#langfuse) | #1 | #9 |
 | `2023-08-10` | [AI SQL Editor by Supabase ↗︎](https://www.producthunt.com/products/supabase#ai-sql-editor-by-supabase) | #1 | #6 |
@@ -84,6 +85,7 @@ It also includes:
 - [Launching developer tools on Product Hunt ↗︎](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt) by [@ronakganatra](https://github.com/ronakganatra) (launched [GraphCMS ↗︎](https://www.producthunt.com/products/graphcms#graphcms-3), ranked #5 POTD)
 - [How we launched a dev-first product on Product Hunt ↗︎](https://speakerdeck.com/fmerian/product-hunt) by [@fmerian](https://github.com/fmerian) (launched [Specify ↗︎](https://www.producthunt.com/products/specify#specify-2), ranked #2 POTD)
 - [#1 Developer Tool of the Month ↗︎](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41) by [@tanya-rai](https://github.com/tanya-rai) (launched [LastMile AI ↗︎](https://www.producthunt.com/products/lastmile-ai#lastmile-ai), ranked #2 POTD)
+- [How we got our Dev Tool ‘Product of the Day’ in Product Hunt](https://www.permit.io/blog/producthunt-howto) by [@danielbass37](https://github.com/danielbass37) (launched [Permit.io ↗︎](https://www.producthunt.com/posts/permit-io), ranked #1 POTD)
 
 ## about
 
