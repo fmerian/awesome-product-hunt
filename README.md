@@ -82,10 +82,10 @@ It also includes:
 
 ## resources
 
-- [Launching developer tools on Product Hunt ↗︎](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt) by [@ronakganatra](https://github.com/ronakganatra) (launched [GraphCMS ↗︎](https://www.producthunt.com/products/graphcms#graphcms-3), ranked #5 POTD)
-- [How we launched a dev-first product on Product Hunt ↗︎](https://speakerdeck.com/fmerian/product-hunt) by [@fmerian](https://github.com/fmerian) (launched [Specify ↗︎](https://www.producthunt.com/products/specify#specify-2), ranked #2 POTD)
-- [#1 Developer Tool of the Month ↗︎](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41) by [@tanya-rai](https://github.com/tanya-rai) (launched [LastMile AI ↗︎](https://www.producthunt.com/products/lastmile-ai#lastmile-ai), ranked #2 POTD)
-- [How we got our Dev Tool ‘Product of the Day’ in Product Hunt](https://www.permit.io/blog/producthunt-howto) by [@danielbass37](https://github.com/danielbass37) (launched [Permit.io ↗︎](https://www.producthunt.com/posts/permit-io), ranked #1 POTD)
+- [Launching developer tools on Product Hunt ↗︎](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt) (2022) by [@ronakganatra](https://github.com/ronakganatra) (launched [GraphCMS ↗︎](https://www.producthunt.com/products/graphcms#graphcms-3), ranked #5 POTD)
+- [How we launched a dev-first product on Product Hunt ↗︎](https://speakerdeck.com/fmerian/product-hunt) (2022) by [@fmerian](https://github.com/fmerian) (launched [Specify ↗︎](https://www.producthunt.com/products/specify#specify-2), ranked #2 POTD)
+- [#1 Developer Tool of the Month ↗︎](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41) (2023) by [@tanya-rai](https://github.com/tanya-rai) (launched [LastMile AI ↗︎](https://www.producthunt.com/products/lastmile-ai#lastmile-ai), ranked #2 POTD)
+- [How we got ‘Product of the Day’ on Product Hunt](https://www.permit.io/blog/producthunt-howto) (2023) by [@danielbass37](https://github.com/danielbass37) (launched [Permit.io ↗︎](https://www.producthunt.com/posts/permit-io), ranked #1 POTD)
 
 ## about
 
@@ -95,6 +95,10 @@ This repository is maintained by [@fmerian](https://producthunt.com/@fmerian).
 - contributed to launching 20+ dev-first products in 2023;
 - among the most active users;
 - 2022 Community Member of the Year (runner-up).
+
+```diff
++ currently available for work: hello at fmerian.com
+```
 
 **Follow me [@fmerian on X ↗︎](https://x.com/fmerian) for more insights.**
 
