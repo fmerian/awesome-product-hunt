@@ -33,41 +33,41 @@ It also includes:
 
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
-| `2024-03-27` | [Daytona ↗︎](https://www.producthunt.com/posts/daytona) | #2 | #6 |
-| `2024-03-16` | [Stacktape ↗︎](https://www.producthunt.com/posts/stacktape-2) | #3 |
-| `2024-02-26` | [Octomind ↗︎](https://www.producthunt.com/posts/octomind) | #3 | #7 |
-| `2024-02-08` | [Retell AI ↗︎](https://www.producthunt.com/posts/retell-ai) | #5 |
-| `2024-01-25` | [Corbado ↗︎](https://www.producthunt.com/posts/corbado) | #4 |
-| `2023-11-15` | [OpenMeter ↗︎](https://www.producthunt.com/products/openmeter#openmeter) | #2 | #8 |
-| `2023-11-02` | [Liveblocks Comments ↗︎](https://www.producthunt.com/posts/liveblocks-comments) | #5 |
-| `2023-10-18` | [LastMile AI ↗︎](https://www.producthunt.com/products/lastmile-ai#lastmile-ai) | #2 | #4 |
-| `2023-10-17` | [Appwrite Cloud Beta ↗︎](https://www.producthunt.com/products/appwrite#appwrite-cloud-beta) | #4 |
-| `2023-10-11` | [OpenSauced ↗︎](https://www.producthunt.com/products/opensauced#opensauced) | #5 |
-| `2023-10-10` | [Frigade ↗︎](https://www.producthunt.com/posts/frigade) | #4 |
-| `2023-10-09` | [Payload 2.0 ↗︎](https://www.producthunt.com/posts/payload-2-0) | #2 |
-| `2023-09-28` | [Unrevealed ↗︎](https://www.producthunt.com/posts/unrevealed) | #4 |
-| `2023-09-19` | [Graphite ↗︎](https://www.producthunt.com/products/graphite-5#graphite-6) | #2 | #2 | #3 |
-| `2023-09-12` | [Permit.io ↗︎](https://www.producthunt.com/posts/permit-io) | #1 | #2 | #6 |
-| `2023-09-08` | [Gitstart ↗︎](https://www.producthunt.com/products/gitstart#gitstart) | #1 | #6 |
-| `2023-08-20` | [Langfuse ↗︎](https://www.producthunt.com/products/langfuse#langfuse) | #1 | #9 |
-| `2023-08-10` | [AI SQL Editor by Supabase ↗︎](https://www.producthunt.com/products/supabase#ai-sql-editor-by-supabase) | #1 | #6 |
-| `2023-06-08` | [Supabase Vector ↗︎](https://www.producthunt.com/products/supabase#supabase-vector) | #5 |
-| `2023-05-10` | [Raycast Pro ↗︎](https://www.producthunt.com/products/raycast#raycast-pro) | #1 | #4 |
-| `2023-04-03` | [Lago ↗︎](https://www.producthunt.com/posts/lago) | #1 | #1 | #1 |
-| `2023-03-17` | [Warp AI ↗︎](https://www.producthunt.com/products/warp#warp-ai) | #2 | #6 |
-| `2023-02-23` | [Raycast AI ↗︎](https://www.producthunt.com/posts/raycast-ai) | #5 |
-| `2023-02-22` | [Typo ↗︎](https://www.producthunt.com/products/typo-3#typo-3) | #1 | #1 | #2 |
-| `2023-02-08` | [Resend ↗︎](https://www.producthunt.com/products/resend#resend-3) | #2 | #2 | #2 |
-| `2022-09-21` | [Appwrite ↗︎](https://www.producthunt.com/products/appwrite#appwrite-2) | #1 | #2 |
-| `2022-07-20` | [Raycast for Teams ↗︎](https://www.producthunt.com/posts/raycast-for-teams) | #4 |
-| `2022-06-13` | [Mintlify ↗︎](https://www.producthunt.com/posts/mintlify) | #1 | #7 |
-| `2022-04-06` | [Warp ↗︎](https://www.producthunt.com/products/warp#warp) | #1 | #3 | #3 |
-| `2022-02-24` | [Specify ↗︎](https://www.producthunt.com/products/specify#specify-2) | #2 | #9 |
-| `2021-11-30` | [Raycast API and Store ↗︎](https://www.producthunt.com/posts/raycast-api-and-store) | #1 | #4 |
-| `2021-11-05` | [Clerk Session Management ↗︎](https://www.producthunt.com/products/clerkdev#session-management-by-clerk) | #5 |
-| `2021-09-29` | [Railway ↗︎](https://www.producthunt.com/posts/railway) | #3 |
-| `2021-04-22` | [Clerk ↗︎](https://www.producthunt.com/products/clerk-2#clerk-2) | #4 |
-| `2021-02-17` | [Ray.so ↗︎](https://www.producthunt.com/posts/ray-so) | #3 | #2 | #4 |
+| `2024-03-27` | [Daytona](https://www.producthunt.com/posts/daytona) | #2 | #6 |
+| `2024-03-16` | [Stacktape](https://www.producthunt.com/posts/stacktape-2) | #3 |
+| `2024-02-26` | [Octomind](https://www.producthunt.com/posts/octomind) | #3 | #7 |
+| `2024-02-08` | [Retell AI](https://www.producthunt.com/posts/retell-ai) | #5 |
+| `2024-01-25` | [Corbado](https://www.producthunt.com/posts/corbado) | #4 |
+| `2023-11-15` | [OpenMeter](https://www.producthunt.com/products/openmeter#openmeter) | #2 | #8 |
+| `2023-11-02` | [Liveblocks Comments](https://www.producthunt.com/posts/liveblocks-comments) | #5 |
+| `2023-10-18` | [LastMile AI](https://www.producthunt.com/products/lastmile-ai#lastmile-ai) | #2 | #4 |
+| `2023-10-17` | [Appwrite Cloud Beta](https://www.producthunt.com/products/appwrite#appwrite-cloud-beta) | #4 |
+| `2023-10-11` | [OpenSauced](https://www.producthunt.com/products/opensauced#opensauced) | #5 |
+| `2023-10-10` | [Frigade](https://www.producthunt.com/posts/frigade) | #4 |
+| `2023-10-09` | [Payload 2.0](https://www.producthunt.com/posts/payload-2-0) | #2 |
+| `2023-09-28` | [Unrevealed](https://www.producthunt.com/posts/unrevealed) | #4 |
+| `2023-09-19` | [Graphite](https://www.producthunt.com/products/graphite-5#graphite-6) | #2 | #2 | #3 |
+| `2023-09-12` | [Permit.io](https://www.producthunt.com/posts/permit-io) | #1 | #2 | #6 |
+| `2023-09-08` | [Gitstart](https://www.producthunt.com/products/gitstart#gitstart) | #1 | #6 |
+| `2023-08-20` | [Langfuse](https://www.producthunt.com/products/langfuse#langfuse) | #1 | #9 |
+| `2023-08-10` | [AI SQL Editor by Supabase](https://www.producthunt.com/products/supabase#ai-sql-editor-by-supabase) | #1 | #6 |
+| `2023-06-08` | [Supabase Vector](https://www.producthunt.com/products/supabase#supabase-vector) | #5 |
+| `2023-05-10` | [Raycast Pro](https://www.producthunt.com/products/raycast#raycast-pro) | #1 | #4 |
+| `2023-04-03` | [Lago](https://www.producthunt.com/posts/lago) | #1 | #1 | #1 |
+| `2023-03-17` | [Warp AI](https://www.producthunt.com/products/warp#warp-ai) | #2 | #6 |
+| `2023-02-23` | [Raycast AI](https://www.producthunt.com/posts/raycast-ai) | #5 |
+| `2023-02-22` | [Typo](https://www.producthunt.com/products/typo-3#typo-3) | #1 | #1 | #2 |
+| `2023-02-08` | [Resend](https://www.producthunt.com/products/resend#resend-3) | #2 | #2 | #2 |
+| `2022-09-21` | [Appwrite](https://www.producthunt.com/products/appwrite#appwrite-2) | #1 | #2 |
+| `2022-07-20` | [Raycast for Teams](https://www.producthunt.com/posts/raycast-for-teams) | #4 |
+| `2022-06-13` | [Mintlify](https://www.producthunt.com/posts/mintlify) | #1 | #7 |
+| `2022-04-06` | [Warp](https://www.producthunt.com/products/warp#warp) | #1 | #3 | #3 |
+| `2022-02-24` | [Specify](https://www.producthunt.com/products/specify#specify-2) | #2 | #9 |
+| `2021-11-30` | [Raycast API and Store](https://www.producthunt.com/posts/raycast-api-and-store) | #1 | #4 |
+| `2021-11-05` | [Session Management by Clerk](https://www.producthunt.com/products/clerkdev#session-management-by-clerk) | #5 |
+| `2021-09-29` | [Railway](https://www.producthunt.com/posts/railway) | #3 |
+| `2021-04-22` | [Clerk](https://www.producthunt.com/products/clerk-2#clerk-2) | #4 |
+| `2021-02-17` | [Ray.so](https://www.producthunt.com/posts/ray-so) | #3 | #2 | #4 |
 
 - Want to add more examples? See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-product-hunt/blob/main/CONTRIBUTING.md)
 - **If you enjoyed this list, please do [repost this ↗︎](https://twitter.com/fmerian/status/1718968543088439685)**
@@ -76,25 +76,25 @@ It also includes:
 
 > Non-exhaustive list of alternative places to launch dev-first products. more suggestions in [this repository](https://github.com/fmerian/awesome-developer-first-channels). 
 
-- [Beta Console ↗︎](https://console.dev/betas)
-- [DevHunt ↗︎](https://devhunt.org/)
-- [Hacker News (ShowHN) ↗︎](https://news.ycombinator.com/showhn.html)
+- [Beta Console](https://console.dev/betas)
+- [DevHunt](https://devhunt.org/)
+- [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html)
 
 ## resources
 
 ### blog posts
 
-- [Launching dev tools on Product Hunt ↗︎](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt) (2022) by [@ronakganatra](https://github.com/ronakganatra) (launched [GraphCMS](https://www.producthunt.com/products/graphcms#graphcms-3), ranked #5 POTD)
-- [#1 Developer Tool of the Month ↗︎](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41) (2023) by [@tanya-rai](https://github.com/tanya-rai) (launched [LastMile AI](https://www.producthunt.com/products/lastmile-ai#lastmile-ai), ranked #2 POTD)
-- [How we got 'Product of the Day' ↗︎](https://www.permit.io/blog/producthunt-howto) (2023) by [@danielbass37](https://github.com/danielbass37) (launched [Permit.io](https://www.producthunt.com/posts/permit-io), ranked #1 POTD)
+- [Launching dev tools on Product Hunt](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt) (2022) by [@ronakganatra](https://github.com/ronakganatra) (launched [GraphCMS](https://www.producthunt.com/products/graphcms#graphcms-3), ranked #5 POTD)
+- [#1 Developer Tool of the Month](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41) (2023) by [@tanya-rai](https://github.com/tanya-rai) (launched [LastMile AI](https://www.producthunt.com/products/lastmile-ai#lastmile-ai), ranked #2 POTD)
+- [How we got 'Product of the Day'](https://www.permit.io/blog/producthunt-howto) (2023) by [@danielbass37](https://github.com/danielbass37) (launched [Permit.io](https://www.producthunt.com/posts/permit-io), ranked #1 POTD)
 
 ### podcast episodes
 
-- [Launching on Product Hunt](https://spti.fi/meow), Scaling DevTools (2024) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify#specify-2), ranked #2 POTD)
+- [Launching on Product Hunt](https://spti.fi/meow) on Scaling DevTools (2024) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify#specify-2), ranked #2 POTD)
 
 ### presentations
 
-- [Setting up the launchpad ↗︎](https://speakerdeck.com/fmerian/product-hunt) (2022) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify#specify-2), ranked #2 POTD)
+- [Setting up the launchpad](https://speakerdeck.com/fmerian/product-hunt) (2022) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify#specify-2), ranked #2 POTD)
 
 ## about
 
