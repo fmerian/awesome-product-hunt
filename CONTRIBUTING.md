@@ -17,7 +17,7 @@ Some guidelines:
   - Make sure the PR title is in the format: `Add {product}`
 - Add the link:
 ```
-| `YYYY-MM-DD` | [Name of the product ↗︎](https://www.producthunt.com/posts/{slug}) | #0 | #0 | #0 |
+| `YYYY-MM-DD` | [Name of the product](https://www.producthunt.com/posts/{slug}) | #0 | #0 | #0 |
 ```
 - Make sure the new submission isn't a duplicate
 - Check the spelling and grammar
