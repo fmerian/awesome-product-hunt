@@ -83,7 +83,9 @@ It also includes:
 
 ## resources
 
-- [Product Hunt Launch Guide](https://www.producthunt.com/launch), by Product Hunt
+> Sorted by release date.
+
+- [Product Hunt Launch Guide](https://www.producthunt.com/launch) by Product Hunt
 
 ### blog posts
 
