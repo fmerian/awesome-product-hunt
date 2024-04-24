@@ -35,7 +35,7 @@ It also includes:
 | ------- | ------- | ------- | ------- | ------- |
 | `2024-04-18` | [Pullpo.io](https://www.producthunt.com/posts/pullpo-io-2) | #2 |
 | `2024-04-17` | [Dagster+](https://www.producthunt.com/posts/dagster) | #5 |
-| `2024-04-15` | [Supabase](https://www.producthunt.com/posts/supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2) | #1 |
+| `2024-04-15` | [Supabase](https://www.producthunt.com/posts/supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2) | #1 | #1 |
 | `2024-03-27` | [Daytona](https://www.producthunt.com/posts/daytona) | #2 | #6 |
 | `2024-03-16` | [Stacktape](https://www.producthunt.com/posts/stacktape-2) | #3 |
 | `2024-02-26` | [Octomind](https://www.producthunt.com/posts/octomind) | #3 | #7 |
