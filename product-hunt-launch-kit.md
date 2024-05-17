@@ -24,6 +24,7 @@ Looking for inspiration? [See examples here](https://github.com/fmerian/awesome-
 # link to the product
 
 ```
+https://
 ```
 
 # main info
@@ -51,10 +52,10 @@ Looking for inspiration? [See examples here](https://github.com/fmerian/awesome-
 > GitHub repository, Chrome Web Store, Firefox Add-ons page…
 
 ```
-
+https://
 ```
 ```
-
+https://
 ```
 
 - [ ] Is this an open-source project?
@@ -94,30 +95,41 @@ Explain how you discovered the product. Invite people to join the conversation, 
 
 ## thumbnail
 
-> **Recommended size: 240x240px.** JPG. PNG. GIF. Max size: 2MB.
+> **Recommended size: 240x240px.** JPG. PNG. GIF. Max size: 2MB. Animated images will only play on hover.
 
 ## gallery
 
 > **Recommended size: 1270x760px.** JPG. PNG. GIF. Max size: 10MB. Upload 2 to 8 images. <br />
 > The first image is used as the social preview when your link is shared online.
 
-## YouTube video
+## video / Loom
 
-> Optional, but showing how the product works is helpful to convince people. <br />
-> If you do add a video, it will appear as the first item in the gallery.
+> Upload an optional video from YouTube or Loom to show people how to use your product or share your maker story. Video helps you connect with viewers.
+
+```
+Link to the video / loom
+```
+
+## interactive video
+
+> Add an interactive demo (optional) to showcase your product's functionality and tell the story of your launch better. Build your demo with ScreenSpace or Arcade - both are free for Product Hunt launches.
+
+```
+Link to the demo
+```
 
 # makers
 
 > Who worked on this product? You’re free to add anyone who worked on the product with Product Hunt username of Twitter / X handles.
 
 ```
-
+@
 ```
 ```
-
+@
 ```
 ```
-
+@
 ```
 
 # shoutouts
