@@ -76,11 +76,15 @@ https://
 
 ## topics
 
-> **Select up to three topics.** [Browse full list here](https://www.producthunt.com/topics).
+> **Select up to three topics.** [Browse full list here ↗︎](https://www.producthunt.com/topics)
 
 -   
 -
 -
+
+## categories
+
+> Your product's category defines what the product is, does or what specific problem it solves. [Browse full list here ↗︎](https://www.producthunt.com/categories)
 
 ## first comment
 
