@@ -33,6 +33,7 @@ It also includes:
 
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
+| `2024-05-23` | [StarSearch by OpenSauced](https://www.producthunt.com/posts/starsearch) | #3 |
 | `2024-04-26` | [Langfuse 2.0](https://www.producthunt.com/posts/langfuse-2-0) | #1 | #8 |
 | `2024-04-18` | [Pullpo.io](https://www.producthunt.com/posts/pullpo-io-2) | #2 |
 | `2024-04-17` | [Dagster+](https://www.producthunt.com/posts/dagster) | #5 |
