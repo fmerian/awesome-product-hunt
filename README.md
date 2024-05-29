@@ -11,9 +11,9 @@ It also includes:
 - [product-hunt-launch-kit.md](https://github.com/fmerian/product-hunt/blob/main/product-hunt-launch-kit.md): required inputs to submit a new product;
 - [product-hunt-community-kit.md](https://github.com/fmerian/product-hunt/blob/main/product-hunt-community-kit.md): ideas to leverage your network;
 
-**Want to contribute? See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-product-hunt/blob/main/CONTRIBUTING.md)**
+**Want to contribute? Awesome! See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-product-hunt/blob/main/CONTRIBUTING.md)**
 
-## table of contents
+## contents
 
 - [glossary](#glossary)
 - [examples](#examples)
@@ -74,16 +74,20 @@ It also includes:
 | `2021-04-22` | [Clerk](https://www.producthunt.com/products/clerk-2#clerk-2) | #4 |
 | `2021-02-17` | [Ray.so](https://www.producthunt.com/posts/ray-so) | #3 | #2 | #4 |
 
-- Want to add more examples? See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-product-hunt/blob/main/CONTRIBUTING.md)
-- **If you enjoyed this list, please do [repost this ↗︎](https://twitter.com/fmerian/status/1718968543088439685)**
+- Want to add more examples? Awesome! See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-product-hunt/blob/main/CONTRIBUTING.md)
+- **If you enjoyed this list, please do [repost this](https://twitter.com/fmerian/status/1718968543088439685)**
+
+[Back to top ↑](#contents)
 
 ## alternatives
 
-> Non-exhaustive list of alternative places to launch dev-first products. more suggestions in [this repository](https://github.com/fmerian/awesome-developer-first-channels). 
+> Non-exhaustive list of alternative places to launch dev-first products. Domain ratings by Ahrefs. More suggestions in [this repository](https://git.new/channels). 
 
-- [Beta Console](https://console.dev/betas)
-- [DevHunt](https://devhunt.org/)
-- [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html)
+- [Beta Console](https://console.dev/betas) (54)
+- [DevHunt](https://devhunt.org/) (54)
+- [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (90)
+
+[Back to top ↑](#contents)
 
 ## resources
 
@@ -106,6 +110,8 @@ It also includes:
 ### presentations
 
 - [Setting up the launchpad](https://speakerdeck.com/fmerian/product-hunt) (2022) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify#specify-2), ranked #2 POTD)
+
+[Back to top ↑](#contents)
 
 ## about
 
