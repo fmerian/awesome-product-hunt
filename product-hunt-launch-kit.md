@@ -68,7 +68,7 @@ https://
 
 ## description
 
-> **260 characters max.** Supports basic HTML: `<strong>`, `<em>`, `<a>`, `<li>`, `<code>`.
+> **260 characters max.** Supports basic HTML: `<strong>`, `<em>`, `<a>`, `<li>`.
 
 ``` html
 
@@ -89,7 +89,7 @@ https://
 ## first comment
 
 > This comment is posted when your product launches. Adding a first comment is essential to get the discussion started. <br />
-> Supports basic HTML: `<strong>`, `<em>`, `<a>`, `<li>`, `<code>`.
+> Supports basic HTML: `<strong>`, `<em>`, `<a>`, `<li>`.
 
 ``` html
 Explain how you discovered the product. Invite people to join the conversation, ask questions to the Makers.
@@ -104,6 +104,7 @@ Explain how you discovered the product. Invite people to join the conversation, 
 ## gallery
 
 > **Recommended size: 1270x760px.** JPG. PNG. GIF. Max size: 10MB. Upload 2 to 8 images. <br />
+> Show the product. Avoid stock images and marketing fluff. You can add social proof and a call-to-action to inspire action. <br />
 > The first image is used as the social preview when your link is shared online.
 
 ## video / Loom
