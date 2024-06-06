@@ -13,6 +13,10 @@ It also includes:
 
 **Want to contribute? Awesome! See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-product-hunt/blob/main/CONTRIBUTING.md)**
 
+```diff
++ watch this repo to get notifications about new product launches
+```
+
 ## contents
 
 - [glossary](#glossary)
@@ -35,6 +39,7 @@ It also includes:
 | ------- | ------- | ------- | ------- | ------- |
 | `2024-05-23` | [StarSearch by OpenSauced](https://www.producthunt.com/posts/starsearch) | #3 |
 | `2024-04-26` | [Langfuse 2.0](https://www.producthunt.com/posts/langfuse-2-0) | #1 | #8 |
+| `2024-04-23` | [Subframe](https://www.producthunt.com/posts/subframe) | #1 | #4 |
 | `2024-04-18` | [Pullpo.io](https://www.producthunt.com/posts/pullpo-io-2) | #2 |
 | `2024-04-17` | [Dagster+](https://www.producthunt.com/posts/dagster) | #5 |
 | `2024-04-15` | [Supabase](https://www.producthunt.com/posts/supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2) | #1 | #1 | #1 |
@@ -81,7 +86,8 @@ It also includes:
 
 ## alternatives
 
-> Non-exhaustive list of alternative places to launch dev-first products. Domain ratings by Ahrefs. More suggestions in [this repository](https://git.new/channels). 
+> Non-exhaustive list of alternative places to launch dev-first products. Domain ratings by Ahrefs. 
+> More suggestions in [this repository](https://git.new/channels). 
 
 - [Beta Console](https://console.dev/betas) (54)
 - [DevHunt](https://devhunt.org/) (54)
