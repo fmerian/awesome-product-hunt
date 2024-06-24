@@ -2,14 +2,14 @@
 
 Product Hunt is a great place to launch a developer tool.
 
-Many developer-first products successfully launched there. For inspiration, you can find [success stories](#resources) and [examples](#examples) below.
+Many developer-first products successfully launched there. For inspiration, you can find stories and examples below.
 
-This repository includes a [wiki](https://github.com/fmerian/awesome-product-hunt/wiki) with bit-sized tips and [discussions](https://github.com/fmerian/awesome-product-hunt/discussions) to help you prep your launch and enjoy it.
+This repository includes a wiki with bit-sized pro tips and discussions to help you prep your launch and enjoy it.
 
 It also includes:
 
-- [product-hunt-launch-kit.md](https://github.com/fmerian/product-hunt/blob/main/product-hunt-launch-kit.md): required inputs to submit a new product;
-- [product-hunt-community-kit.md](https://github.com/fmerian/product-hunt/blob/main/product-hunt-community-kit.md): ideas to leverage your network;
+- [product-hunt-launch-kit.md](https://git.new/meow/kit): required inputs to submit a new product;
+- [product-hunt-community-kit.md](https://git.new/meow/community): ideas to leverage your network;
 
 **Want to contribute? Awesome! See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-product-hunt/blob/main/CONTRIBUTING.md)**
 
@@ -37,6 +37,7 @@ It also includes:
 
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
+| `2024-06-23` | [UI Components by Auth0](https://www.producthunt.com/posts/ui-components-2) | #3 |
 | `2024-06-13` | [Liveblocks 2.0](https://www.producthunt.com/posts/liveblocks-2-0) | #4 |
 | `2024-06-12` | [MotherDuck](https://www.producthunt.com/posts/motherduck) | #5 |
 | `2024-05-23` | [StarSearch by OpenSauced](https://www.producthunt.com/posts/starsearch) | #3 |
@@ -93,7 +94,7 @@ It also includes:
 > More suggestions in [this repository](https://git.new/channels). 
 
 - [Beta Console](https://console.dev/betas) (54)
-- [DevHunt](https://devhunt.org/) (54)
+- [DevHunt](https://devhunt.org/) (55)
 - [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (90)
 
 [Back to top ↑](#contents)
@@ -127,7 +128,7 @@ It also includes:
 This repository is maintained by [@fmerian](https://producthunt.com/@fmerian).
 
 - launched twice on Product Hunt in 2022;
-- contributed to launching 20+ dev-first products in 2023;
+- contributed to launching 40+ dev-first products in 2023 and 2024;
 - among the most active users;
 - 2022 Community Member of the Year (runner-up).
 
@@ -135,6 +136,6 @@ This repository is maintained by [@fmerian](https://producthunt.com/@fmerian).
 + currently available for work: hello at fmerian.com
 ```
 
-**Follow me [@fmerian on 𝕏 ↗︎](https://x.com/fmerian) for more insights.**
+**Follow me [@fmerian on 𝕏](https://x.com/fmerian) for more insights.**
 
 Enjoy your launch day!
