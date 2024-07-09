@@ -51,6 +51,7 @@ It also includes:
 | `2024-02-26` | [Octomind](https://www.producthunt.com/posts/octomind) | #3 | #7 |
 | `2024-02-08` | [Retell AI](https://www.producthunt.com/posts/retell-ai) | #5 |
 | `2024-01-25` | [Corbado](https://www.producthunt.com/posts/corbado) | #4 |
+| `2023-12-19` | [Pieces Copilot](https://www.producthunt.com/posts/pieces-copilot) | #2 |
 | `2023-11-15` | [OpenMeter](https://www.producthunt.com/products/openmeter#openmeter) | #2 | #8 |
 | `2023-11-02` | [Liveblocks Comments](https://www.producthunt.com/posts/liveblocks-comments) | #5 |
 | `2023-10-18` | [LastMile AI](https://www.producthunt.com/products/lastmile-ai#lastmile-ai) | #2 | #4 |
@@ -64,6 +65,7 @@ It also includes:
 | `2023-09-08` | [Gitstart](https://www.producthunt.com/products/gitstart#gitstart) | #1 | #6 |
 | `2023-08-20` | [Langfuse](https://www.producthunt.com/products/langfuse#langfuse) | #1 | #9 |
 | `2023-08-10` | [AI SQL Editor by Supabase](https://www.producthunt.com/products/supabase#ai-sql-editor-by-supabase) | #1 | #6 |
+| `2023-06-23` | [Pieces for Developers](https://www.producthunt.com/posts/pieces-for-developers) | #5 |
 | `2023-06-08` | [Supabase Vector](https://www.producthunt.com/products/supabase#supabase-vector) | #5 |
 | `2023-05-10` | [Raycast Pro](https://www.producthunt.com/products/raycast#raycast-pro) | #1 | #4 | #9 |
 | `2023-04-03` | [Lago](https://www.producthunt.com/posts/lago) | #1 | #1 | #1 |
