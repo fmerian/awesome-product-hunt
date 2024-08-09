@@ -37,6 +37,7 @@ It also includes:
 
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
+| `2024-08-08` | [Inkeep](https://www.producthunt.com/posts/inkeep) | #3 |
 | `2024-08-01` | [Not Diamond](https://www.producthunt.com/posts/not-diamond) | #1 |
 | `2024-06-23` | [UI Components by Auth0](https://www.producthunt.com/posts/ui-components-2) | #3 |
 | `2024-06-13` | [Liveblocks 2.0](https://www.producthunt.com/posts/liveblocks-2-0) | #4 |
