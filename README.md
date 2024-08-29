@@ -113,6 +113,7 @@ It also includes:
 ### blog posts
 
 - [42 launches on Product Hunt](https://dev.to/fmerian/series/27917) (2024) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify#specify-2), ranked #2 POTD)
+- [Automate a Product Hunt launch](https://www.helicone.ai/blog/product-hunt-automate) (2024) by [@colegottdank](https://github.com/colegottdank) (launched [Helicone AI](https://www.producthunt.com/posts/helicone-ai), ranked #1 POTD)
 - [How Daytona survived from Product Hunt](https://dev.to/daytona/how-we-missed-1-on-product-hunt-but-still-won-big-1gig) (2024) by [@nkko](https://github.com/nkkko) (launched [Daytona](https://www.producthunt.com/posts/daytona), ranked #2 POTD)
 - [#1 Developer Tool of the Month](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41) (2023) by [@tanya-rai](https://github.com/tanya-rai) (launched [LastMile AI](https://www.producthunt.com/products/lastmile-ai#lastmile-ai), ranked #2 POTD)
 - [How Permit.io got #1 Product of the Day](https://www.permit.io/blog/producthunt-howto) (2023) by [@danielbass37](https://github.com/danielbass37) (launched [Permit.io](https://www.producthunt.com/posts/permit-io), ranked #1 POTD)
