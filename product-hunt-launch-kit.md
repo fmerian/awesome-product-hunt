@@ -84,11 +84,11 @@ https://
 
 ## categories
 
-> Your product's category defines what the product is, does or what specific problem it solves. [Browse full list here ↗︎](https://www.producthunt.com/categories)
+> `optional` Your product's category defines what the product is, does or what specific problem it solves. [Browse full list here ↗︎](https://www.producthunt.com/categories)
 
 ## first comment
 
-> This comment is posted when your product launches. Adding a first comment is essential to get the discussion started. <br />
+> `optional` This comment is posted when your product launches. Adding a first comment is essential to get the discussion started. <br />
 > Supports basic HTML: `<strong>`, `<em>`, `<a>`, `<li>`.
 
 ``` html
@@ -109,7 +109,7 @@ Explain how you discovered the product. Invite people to join the conversation, 
 
 ## video / Loom
 
-> Upload an optional video from YouTube or Loom to show people how to use your product or share your maker story. Video helps you connect with viewers.
+> `optional` Upload a video from YouTube or Loom to show people how to use your product or share your maker story. Video helps you connect with viewers.
 
 ```
 Link to the video / loom
@@ -117,7 +117,7 @@ Link to the video / loom
 
 ## interactive video
 
-> Add an interactive demo (optional) to showcase your product's functionality and tell the story of your launch better. Build your demo with ScreenSpace or Arcade - both are free for Product Hunt launches.
+> `optional` Add an interactive demo to showcase your product's functionality and tell the story of your launch better. Build your demo with ScreenSpace or Arcade - both are free for Product Hunt launches.
 
 ```
 Link to the demo
@@ -139,7 +139,7 @@ Link to the demo
 
 # shoutouts
 
-> You can shoutout 3 products you use (optional). 200 characters max. Their makers will be notified in case they'd like to support your launch.
+> `optional` You can shoutout products you use. 200 characters max. Their makers will be notified in case they'd like to support your launch.
 
 ```
 How do you use the product? Why do you believe it's fantastic?
@@ -155,7 +155,7 @@ How do you use the product? Why do you believe it's fantastic?
 
 ## pricing
 
-> Optional, but the community really appreciates knowing.
+> `optional` The community really appreciates knowing.
 
 -   [ ] **Free** - The product is free to use.
 -   [ ] **Paid** - The product requires payment and there's no free option.
@@ -163,7 +163,7 @@ How do you use the product? Why do you believe it's fantastic?
 
 ## promo code
 
-> If you'd like to offer a promo code for the Product Hunt community, you can add it here. <br />
+> `optional` If you'd like to offer a promo code for the Product Hunt community, you can add it here. <br />
 > All fields must be completed to have a valid promo offer.
 
 | What's the offer?     | 3 months free |
