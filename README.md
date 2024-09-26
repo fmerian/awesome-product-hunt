@@ -37,6 +37,7 @@ It also includes:
 
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
+| `2024-09-25` | [Workflow Kit by Inngest](https://www.producthunt.com/posts/workflow-kit-by-inngest) | #5 |
 | `2024-08-22` | [Helicone AI](https://www.producthunt.com/posts/helicone-ai) | #1 | #2 |
 | `2024-08-08` | [Inkeep](https://www.producthunt.com/posts/inkeep) | #3 |
 | `2024-08-01` | [Not Diamond](https://www.producthunt.com/posts/not-diamond) | #1 |
@@ -112,7 +113,7 @@ It also includes:
 
 ### blog posts
 
-- [42 launches on Product Hunt](https://dev.to/fmerian/series/27917) (2024) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify#specify-2), ranked #2 POTD)
+- [Lessons from 42 launches on Product Hunt](https://dev.to/fmerian/series/27917) (2024) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify#specify-2), ranked #2 POTD)
 - [Automate a Product Hunt launch](https://www.helicone.ai/blog/product-hunt-automate) (2024) by [@colegottdank](https://github.com/colegottdank) (launched [Helicone AI](https://www.producthunt.com/posts/helicone-ai), ranked #1 POTD)
 - [How Daytona survived from Product Hunt](https://dev.to/daytona/how-we-missed-1-on-product-hunt-but-still-won-big-1gig) (2024) by [@nkko](https://github.com/nkkko) (launched [Daytona](https://www.producthunt.com/posts/daytona), ranked #2 POTD)
 - [#1 Developer Tool of the Month](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41) (2023) by [@tanya-rai](https://github.com/tanya-rai) (launched [LastMile AI](https://www.producthunt.com/products/lastmile-ai#lastmile-ai), ranked #2 POTD)
