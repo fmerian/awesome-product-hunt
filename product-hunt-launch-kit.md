@@ -82,10 +82,6 @@ https://
 -
 -
 
-## categories
-
-> `optional` Your product's category defines what the product is, does or what specific problem it solves. [Browse full list here ↗︎](https://www.producthunt.com/categories)
-
 ## first comment
 
 > `optional` This comment is posted when your product launches. Adding a first comment is essential to get the discussion started. <br />
@@ -181,7 +177,6 @@ How do you use the product? Why do you believe it's fantastic?
 - [ ] Product tagline `*`
 - [ ] Description `*`
 - [ ] Topics `*`
-- [ ] Categories
 - [ ] First comment
 - [ ] Thumbnail `*`
 - [ ] Image gallery `*`
