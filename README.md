@@ -38,6 +38,7 @@ It also includes:
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
 | `2024-10-11` | [Octomind QA Agent](https://www.producthunt.com/posts/octomind-qa-agent) | #1 |
+| `2024-10-09` | [Layouts.dev](https://www.producthunt.com/posts/layouts-dev) | #2 |
 | `2024-09-25` | [Workflow Kit by Inngest](https://www.producthunt.com/posts/workflow-kit-by-inngest) | #5 |
 | `2024-08-22` | [Helicone AI](https://www.producthunt.com/posts/helicone-ai) | #1 | #2 |
 | `2024-08-08` | [Inkeep](https://www.producthunt.com/posts/inkeep) | #3 |
