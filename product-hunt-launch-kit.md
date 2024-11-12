@@ -6,7 +6,7 @@ This file includes the required inputs to submit a new product on Product Hunt.
 
 ## how to use this file
 
-1. Download or copy the raw file, or [duplicate this Notion page ↗︎](https://dub.sh/launch-kit)
+1. Download or copy the raw file, or [duplicate this Notion page ↗︎](https://meooow.link/launch-kit)
 2. Import or paste it to your fav tool (Notion, Google Docs...)
 3. Fill out the required inputs. All set!
 
@@ -74,9 +74,9 @@ https://
 
 ```
 
-## topics
+## launch tags
 
-> **Select up to three topics.** [Browse full list here ↗︎](https://www.producthunt.com/topics)
+> **Select up to three tags.** [Browse full list here ↗︎](https://www.producthunt.com/topics)
 
 -   
 -
@@ -176,7 +176,7 @@ How do you use the product? Why do you believe it's fantastic?
 - [ ] Product name `*`
 - [ ] Product tagline `*`
 - [ ] Description `*`
-- [ ] Topics `*`
+- [ ] Launch tags `*`
 - [ ] First comment
 - [ ] Thumbnail `*`
 - [ ] Image gallery `*`
