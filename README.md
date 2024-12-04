@@ -37,6 +37,8 @@ It also includes:
 
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
+| `2024-12-03` | [Supabase AI Assistant](https://www.producthunt.com/posts/supabase-ai-assistant-lw24) | #2 |
+| `2024-12-03` | [Trigger.dev Realtime API](https://www.producthunt.com/posts/trigger-dev-realtime-ai-lw24) | #4 |
 | `2024-11-10` | [Trench](https://www.producthunt.com/posts/trench) | #3 |
 | `2024-10-30` | [bolt.new](https://www.producthunt.com/posts/bolt-new) | #1 | #2 | #9 |
 | `2024-10-11` | [Octomind QA Agent](https://www.producthunt.com/posts/octomind-qa-agent) | #1 |
