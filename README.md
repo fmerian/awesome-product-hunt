@@ -37,13 +37,15 @@ It also includes:
 
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
-| `2024-12-03` | [Supabase AI Assistant](https://www.producthunt.com/posts/supabase-ai-assistant-lw24) | #2 |
+| `2024-12-18` | [Tempo Labs](https://www.producthunt.com/posts/tempo-labs) | #1 |
+| `2024-12-05` | [Reflex Cloud](https://www.producthunt.com/products/reflex-5#reflex-cloud) | #1 | #8 |
+| `2024-12-03` | [Supabase AI Assistant](https://www.producthunt.com/posts/supabase-ai-assistant-lw24) | #2 | #6 |
 | `2024-12-03` | [Trigger.dev Realtime API](https://www.producthunt.com/posts/trigger-dev-realtime-ai-lw24) | #4 |
 | `2024-11-10` | [Trench](https://www.producthunt.com/posts/trench) | #3 |
 | `2024-10-30` | [bolt.new](https://www.producthunt.com/posts/bolt-new) | #1 | #2 | #9 |
 | `2024-10-11` | [Octomind QA Agent](https://www.producthunt.com/posts/octomind-qa-agent) | #1 |
-| `2024-10-10` | [Latitude](https://www.producthunt.com/posts/latitude-7) | #2 |
-| `2024-10-09` | [Layouts.dev](https://www.producthunt.com/posts/layouts-dev) | #2 |
+| `2024-10-10` | [Latitude](https://www.producthunt.com/posts/latitude-7) | #2 | #8 |
+| `2024-10-09` | [Layouts.dev](https://www.producthunt.com/posts/layouts-dev) | #2 | #6 |
 | `2024-09-25` | [Workflow Kit by Inngest](https://www.producthunt.com/posts/workflow-kit-by-inngest) | #5 |
 | `2024-08-22` | [Helicone AI](https://www.producthunt.com/posts/helicone-ai) | #1 | #2 |
 | `2024-08-08` | [Inkeep](https://www.producthunt.com/posts/inkeep) | #3 |
