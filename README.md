@@ -37,7 +37,7 @@ It also includes:
 
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
-| `2024-12-18` | [Tempo Labs](https://www.producthunt.com/posts/tempo-labs) | #1 |
+| `2024-12-18` | [Tempo Labs](https://www.producthunt.com/posts/tempo-labs) | #1 | #3 |
 | `2024-12-05` | [Reflex Cloud](https://www.producthunt.com/products/reflex-5#reflex-cloud) | #1 | #8 |
 | `2024-12-03` | [Supabase AI Assistant](https://www.producthunt.com/posts/supabase-ai-assistant-lw24) | #2 | #6 |
 | `2024-12-03` | [Trigger.dev Realtime API](https://www.producthunt.com/posts/trigger-dev-realtime-ai-lw24) | #4 |
@@ -110,7 +110,9 @@ It also includes:
 
 - [Beta Console](https://console.dev/betas) (54)
 - [DevHunt](https://devhunt.org/) (55)
+- [early.tools](https://www.early.tools/submit) (26)
 - [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (90)
+- [launchweek.dev](https://launchweek.dev/) (19)
 
 [Back to top ↑](#contents)
 
@@ -146,7 +148,7 @@ This repository is maintained by [@fmerian](https://producthunt.com/@fmerian).
 
 - launched twice on Product Hunt in 2022;
 - contributed to launching 40+ dev-first products in 2023 and 2024;
-- among the most active users;
+- among the Top 3 most active users;
 - 2022 Community Member of the Year (runner-up).
 
 ```diff
