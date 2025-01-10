@@ -97,6 +97,10 @@ Explain how you discovered the product. Invite people to join the conversation, 
 
 > **Recommended size: 240x240px.** JPG. PNG. GIF. Max size: 2MB. Animated images will only play on hover.
 
+## header image
+
+> **Recommended size: 1200x630px.** JPG, PNG, GIF. Max size: 2MB.
+
 ## gallery
 
 > **Recommended size: 1270x760px.** JPG. PNG. GIF. Max size: 10MB. Upload 2 to 8 images. <br />
