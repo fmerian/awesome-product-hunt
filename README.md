@@ -37,6 +37,7 @@ It also includes:
 
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
+| `2025-01-23` | [Opengrep](https://www.producthunt.com/posts/opengrep) | #5 |
 | `2025-01-18` | [Grep by Vercel](https://www.producthunt.com/posts/grep-by-vercel) | #2 |
 | `2024-12-18` | [Tempo Labs](https://www.producthunt.com/posts/tempo-labs) | #1 | #3 | #9 |
 | `2024-12-05` | [Reflex Cloud](https://www.producthunt.com/products/reflex-5#reflex-cloud) | #1 | #8 |
