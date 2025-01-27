@@ -37,6 +37,7 @@ It also includes:
 
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
+| `2025-01-26` | [Tailwind Catalyst](https://www.producthunt.com/posts/catalyst-6) | #3 |
 | `2025-01-23` | [Jolt AI](https://www.producthunt.com/posts/usejolt-ai) | #3 |
 | `2025-01-23` | [Opengrep](https://www.producthunt.com/posts/opengrep) | #5 |
 | `2025-01-18` | [Grep by Vercel](https://www.producthunt.com/posts/grep-by-vercel) | #2 |
