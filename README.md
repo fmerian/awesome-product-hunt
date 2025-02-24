@@ -37,7 +37,8 @@ It also includes:
 
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
-| `2025-02-19` | [Lingo.dev](https://www.producthunt.com/posts/lingodotdev) | #2 |
+| `2025-02-23` | [Flags SDK by Vercel](https://www.producthunt.com/posts/flags-sdk-by-vercel) | #2 |
+| `2025-02-19` | [Lingo.dev](https://www.producthunt.com/posts/lingodotdev) | #2 | #4 |
 | `2025-01-26` | [Tailwind Catalyst](https://www.producthunt.com/posts/catalyst-6) | #3 |
 | `2025-01-23` | [Jolt AI](https://www.producthunt.com/posts/usejolt-ai) | #3 |
 | `2025-01-23` | [Opengrep](https://www.producthunt.com/posts/opengrep) | #5 |
