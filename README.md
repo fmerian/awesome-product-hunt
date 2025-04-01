@@ -117,11 +117,10 @@ It also includes:
 > Non-exhaustive list of alternative places to launch dev-first products. Domain ratings by Ahrefs. 
 > More suggestions in [this repository](https://git.new/channels). 
 
-- [Beta Console](https://console.dev/betas) (54)
-- [DevHunt](https://devhunt.org/) (55)
-- [early.tools](https://www.early.tools/submit) (26)
+- [DevHunt](https://devhunt.org/) (58)
+- [early.tools](https://www.early.tools/submit) (21)
 - [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (90)
-- [launchweek.dev](https://launchweek.dev/) (19)
+- [launchweek.dev](https://launchweek.dev/) (30)
 
 [Back to top ↑](#contents)
 
