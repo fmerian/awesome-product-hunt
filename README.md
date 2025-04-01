@@ -28,7 +28,9 @@ It also includes:
 
 ## upcoming
 
+- [Metabase Embedded Analytics](https://www.producthunt.com/products/metabase) — live on April 8
 - [Blnk Finance](https://www.producthunt.com/products/blnk-finance) — live on April 10
+- [cognee](https://www.producthunt.com/products/cognee) — live on April 11
 
 ## glossary
 
