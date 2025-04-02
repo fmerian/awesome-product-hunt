@@ -48,17 +48,20 @@ It also includes:
 | `2025-03-25` | [Inferless](https://www.producthunt.com/posts/inferless) | #1 | #4 |
 | `2025-03-03` | [Producta](https://www.producthunt.com/posts/producta-2) | #4 |
 | `2025-02-23` | [Flags SDK by Vercel](https://www.producthunt.com/posts/flags-sdk-by-vercel) | #2 |
-| `2025-02-19` | [Lingo.dev](https://www.producthunt.com/posts/lingodotdev) | #2 | #4 |
+| `2025-02-19` | [Lingo.dev](https://www.producthunt.com/posts/lingodotdev) | #2 | #4 | #9 |
 | `2025-01-26` | [Tailwind Catalyst](https://www.producthunt.com/posts/catalyst-6) | #3 |
 | `2025-01-23` | [Jolt AI](https://www.producthunt.com/posts/usejolt-ai) | #3 |
 | `2025-01-23` | [Opengrep](https://www.producthunt.com/posts/opengrep) | #5 |
 | `2025-01-18` | [Grep by Vercel](https://www.producthunt.com/posts/grep-by-vercel) | #2 |
+| `2025-01-11` | [21st.dev](https://www.producthunt.com/posts/21st-dev-2) | #1 | #3 | #5 |
 | `2024-12-18` | [Tempo Labs](https://www.producthunt.com/posts/tempo-labs) | #1 | #3 | #9 |
 | `2024-12-05` | [Reflex Cloud](https://www.producthunt.com/products/reflex-5#reflex-cloud) | #1 | #8 |
 | `2024-12-03` | [Supabase AI Assistant](https://www.producthunt.com/posts/supabase-ai-assistant-lw24) | #2 | #6 |
 | `2024-12-03` | [Trigger.dev Realtime API](https://www.producthunt.com/posts/trigger-dev-realtime-ai-lw24) | #4 |
+| `2024-11-21` | [Lovable](https://www.producthunt.com/posts/lovable) | #1 | #4 | #5 |
 | `2024-11-10` | [Trench](https://www.producthunt.com/posts/trench) | #3 |
 | `2024-10-30` | [bolt.new](https://www.producthunt.com/posts/bolt-new) | #1 | #2 | #9 |
+| `2024-10-21` | [Trag](https://www.producthunt.com/posts/trag) | #1 | #1 | #2 | 
 | `2024-10-11` | [Octomind QA Agent](https://www.producthunt.com/posts/octomind-qa-agent) | #1 |
 | `2024-10-10` | [Latitude](https://www.producthunt.com/posts/latitude-7) | #2 | #8 |
 | `2024-10-09` | [Layouts.dev](https://www.producthunt.com/posts/layouts-dev) | #2 | #6 |
