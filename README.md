@@ -44,6 +44,7 @@ It also includes:
 
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
+| `2025-04-02` | [Supabase UI Library](https://www.producthunt.com/posts/supabase-ui-library) | #4 |
 | `2025-03-26` | [Pulse](https://www.producthunt.com/posts/pulse-for-elasticsearch-and-opensearch) | #2 | #8 |
 | `2025-03-25` | [Inferless](https://www.producthunt.com/posts/inferless) | #1 | #4 |
 | `2025-03-03` | [Producta](https://www.producthunt.com/posts/producta-2) | #4 |
