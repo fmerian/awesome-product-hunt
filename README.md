@@ -28,7 +28,6 @@ It also includes:
 
 ## upcoming
 
-- [Metabase Embedded Analytics](https://www.producthunt.com/products/metabase) — live on April 8
 - [Blnk Finance](https://www.producthunt.com/products/blnk-finance) — live on April 10
 - [cognee](https://www.producthunt.com/products/cognee) — live on April 11
 
@@ -44,6 +43,7 @@ It also includes:
 
 | Launch date | Product | `POTD` | `POTW` | `POTM` |
 | ------- | ------- | ------- | ------- | ------- |
+| `2025-04-08` | [Metabase Embedded Analytics](https://www.producthunt.com/posts/metabase-embedded-analytics) | #3 |
 | `2025-04-02` | [Supabase UI Library](https://www.producthunt.com/posts/supabase-ui-library) | #4 |
 | `2025-03-26` | [Pulse](https://www.producthunt.com/posts/pulse-for-elasticsearch-and-opensearch) | #2 | #8 |
 | `2025-03-25` | [Inferless](https://www.producthunt.com/posts/inferless) | #1 | #4 |
