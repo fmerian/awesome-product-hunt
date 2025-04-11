@@ -28,7 +28,6 @@ It also includes:
 
 ## upcoming
 
-- [Blnk Finance](https://www.producthunt.com/products/blnk-finance) — live on April 10
 - [cognee](https://www.producthunt.com/products/cognee) — live on April 11
 
 ## glossary
