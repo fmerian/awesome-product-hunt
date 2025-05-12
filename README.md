@@ -1,4 +1,4 @@
-# product-hunt
+# Awesome Product Hunt
 
 Product Hunt _is_ a great place to launch a developer tool.
 
@@ -8,8 +8,8 @@ This repository includes a wiki with bit-sized pro tips and discussions to help 
 
 It also includes:
 
-- [product-hunt-launch-kit.md](https://git.new/meow/kit): required inputs to submit a new product;
-- [product-hunt-community-kit.md](https://git.new/meow/community): ideas to leverage your network;
+- [product-hunt-launch-kit.md](https://git.new/meow/kit): required inputs to submit a new product
+- [product-hunt-community-kit.md](https://git.new/meow/community): ideas to leverage your network
 
 **Want to contribute? Awesome! See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-product-hunt/blob/main/CONTRIBUTING.md)**
 
@@ -17,26 +17,21 @@ It also includes:
 + watch this repo to get notifications about new product launches
 ```
 
-## contents
+## Contents
 
-- [upcoming](#upcoming)
-- [glossary](#glossary)
-- [examples](#examples)
-- [alternatives](#alternatives)
-- [resources](#resources)
-- [about](#about)
+- [Glossary](#glossary)
+- [Examples](#examples)
+- [Alternatives](#alternatives)
+- [Resources](#resources)
+- [About](#about)
 
-## upcoming
+## Glossary
 
-- 
+- `POTD` = Product of the Day
+- `POTW` = Product of the Week
+- `POTM` = Product of the Month
 
-## glossary
-
-- `POTD` = Product of the Day;
-- `POTW` = Product of the Week;
-- `POTM` = Product of the Month;
-
-## examples
+## Examples
 
 > Sorted by launch date.
 
@@ -123,7 +118,7 @@ It also includes:
 
 [Back to top ↑](#contents)
 
-## alternatives
+## Alternatives
 
 > Non-exhaustive list of alternative places to launch dev-first products. Domain ratings by Ahrefs. 
 > More suggestions in [this repository](https://git.new/channels). 
@@ -135,40 +130,40 @@ It also includes:
 
 [Back to top ↑](#contents)
 
-## resources
+## Resources
 
 > Sorted by release date.
 
 - [Product Hunt Launch Guide](https://www.producthunt.com/launch) by Product Hunt
 
-### blog posts
+### Blog posts
 
 - [Lessons from 42 launches on Product Hunt](https://dev.to/fmerian/series/27917) (2024) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify#specify-2), ranked #2 POTD)
 - [Automate a Product Hunt launch](https://www.helicone.ai/blog/product-hunt-automate) (2024) by [@colegottdank](https://github.com/colegottdank) (launched [Helicone AI](https://www.producthunt.com/posts/helicone-ai), ranked #1 POTD)
 - [How Daytona survived from Product Hunt](https://dev.to/daytona/how-we-missed-1-on-product-hunt-but-still-won-big-1gig) (2024) by [@nkko](https://github.com/nkkko) (launched [Daytona](https://www.producthunt.com/posts/daytona), ranked #2 POTD)
 - [#1 Developer Tool of the Month](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41) (2023) by [@tanya-rai](https://github.com/tanya-rai) (launched [LastMile AI](https://www.producthunt.com/products/lastmile-ai#lastmile-ai), ranked #2 POTD)
 - [How Permit.io got #1 Product of the Day](https://www.permit.io/blog/producthunt-howto) (2023) by [@danielbass37](https://github.com/danielbass37) (launched [Permit.io](https://www.producthunt.com/posts/permit-io), ranked #1 POTD)
-- [Lago's Product Hunt Launch Playbook](https://git.new/meow/lago) (2023) by [@anhtho-lago](https://github.com/anhtho-lago) (launched [Lago](https://www.producthunt.com/posts/lago), ranked #1 POTM);
+- [Lago's Product Hunt Launch Playbook](https://git.new/meow/lago) (2023) by [@anhtho-lago](https://github.com/anhtho-lago) (launched [Lago](https://www.producthunt.com/posts/lago), ranked #1 POTM)
 - [Launching dev tools on Product Hunt](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt) (2022) by [@ronakganatra](https://github.com/ronakganatra) (launched [GraphCMS](https://www.producthunt.com/products/graphcms#graphcms-3), ranked #5 POTD)
 
-### podcast episodes
+### Podcast episodes
 
 - [Launching on Product Hunt](https://spti.fi/meow) on Scaling DevTools (2024) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify#specify-2), ranked #2 POTD)
 
-### presentations
+### Presentations
 
 - [Setting up the launchpad](https://speakerdeck.com/fmerian/product-hunt) (2022) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify#specify-2), ranked #2 POTD)
 
 [Back to top ↑](#contents)
 
-## about
+## About
 
-This repository is maintained by [@fmerian](https://producthunt.com/@fmerian).
+This repository is maintained by [@fmerian](https://producthunt.com/@fmerian):
 
-- launched twice on Product Hunt in 2022;
-- contributed to launching 40+ dev-first products in 2023 and 2024;
-- among the Top 3 most active users;
-- 2022 Community Member of the Year (runner-up).
+- launched twice on Product Hunt in 2022
+- contributed to launching 40+ dev-first products in 2023 and 2024
+- among the Top 3 most active users
+- 2022 Community Member of the Year (runner-up)
 
 ```diff
 + currently available for work: hello at fmerian.com
