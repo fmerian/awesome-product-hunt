@@ -13,9 +13,8 @@ It also includes:
 
 **Want to contribute? Awesome! See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-product-hunt/blob/main/CONTRIBUTING.md)**
 
-```diff
-+ watch this repo to get notifications about new product launches
-```
+> [!TIP] 
+> Watch this repo to get notifications about new product launches
 
 ## Contents
 
@@ -165,10 +164,6 @@ This repository is maintained by [@fmerian](https://producthunt.com/@fmerian):
 - among the Top 3 most active users
 - 2022 Community Member of the Year (runner-up)
 
-```diff
-+ currently available for work: hello at fmerian.com
-```
-
-**Follow me [@fmerian on 𝕏](https://x.com/fmerian) for more insights.**
+**Follow me [@fmerian on 𝕏](https://x.com/fmerian) for more insights. DM for help and support.**
 
 Enjoy your launch day!
