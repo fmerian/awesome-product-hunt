@@ -36,6 +36,7 @@ It also includes:
 
 | Launch date  | Product                                                                                                  | `POTD` | `POTW` | `POTM` |
 | ------------ | -------------------------------------------------------------------------------------------------------- | ------ | ------ | ------ |
+| `2025-05-19` | [Appwrite Sites](https://www.producthunt.com/posts/appwrite-sites)                                                    | #1 |
 | `2025-04-11` | [cognee](https://www.producthunt.com/products/cognee)                                                    | #3 |
 | `2025-04-08` | [Metabase Embedded Analytics](https://www.producthunt.com/posts/metabase-embedded-analytics)             | #3 |
 | `2025-04-02` | [Supabase UI Library](https://www.producthunt.com/posts/supabase-ui-library)                             | #4 | #9 |
