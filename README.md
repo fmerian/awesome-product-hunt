@@ -36,6 +36,7 @@ It also includes:
 
 | Launch date  | Product                                                                                                  | `POTD` | `POTW` | `POTM` |
 | ------------ | -------------------------------------------------------------------------------------------------------- | ------ | ------ | ------ |
+| `2025-06-06` | [next-forge](https://www.producthunt.com/posts/next-forge-by-vercel)                                     | #4 |
 | `2025-05-25` | [Kibo UI](https://www.producthunt.com/posts/kibo-ui)                                                     | #3 |
 | `2025-05-19` | [Appwrite Sites](https://www.producthunt.com/posts/appwrite-sites)                                       | #1 | #4 | #4 |
 | `2025-05-18` | [Magic UI](https://www.producthunt.com/posts/magic-ui-2)                                                 | #1 |
