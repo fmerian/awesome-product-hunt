@@ -38,6 +38,7 @@ It also includes:
 | ------------ | -------------------------------------------------------------------------------------------------------- | ------ | ------ | ------ |
 | `2025-06-06` | [next-forge](https://www.producthunt.com/posts/next-forge-by-vercel)                                     | #4 |
 | `2025-05-25` | [Kibo UI](https://www.producthunt.com/posts/kibo-ui)                                                     | #3 |
+| `2025-05-21` | [Schematic](https://www.producthunt.com/posts/schematic)                                                 | #3 |
 | `2025-05-19` | [Appwrite Sites](https://www.producthunt.com/posts/appwrite-sites)                                       | #1 | #4 | #4 |
 | `2025-05-18` | [Magic UI](https://www.producthunt.com/posts/magic-ui-2)                                                 | #1 |
 | `2025-04-11` | [cognee](https://www.producthunt.com/products/cognee)                                                    | #3 |
