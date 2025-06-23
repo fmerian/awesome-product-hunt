@@ -36,7 +36,7 @@ It also includes:
 
 | Launch date  | Product                                                                                                  | `POTD` | `POTW` | `POTM` |
 | ------------ | -------------------------------------------------------------------------------------------------------- | ------ | ------ | ------ |
-| `2025-06-18` | [Liveblocks 3.0](https://www.producthunt.com/posts/liveblocks-3-0)                                       | #1 |
+| `2025-06-18` | [Liveblocks 3.0](https://www.producthunt.com/posts/liveblocks-3-0)                                       | #1 | #6 |
 | `2025-06-17` | [Laravel Nightwatch](https://www.producthunt.com/posts/laravel-nightwatch)                               | #4 |
 | `2025-06-06` | [next-forge](https://www.producthunt.com/posts/next-forge-by-vercel)                                     | #4 |
 | `2025-05-25` | [Kibo UI](https://www.producthunt.com/posts/kibo-ui)                                                     | #3 |
