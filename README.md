@@ -36,6 +36,7 @@ It also includes:
 
 | Launch date  | Product                                                                                                  | `POTD` | `POTW` | `POTM` |
 | ------------ | -------------------------------------------------------------------------------------------------------- | ------ | ------ | ------ |
+| `2025-06-25` | [FlashDocs API](https://www.producthunt.com/posts/flashdocs-api/)                                        | #2 |
 | `2025-06-23` | [AI Assistant by Mintlify](https://www.producthunt.com/posts/ai-assistant-by-mintlify)                   | #3 |
 | `2025-06-18` | [Liveblocks 3.0](https://www.producthunt.com/posts/liveblocks-3-0)                                       | #1 | #6 |
 | `2025-06-17` | [Laravel Nightwatch](https://www.producthunt.com/posts/laravel-nightwatch)                               | #4 |
