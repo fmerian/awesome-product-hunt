@@ -4,13 +4,13 @@ This file includes the required inputs to submit a new product on Product Hunt.
 
 **Looking for inspiration? [See examples here](https://github.com/fmerian/awesome-product-hunt?tab=readme-ov-file#examples).**
 
-## how to use this file
+## How to use this file
 
 1. Download or copy the raw file, or [duplicate this Notion page ↗︎](https://meooow.link/launch-kit)
 2. Import or paste it to your fav tool (Notion, Google Docs...)
 3. Fill out the required inputs. All set!
 
-# contents
+# Contents
 
 - [link to the product](#link-to-the-product)
 - [main info](#main-info)
@@ -21,15 +21,15 @@ This file includes the required inputs to submit a new product on Product Hunt.
 - [review and launch](#review-and-launch)
 - [additional notes](#additional-notes)
 
-# link to the product
+# Link to the product
 
 ```
 https://
 ```
 
-# main info
+# Main info
 
-## name of the product
+## Name of the product
 
 > **40 characters max.** Simply the name of the product.
 
@@ -37,7 +37,7 @@ https://
 
 ```
 
-## tagline
+## Tagline
 
 > **60 characters max.** Tell what the product does in a concise and descriptive tagline. Avoid hyperbolic words and emojis.
 
@@ -45,9 +45,9 @@ https://
 
 ```
 
-## links
+## Links
 
-### links to the product
+### Links to the product
 
 > GitHub repository, Chrome Web Store, Firefox Add-ons page…
 
@@ -66,15 +66,15 @@ https://
 @
 ```
 
-## description
+## Description
 
-> **260 characters max.** Supports basic HTML: `<strong>`, `<em>`, `<a>`, `<li>`.
+> **260 characters max.**
 
 ``` html
 
 ```
 
-## launch tags
+## Launch tags
 
 > **Select up to three tags.** [Browse full list here ↗︎](https://www.producthunt.com/topics)
 
@@ -82,32 +82,27 @@ https://
 -
 -
 
-## first comment
+## First comment
 
-> `optional` This comment is posted when your product launches. Adding a first comment is essential to get the discussion started. <br />
-> Supports basic HTML: `<strong>`, `<em>`, `<a>`, `<li>`.
+> `optional` This comment is posted when your product launches. Adding a first comment helps get the discussion started.
 
 ``` html
-Explain how you discovered the product. Invite people to join the conversation, ask questions to the Makers.
+Why did you build this? What's new and unique about your launch compared to alternatives? What are you most proud of in this launch?
 ```
 
-# images and media
+# Images and media
 
-## thumbnail
+## Thumbnail
 
 > **Recommended size: 240x240px.** JPG. PNG. GIF. Max size: 2MB. Animated images will only play on hover.
 
-## header image
+## Gallery
 
-> **Recommended size: 1200x630px.** JPG, PNG, GIF. Max size: 2MB.
-
-## gallery
-
-> **Recommended size: 1270x760px.** JPG. PNG. GIF. Max size: 10MB. Upload 2 to 8 images. <br />
+> **Recommended size: 1270x760px.** JPG. PNG. GIF. Max size: 10MB. Upload 3 to 8 images. <br />
 > Show the product. Avoid stock images and marketing fluff. You can add social proof and a call-to-action to inspire action. <br />
 > The first image is used as the social preview when your link is shared online.
 
-## video / Loom
+## Video / Loom
 
 > `optional` Upload a video from YouTube or Loom to show people how to use your product or share your maker story. Video helps you connect with viewers.
 
@@ -115,17 +110,17 @@ Explain how you discovered the product. Invite people to join the conversation, 
 Link to the video / loom
 ```
 
-## interactive video
+## Interactive video
 
-> `optional` Add an interactive demo to showcase your product's functionality and tell the story of your launch better. Build your demo with ScreenSpace or Arcade - both are free for Product Hunt launches.
+> `optional` Add an interactive demo to showcase your product's functionality and tell the story of your launch better. Build your demo with Arcade, Storylane, or Supademo - both are free for Product Hunt launches.
 
 ```
 Link to the demo
 ```
 
-# makers
+# Makers
 
-> Who worked on this product? You’re free to add anyone who worked on the product with their Product Hunt usernames or email.
+> Who worked on this launch? You’re free to add anyone who worked on this launch with their Product Hunt usernames or email.
 
 ```
 @
@@ -137,7 +132,7 @@ Link to the demo
 @
 ```
 
-# shoutouts
+# Shoutouts
 
 > `optional` You can shoutout products you use. 200 characters max. Their makers will be notified in case they'd like to support your launch.
 
@@ -151,17 +146,17 @@ How do you use the product? Why do you believe it's fantastic?
 
 ```
 
-# extras
+# Extras
 
-## pricing
+## Pricing
 
 > `optional` The community really appreciates knowing.
 
--   [ ] **Free** - The product is free to use.
--   [ ] **Paid** - The product requires payment and there's no free option.
--   [ ] **Paid (with a free trial or plan)** - The product requires payment and offers a free trial or version.
+-   [ ] **Free** - The product is free to use
+-   [ ] **Paid** - The product requires payment and there's no free option
+-   [ ] **Paid (with a free trial or plan)** - The product requires payment and offers a free trial or version
 
-## promo code
+## Promo code
 
 > `optional` If you'd like to offer a promo code for the Product Hunt community, you can add it here. <br />
 > All fields must be completed to have a valid promo offer.
@@ -171,7 +166,7 @@ How do you use the product? Why do you believe it's fantastic?
 | Promo code            | PH10OFF       |
 | Expiration date       | None          |
 
-# review and launch
+# Review and launch
 
 - **Launch checklist:**
 
@@ -190,7 +185,7 @@ How do you use the product? Why do you believe it's fantastic?
   
 - **Launch date:** `YYYY-MM-DD`
 
-# additional notes
+# Additional notes
 
 - You can still edit your post and change the launch date by adding `/edit` to the end of your URL.
 
