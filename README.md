@@ -129,13 +129,14 @@ It also includes:
 
 ## Alternatives
 
-> Non-exhaustive list of alternative places to launch dev-first products. Domain ratings by Ahrefs. 
+> Non-exhaustive list of alternative places to launch dev-first products, sorted by domain rating. Domain ratings by Ahrefs. 
 > More suggestions in [this repository](https://git.new/channels). 
 
-- [DevHunt](https://devhunt.org/) (58)
-- [early.tools](https://www.early.tools/submit) (21)
 - [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (90)
-- [launchweek.dev](https://launchweek.dev/) (30)
+- [Uneed](https://www.uneed.best/submit-a-tool?atp=fmerian) (67)
+- [DevHunt](https://devhunt.org/) (58)
+- [launchweek.dev](https://launchweek.dev/) (29)
+- [early.tools](https://www.early.tools/submit) (24)
 
 [Back to top ↑](#contents)
 
@@ -169,10 +170,10 @@ It also includes:
 
 This repository is maintained by [@fmerian](https://producthunt.com/@fmerian):
 
-- launched twice on Product Hunt in 2022
-- contributed to launching 40+ dev-first products in 2023 and 2024
-- among the Top 3 most active users
-- 2022 Community Member of the Year (runner-up)
+- Launched twice on Product Hunt in 2022
+- Contributed to launching 40+ dev-first products in 2023 and 2024
+- Among the Top 3 most active users
+- Brand Ambassador and 2022 Community Member of the Year (runner-up)
 
 **Follow me [@fmerian on 𝕏](https://x.com/fmerian) for more insights. DM for help and support.**
 
