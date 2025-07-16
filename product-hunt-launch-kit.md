@@ -98,7 +98,7 @@ Why did you build this? What's new and unique about your launch compared to alte
 
 ## Gallery
 
-> **Recommended size: 1270x760px.** JPG. PNG. GIF. Max size: 10MB. Upload 3 to 8 images. <br />
+> **Optimized size: 1200x630px.** JPG. PNG. GIF. Max size: 10MB. Product Hunt recommends at least 3 or more images. <br />
 > Show the product. Avoid stock images and marketing fluff. You can add social proof and a call-to-action to inspire action. <br />
 > The first image is used as the social preview when your link is shared online.
 
@@ -112,7 +112,7 @@ Link to the video / loom
 
 ## Interactive video
 
-> `optional` Add an interactive demo to showcase your product's functionality and tell the story of your launch better. Build your demo with Arcade, Storylane, or Supademo - both are free for Product Hunt launches.
+> `optional` Add an interactive demo to showcase your product's functionality and tell the story of your launch better. Build your demo with Arcade, Storylane, Hexus, Supademo, Layerpath, or ScreenSpace - all are free for Product Hunt launches.
 
 ```
 Link to the demo
@@ -134,7 +134,7 @@ Link to the demo
 
 # Shoutouts
 
-> `optional` You can shoutout products you use. 200 characters max. Their makers will be notified in case they'd like to support your launch.
+> `optional` You can shoutout products you use. Your launch will be listed on the Product Pages of companies you shout out. Also, launches with shoutouts are more likely to be featured on the homepage.
 
 ```
 How do you use the product? Why do you believe it's fantastic?
