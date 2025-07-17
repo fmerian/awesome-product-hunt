@@ -32,7 +32,7 @@ It also includes:
 
 ## Examples
 
-> Sorted by launch date.
+> Sorted by launch date. [Go to next section ↓](#alternatives)
 
 | Launch date  | Product                                                                                                  | Tagline                                                      | `POTD` | `POTW` | `POTM` |
 | ------------ | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------ | ------ | ------ |
@@ -171,7 +171,7 @@ It also includes:
 This repository is maintained by [@fmerian](https://producthunt.com/@fmerian):
 
 - Launched twice on Product Hunt in 2022
-- Contributed to launching 40+ dev-first products in 2023 and 2024
+- Contributed to launching 42+ dev-first products in 2023 and 2024
 - Among the Top 3 most active users
 - Brand Ambassador and 2022 Community Member of the Year (runner-up)
 
