@@ -39,7 +39,7 @@ https://
 
 ## Tagline
 
-> **60 characters max.** Tell what the product does in a concise and descriptive tagline. Avoid hyperbolic words and emojis.
+> **60 characters max.** Tell what the product does in a concise and descriptive tagline. Avoid hyperbolic words and emojis. The most important part? [See examples here](https://github.com/fmerian/awesome-product-hunt?tab=readme-ov-file#examples).
 
 ```
 
