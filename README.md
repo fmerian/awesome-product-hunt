@@ -8,6 +8,7 @@ This repository includes a wiki with bit-sized pro tips and discussions to help 
 
 It also includes:
 
+- [product-hunt-launch-guide.md](https://git.new/meow/guide): best practices when launching on Product Hunt
 - [product-hunt-launch-kit.md](https://git.new/meow/kit): required inputs to submit a new product
 - [product-hunt-community-kit.md](https://git.new/meow/community): ideas to leverage your network
 
