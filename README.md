@@ -1,4 +1,4 @@
-# Awesome Product Hunt
+# Awesome Product Hunt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Product Hunt _is_ a great place to launch a developer tool.
 
