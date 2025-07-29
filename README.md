@@ -148,6 +148,7 @@ It also includes:
 
 ### Blog posts
 
+- [Did Appwrite do the ideal Product Hunt launch?](https://git.new/meow/appwrite) (2025) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
 - [Lessons from 42 launches on Product Hunt](https://dev.to/fmerian/series/27917) (2024) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
 - [Automate a Product Hunt launch](https://www.helicone.ai/blog/product-hunt-automate) (2024) by [@colegottdank](https://github.com/colegottdank) (launched [Helicone AI](https://www.producthunt.com/products/helicone-ai/launches/helicone-ai), ranked #1 POTD)
 - [How Daytona survived from Product Hunt](https://dev.to/daytona/how-we-missed-1-on-product-hunt-but-still-won-big-1gig) (2024) by [@nkko](https://github.com/nkkko) (launched [Daytona](https://www.producthunt.com/products/daytona/launches/daytona), ranked #2 POTD)
