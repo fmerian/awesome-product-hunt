@@ -37,6 +37,7 @@ It also includes:
 
 | Launch date  | Product                                                                                                                              | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | ------ | ------ | ------ |
+| `2025-08-03` | [Hypertune](https://www.producthunt.com/products/hypertune/launches/hypertune)                                                       | Type-safe feature flags. Optimized for React and Next.js         | #4 |
 | `2025-07-29` | [Magic Patterns](https://www.producthunt.com/products/magicpatterns/launches/magic-patterns-2)                                       | Design new features with AI                                         | #1 |
 | `2025-06-25` | [FlashDocs API](https://www.producthunt.com/products/flashdocs-api/launches/flashdocs-api/)                                          | Custom Google Slides & PowerPoints via AI-powered API               | #2 |
 | `2025-06-23` | [AI Assistant by Mintlify](https://www.producthunt.com/products/mintlify/launches/ai-assistant-by-mintlify)                          | A conversational, agentic asisstant built into your docs            | #3 |
