@@ -37,7 +37,7 @@ It also includes:
 
 | Launch date  | Product                                                                                                                              | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | ---- | -- | -- |
-| `2025-08-25` | [AI Elements by Vercel](https://www.producthunt.com/products/vercel/launches/ai-elements-by-vercel)                                  | The shadcn/ui component library for building AI-native apps         | #4 |
+| `2025-08-25` | [AI Elements by Vercel](https://www.producthunt.com/products/vercel/launches/ai-elements-by-vercel)                                  | The shadcn/ui component library for building AI-native apps         | #5 |
 | `2025-08-12` | [v0.app by Vercel](https://www.producthunt.com/products/v0/launches/v0-app-by-vercel)                                                | The AI builder for everyone                                         | #4 |
 | `2025-08-03` | [Hypertune](https://www.producthunt.com/products/hypertune/launches/hypertune)                                                       | Type-safe feature flags. Optimized for React and Next.js            | #4 |
 | `2025-07-29` | [Magic Patterns](https://www.producthunt.com/products/magicpatterns/launches/magic-patterns-2)                                       | Design new features with AI                                         | #1 |
