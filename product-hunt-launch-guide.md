@@ -26,13 +26,13 @@ Rishabh Kaul, Head of Marketing at Appsmith, who launched in March 2023 and rank
 
 To start, some definitions:
 
-- **Maker**: a user who works on the product;
-- **Hunter**: a user who submits a product and doesn't work on it;
-- **Upvoter**: a user who upvotes a product;
-- **Commenter**: a user who comments on a product;
-- **Launch page**: where your launched product lives;
-- **Kitty coins**: Novice (Level 0-100), Bronze (Level 101-500), Silver (Level 501-1,000), Gold (Level 1,001+);
-- **Ranking**: Product of the Day / Week / Month / Year (i.e. Golden Kitty Award).
+- **Maker**: a user who works on the product
+- **Hunter**: a user who submits a product and doesn't work on it
+- **Upvoter**: a user who upvotes a product
+- **Commenter**: a user who comments on a product
+- **Launch page**: where your launched product lives
+- **Kitty coins**: Novice (Level 0-100), Bronze (Level 101-500), Silver (Level 501-1,000), Gold (Level 1,001+)
+- **Ranking**: Product of the Day / Week / Month / Year (i.e. Golden Kitty Award)
 
 Let's be upfront. Over the years, I've contributed to launching many dev-first products and, is there a secret sauce? _No._
 
@@ -120,11 +120,10 @@ In [this blog post](https://medium.com/@rrhoover/building-a-startup-build-an-aud
 
 You can schedule your launch up to 30 days ahead. Below are some ideas to get started:
 
-- Create a [Coming Soon](https://www.producthunt.com/coming-soon) page
-- Add your upcoming launch on [hunted.space](https://hunted.space) and [git.new/meow](https://git.new/meow#upcoming)
-- Announce it in your Product Hub `/p/{yourProduct}` — see example from Bucket [here](https://meooow.link/bucket/soon)
-- Schedule as much content as possible: social posts, website banner, email campaigns
+- Announce it in your Product Forum `/p/{yourProduct}` — see example from Bucket [here](https://meooow.link/bucket/soon)
 - [Host an AMA session](https://www.producthunt.com/stories/how-to-host-a-successful-ama-on-product-hunt) — see examples from Bucket [here](https://meooow.link/bucket/ama) and Supabase [there](https://meooow.link/rorstro)
+- Add your upcoming launch on [hunted.space](https://hunted.space) and [git.new/meow](https://git.new/meow/upcoming)
+- Schedule as much content as possible: social posts, website banner, email campaigns
 - Support other product launches
 
 Also, make sure to tease your network and community early.
@@ -136,8 +135,8 @@ Also, make sure to tease your network and community early.
 **Pro tip**: use a URL shortener like [Dub](https://mktto.dev/dub) as a backdoor edit button.
 
 1. Create your short, memorable URL
-2. Link it to your Coming Soon page, e.g. `/products/{yourProduct}`
-3. Update it on launch day, e.g. `/posts/{yourProduct}`
+2. Link it to your Product Hub, e.g. `/products/{yourProduct}`
+3. Update it on launch day, e.g. `/products/{yourProduct}/launches/{slug}`
 
 In [this file](https://git.new/meow/community), I suggest some ideas to leverage your community:
 
@@ -189,14 +188,14 @@ Make this launch day an opportunity to celebrate your efforts with your team and
 You just launched your developer tool on Product Hunt. Bravo!
 
 There's two more things to keep the momentum going:
-1. Maximize efforts and,
-2. Keep launching.
+1. Maximize efforts
+2. Keep launching
 
 ### Maximize efforts
 
 With the assets you've worked on for your Product Hunt launch, you can maximize efforts by launching on more places, like [Hacker News](https://git.new/meow/hn) and [Dev Hunt](https://git.new/meow/dh), an open-source alternative for dev-first products.
 
-## Keep launching
+### Keep launching
 
 Launching on Product Hunt isn't a one-time opportunity. Launch early, launch often.
 
@@ -204,7 +203,7 @@ According to [Product Hunt](https://meooow.link/hc/repost), you have to "_wait a
 
 Product Hunt pays off in the long term, where the best teams keep launching.
 
-Take Stripe. The company launched [69 times](https://www.producthunt.com/products/stripe/launches) on Product Hunt in the last 10 years. Supabase launched [15 times](https://www.producthunt.com/products/supabase/launches) in the last 4 years. Raycast has launched [15 products](https://www.producthunt.com/products/raycast/launches) since 2020.
+Take Stripe. The company launched [69 times](https://www.producthunt.com/products/stripe/launches) on Product Hunt in the last 10 years. Supabase launched [16 times](https://www.producthunt.com/products/supabase/launches) in the last 4 years. Raycast has launched [15 products](https://www.producthunt.com/products/raycast/launches) since 2020.
 
 **Launching multiple times creates a tailwind.** 
 — [Repost this](https://twitter.com/fmerian/status/1676554020348100610)
@@ -215,21 +214,21 @@ Luis Guzmán, Head of Marketing at n8n (launched [5 times](https://www.producthu
 >
 > — [Luis Guzmán](https://www.linkedin.com/in/guzmanluis/), Head of Marketing, n8n
 
-Keep launching.
+Launch, and keep launching.
 
 ## Further inspiration
 
 Below are more resources for inspiration:
 
-- [Product Hunt Launch Guide](https://www.producthunt.com/launch), by Product Hunt;
-- [Lago's Product Hunt Launch Playbook](https://github.com/getlago/lago/wiki/Product-Hunt-launch-:-our-handbook), by [Lago](https://www.producthunt.com/products/lago#lago) (launched in April 2023, ranked #1 Product of the Month);
-- [How not to launch on Product Hunt](https://plausible.io/blog/product-hunt-launch), by [Plausible](https://www.producthunt.com/products/plausible-analytics#plausible-analytics) (launched in August 2020, ranked #2 Product of the Day).
+- [Product Hunt Launch Guide](https://www.producthunt.com/launch), by Product Hunt
+- [Lago's Product Hunt Launch Playbook](https://github.com/getlago/lago/wiki/Product-Hunt-launch-:-our-handbook), by [Lago](https://www.producthunt.com/products/lago#lago) (launched in April 2023, ranked #1 Product of the Month)
+- [How not to launch on Product Hunt](https://plausible.io/blog/product-hunt-launch), by [Plausible](https://www.producthunt.com/products/plausible-analytics#plausible-analytics) (launched in August 2020, ranked #2 Product of the Day)
 
 You can find here more resources to help you get started:
 
-- [awesome-product-hunt](https://git.new/meow): a collection of great dev-first product launches;
-- [product-hunt-launch-kit.md](https://git.new/meow/kit): required inputs to submit a new product;
-- [product-hunt-community-kit.md](https://git.new/meow/community): ideas to leverage your network;
+- [awesome-product-hunt](https://git.new/meow): a collection of great dev-first product launches
+- [product-hunt-launch-kit.md](https://git.new/meow/kit): required inputs to submit a new product
+- [product-hunt-community-kit.md](https://git.new/meow/community): ideas to leverage your network
 
 ## Wrapping up
 
