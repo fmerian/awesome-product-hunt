@@ -2,7 +2,7 @@
 
 Product Hunt _is_ a great place to launch a developer tool.
 
-Many developer-first products successfully launched there. For inspiration, you can find stories and examples below.
+Many developer-first products successfully launched there. You can find here their stories and more examples for inspiration.
 
 This repository includes a wiki with bit-sized pro tips and discussions to help you prep your launch and enjoy it.
 
@@ -33,7 +33,7 @@ It also includes:
 
 ## Examples
 
-> Sorted by launch date. [Go to next section ↓](#alternatives)
+> Sorted by launch date. [Go to next section (#alternatives) ↓](#alternatives)
 
 | Launch date  | Product                                                                                                                              | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | ---- | -- | -- |
