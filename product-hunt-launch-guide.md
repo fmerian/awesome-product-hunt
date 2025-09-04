@@ -10,7 +10,7 @@ So, here we go — what I learned from 42 (or 55) dev-first product launches on 
 
 **Product Hunt definitely _is_ a great place to launch** — a place where many developer-first products launched successfully: Supabase, Resend, and Warp, to name a few.
 
-According to [similarweb.com](https://www.similarweb.com/website/producthunt.com/#overview), it gets 4.8 million unique visitors every month, and according to [Ahrefs](https://ahrefs.com/website-authority-checker/?input=producthunt.com), it has a 91 domain rating.
+In July 2025, according to [similarweb.com](https://www.similarweb.com/website/producthunt.com/#overview), Product Hunt got 3.3 million monthly unique visitors, and according to [Ahrefs](https://ahrefs.com/website-authority-checker/?input=producthunt.com), it had a 91 domain rating.
 
 Product Hunt helps raise awareness, get feedback, and enable early traction.
 
@@ -42,7 +42,7 @@ When Documenso launched, it was the opposite. We had no plan and launched during
 
 **Two different launches; same results.**
 
-Take Peer Richelsen. Peer is the co-founder and co-CEO of Cal.com. He [launched 6 times on Product Hunt](https://www.producthunt.com/products/cal-com/awards) and got 10 awards. He puts it very simply:
+Take Peer Richelsen. Peer is the co-founder and co-CEO of Cal.com. He [launched 7 times on Product Hunt](https://www.producthunt.com/products/cal-com/awards) and got 10 awards. He puts it very simply:
 
 > **Have a good product.**
 >
@@ -104,7 +104,7 @@ Take n8n, an open-source Zapier alternative. When the team launched its 1.0 in J
 
 Here's another example. When we launched Specify, we collaborated with [Hiten Shah](https://www.producthunt.com/@hnshah). We chose to partner with Hiten because he has an influence on Product Hunt and beyond. Above all, it was a fantastic feeling for the team, e.g. an extra source of motivation prior to the launch.
 
-More personally, when I collaborate with teams to help them launch, like [Corbado](https://www.producthunt.com/posts/corbado) (launched in January 2024, ranked #4 Product of the Day) or [Jolt AI](https://www.producthunt.com/posts/usejolt-ai) (launch in January 2025, ranked #3 Product of the Day), I'm committed to challenging every aspect of the launch plan and supporting on launch days by leveraging my network. 
+More personally, when I collaborate with teams to help them launch, like [Corbado](https://www.producthunt.com/products/corbado/launches/corbado) (launched in January 2024, ranked #4 Product of the Day) or [Jolt AI](https://www.producthunt.com/products/jolt-ai/launches/jolt-ai-2) (launch in January 2025, ranked #3 Product of the Day), I'm committed to challenging every aspect of the launch plan and supporting on launch days by leveraging my network. 
 
 If anyone can submit a product on Product Hunt anytime, a Hunter certainly helps with the launch. 
 
@@ -132,7 +132,7 @@ Also, make sure to tease your network and community early.
 >
 > — [Tanya Rai](https://www.linkedin.com/in/tanyarai/), Product Manager, LastMile AI
 
-**Pro tip**: use a URL shortener like [Dub](https://mktto.dev/dub) as a backdoor edit button.
+**Pro tip**: use a URL shortener like [Dub](https://meooow.link/dub) as a backdoor edit button.
 
 1. Create your short, memorable URL
 2. Link it to your Product Hub, e.g. `/products/{yourProduct}`
@@ -220,9 +220,11 @@ Launch, and keep launching.
 
 Below are more resources for inspiration:
 
-- [Product Hunt Launch Guide](https://www.producthunt.com/launch), by Product Hunt
-- [Lago's Product Hunt Launch Playbook](https://github.com/getlago/lago/wiki/Product-Hunt-launch-:-our-handbook), by [Lago](https://www.producthunt.com/products/lago#lago) (launched in April 2023, ranked #1 Product of the Month)
-- [How not to launch on Product Hunt](https://plausible.io/blog/product-hunt-launch), by [Plausible](https://www.producthunt.com/products/plausible-analytics#plausible-analytics) (launched in August 2020, ranked #2 Product of the Day)
+- [Product Hunt Launch Guide](https://www.producthunt.com/launch) by Product Hunt
+- [Automate a Product Hunt launch](https://www.helicone.ai/blog/product-hunt-automate) (2024) by [@colegottdank](https://github.com/colegottdank) (launched [Helicone AI](https://www.producthunt.com/products/helicone-ai/launches/helicone-ai), ranked #1 POTD)
+- [How Daytona survived from Product Hunt](https://dev.to/daytona/how-we-missed-1-on-product-hunt-but-still-won-big-1gig) (2024) by [@nkko](https://github.com/nkkko) (launched [Daytona](https://www.producthunt.com/products/daytona/launches/daytona), ranked #2 POTD)
+- [#1 Developer Tool of the Month](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41) (2023) by [@tanya-rai](https://github.com/tanya-rai) (launched [LastMile AI](https://www.producthunt.com/products/lastmile-ai/launches/lastmile-ai), ranked #2 POTD)
+- [Lago's Product Hunt Launch Playbook](https://git.new/meow/lago) (2023) by [@anhtho-lago](https://github.com/anhtho-lago) (launched [Lago](https://www.producthunt.com/products/lago/launches/lago), ranked #1 POTM)
 
 You can find here more resources to help you get started:
 
@@ -245,7 +247,7 @@ If there certainly isn't a formula to launch successfully, there may be a set of
 - Go live at 12:01 AM PST on a weekday for maximum exposure
 - Rank in the Top 5 within the first 4 hours
 - Engage: upvote and reply to every comment
-- Keep launching
+- Launch, and keep launching
 
 Over to you! I hope this series gave you some insights to prep your launch on Product Hunt. I enjoy contributing to launching dev tools and am happy to help more folks.
 
