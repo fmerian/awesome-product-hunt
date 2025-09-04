@@ -39,7 +39,7 @@ https://
 
 ## Tagline
 
-> **60 characters max.** Tell what the product does in a concise and descriptive tagline. Avoid hyperbolic words and emojis. The most important part? [See examples here](https://github.com/fmerian/awesome-product-hunt?tab=readme-ov-file#examples).
+> **60 characters max.** The most important part? Tell what the product does in a concise and descriptive tagline. Avoid hyperbolic words and emojis. [See examples here](https://github.com/fmerian/awesome-product-hunt?tab=readme-ov-file#examples).
 
 ```
 
@@ -84,7 +84,7 @@ https://
 
 ## First comment
 
-> `optional` This comment is posted when your product launches. Adding a first comment helps get the discussion started.
+> `optional` This comment is posted upon launch. Adding a first comment is essential to get the discussion started.
 
 ``` html
 Why did you build this? What's new and unique about your launch compared to alternatives? What are you most proud of in this launch?
@@ -100,7 +100,7 @@ Why did you build this? What's new and unique about your launch compared to alte
 
 > **Optimized size: 1200x630px.** JPG. PNG. GIF. Max size: 10MB. Product Hunt recommends at least 3 or more images. <br />
 > Show the product. Avoid stock images and marketing fluff. You can add social proof and a call-to-action to inspire action. <br />
-> The first image is used as the social preview when your link is shared online.
+> The first image is used as the social preview when you share the link online.
 
 ## Video / Loom
 
@@ -134,7 +134,7 @@ Link to the demo
 
 # Shoutouts
 
-> `optional` You can shoutout products you use. Your launch will be listed on the Product Pages of companies you shout out. Also, launches with shoutouts are more likely to be featured on the homepage.
+> `optional` You can shoutout products you use. Your launch will be listed on the Product Pages of companies you shout out. Also, launches with shoutouts are more likely to be featured on the homepage and in the newsletter. Launches typically add 3 shoutouts.
 
 ```
 How do you use the product? Why do you believe it's fantastic?
