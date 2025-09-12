@@ -37,6 +37,7 @@ It also includes:
 
 | Launch date  | Product                                                                                                                              | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | -- | -- | -- |
+| `2025-09-11` | [Aikido Security](https://www.producthunt.com/products/aikido-2/launches/aikido-security)                                            | Secure everything you build, host, and run.                         | #1 |
 | `2025-09-09` | [Ona](https://www.producthunt.com/products/ona-hq/launches/ona-formerly-gitpod)                                                      | Sandboxed parallel coding agent platform                            | #4 |
 | `2025-09-09` | [Gram by Speakeasy](https://www.producthunt.com/products/speakeasy-3/launches/gram-by-speakeasy-2)                                   | Instantly create MCP servers and SDKs that LLMs understand          | #5 |
 | `2025-08-25` | [AI Elements by Vercel](https://www.producthunt.com/products/vercel/launches/ai-elements-by-vercel)                                  | The shadcn/ui component library for building AI-native apps         | #5 |
