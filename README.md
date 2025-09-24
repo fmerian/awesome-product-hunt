@@ -142,10 +142,10 @@ It also includes:
 > More suggestions in [this repository](https://git.new/channels). 
 
 - [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (90)
-- [Uneed](https://www.uneed.best/submit-a-tool?atp=fmerian) (67)
-- [DevHunt](https://devhunt.org/) (58)
-- [launchweek.dev](https://launchweek.dev/) (29)
-- [early.tools](https://www.early.tools/submit) (24)
+- [Uneed](https://www.uneed.best/submit-a-tool?atp=fmerian) (68)
+- [DevHunt](https://devhunt.org/) (54)
+- [launchweek.dev](https://launchweek.dev/) (28)
+- [early.tools](https://www.early.tools/submit) (25)
 
 [Back to top ↑](#contents)
 
