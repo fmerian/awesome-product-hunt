@@ -37,6 +37,7 @@ It also includes:
 
 | Launch date  | Product                                                                                                                              | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | -- | -- | -- |
+| `2025-09-28` | [Kilo Code for JetBrains](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains)                            | Fast, open-source AI coding agent for JetBrains IDEs                | #1 | #7 |
 | `2025-09-11` | [Aikido Security](https://www.producthunt.com/products/aikido-2/launches/aikido-security)                                            | Secure everything you build, host, and run.                         | #1 | #8 |
 | `2025-09-09` | [Ona](https://www.producthunt.com/products/ona-hq/launches/ona-formerly-gitpod)                                                      | Sandboxed parallel coding agent platform                            | #4 |
 | `2025-09-09` | [Gram by Speakeasy](https://www.producthunt.com/products/speakeasy-3/launches/gram-by-speakeasy-2)                                   | Instantly create MCP servers and SDKs that LLMs understand          | #5 |
@@ -57,6 +58,7 @@ It also includes:
 | `2025-04-11` | [cognee](https://www.producthunt.com/products/cognee/launches/cognee)                                                                | Memory for AI Agents in 5 lines of code                             | #3 |
 | `2025-04-08` | [Metabase Embedded Analytics](https://www.producthunt.com/products/metabase/launches/metabase-embedded-analytics)                    | Get in-product analytics quickly without waiting for spints         | #3 | 
 | `2025-04-02` | [Supabase UI Library](https://www.producthunt.com/products/supabase/launches/supabase-ui-library)                                    | Drop-in components based on shadcn/ui & powered by Supabase         | #4 | #9 |
+| `2025-03-27` | [Kilo Code for VS Code](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-vs-code)                                | Open-source, lightning speed autonomous AI coding agent             | #5 |
 | `2025-03-26` | [Pulse](https://www.producthunt.com/products/pulse-for-elasticsearch-and-opensearch/launches/pulse-for-elasticsearch-and-opensearch) | Search Cluster Monitoring & Maintenance, Redefined                  | #2 | #8 |
 | `2025-03-25` | [Inferless](https://www.producthunt.com/products/inferless/launches/inferless)                                                       | Deploy any machine learning models in minutes                       | #1 | #4 |
 | `2025-03-03` | [Producta](https://www.producthunt.com/products/producta/launches/producta-2)                                                        | Automate solving your Linear or Jira tickets                        | #4 |
