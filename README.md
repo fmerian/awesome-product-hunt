@@ -37,6 +37,7 @@ It also includes:
 
 | Launch date  | Product                                                                                                                              | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | -- | -- | -- |
+| `2025-09-29` | [Fern](https://www.producthunt.com/products/fern/launches/fern)                                                                      | Instant docs and SDKs for your API                                  | #4 |
 | `2025-09-28` | [Kilo Code for JetBrains](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains)                            | Fast, open-source AI coding agent for JetBrains IDEs                | #1 | #7 |
 | `2025-09-11` | [Aikido Security](https://www.producthunt.com/products/aikido-2/launches/aikido-security)                                            | Secure everything you build, host, and run.                         | #1 | #8 |
 | `2025-09-09` | [Ona](https://www.producthunt.com/products/ona-hq/launches/ona-formerly-gitpod)                                                      | Sandboxed parallel coding agent platform                            | #4 |
