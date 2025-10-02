@@ -37,6 +37,7 @@ It also includes:
 
 | Launch date  | Product                                                                                                                              | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | -- | -- | -- |
+| `2025-10-01` | [Databuddy Analytics](https://www.producthunt.com/products/databuddy-analytics/launches/databuddy-analytics)                         | Analytics, insights, and feature flags in one platform              | #5 |
 | `2025-09-29` | [Fern](https://www.producthunt.com/products/fern/launches/fern)                                                                      | Instant docs and SDKs for your API                                  | #4 |
 | `2025-09-28` | [Kilo Code for JetBrains](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains)                            | Fast, open-source AI coding agent for JetBrains IDEs                | #1 | #7 |
 | `2025-09-27` | [GitHub Copilot CLI](https://www.producthunt.com/products/github-copilot/launches/github-copilot-cli)                                | Copilot's response to Claude Code and Codex CLI                     | #1 |
