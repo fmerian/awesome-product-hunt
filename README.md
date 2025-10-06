@@ -37,6 +37,7 @@ It also includes:
 
 | Launch date  | Product                                                                                                                              | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | -- | -- | -- |
+| `2025-10-03` | [Vercel Domains](https://www.producthunt.com/products/vercel/launches/vercel-domains)                                                | Fastest domain search on the planet with at cost pricing            | #3 |
 | `2025-10-01` | [Databuddy Analytics](https://www.producthunt.com/products/databuddy-analytics/launches/databuddy-analytics)                         | Analytics, insights, and feature flags in one platform              | #5 |
 | `2025-09-29` | [Fern](https://www.producthunt.com/products/fern/launches/fern)                                                                      | Instant docs and SDKs for your API                                  | #2 |
 | `2025-09-28` | [Kilo Code for JetBrains](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains)                            | Fast, open-source AI coding agent for JetBrains IDEs                | #1 | #7 |
