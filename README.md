@@ -37,6 +37,7 @@ It also includes:
 
 | Launch date  | Product                                                                                                                              | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | -- | -- | -- |
+| `2025-10-13` | [Replyke](https://www.producthunt.com/products/replyke/launches/replyke-4)                                                           | Open-Source infra layer for user-created content and social graphs  | #2 |
 | `2025-10-13` | [Traycer AI](https://www.producthunt.com/products/traycer-ai/launches/traycer-ai)                                                    | Plan-first AI coding for real codebases                             | #4 |
 | `2025-10-10` | [Layercode CLI](https://www.producthunt.com/products/layercode/launches/layercode-cli)                                               | Build voice AI agents with one command                              | #3 |
 | `2025-10-08` | [QA.tech 1.0](https://www.producthunt.com/products/qa-tech/launches/qa-tech-1-0)                                                     | Stop breaking prod, build & test with a fleet of QA agents          | #2 |
