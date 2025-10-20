@@ -37,6 +37,7 @@ It also includes:
 
 | Launch date  | Product                                                                                                                              | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | -- | -- | -- |
+| `2025-10-18` | [Kibo UI Patterns](https://www.producthunt.com/products/kibo-ui/launches/kibo-ui-patterns)                                           | 1,000+ free shadcn/ui examples for use in your project              | #3 |
 | `2025-10-13` | [Replyke](https://www.producthunt.com/products/replyke/launches/replyke-4)                                                           | Open-Source infra layer for user-created content and social graphs  | #2 |
 | `2025-10-13` | [Traycer AI](https://www.producthunt.com/products/traycer-ai/launches/traycer-ai)                                                    | Plan-first AI coding for real codebases                             | #4 |
 | `2025-10-10` | [Layercode CLI](https://www.producthunt.com/products/layercode/launches/layercode-cli)                                               | Build voice AI agents with one command                              | #3 |
