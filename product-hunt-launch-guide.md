@@ -63,14 +63,18 @@ Despite what you can read here and there, there certainly isn't a formula to lau
 To start, below are the required inputs to submit a new product on Product Hunt. **You can find them [here](https://git.new/meow/kit) on GitHub to get started.**
 
 - **Name of the product**: simply the name of your product in 40 characters or less
-- **Tagline**: a concise and descriptive tagline in 60 characters max; avoid hyperbolic words and emojis — keep it simple
+- **Tagline**: the most important part? a concise and descriptive tagline in 60 characters max; Avoid hyperbolic words and emojis; Keep it simple
 - **Description**: a short description of what the product does in less than 260 characters
-- **Launch tags**: Up to three tags — [Browse full list here](https://www.producthunt.com/topics)
-- **First comment**: tells the story, explains why you're building the product, and invites people to join the conversation
+- **Launch tags**: up to three tags — [Browse full list here](https://www.producthunt.com/topics)
 - **Thumbnail**: a 240 x 240 pixel thumbnail
-- **Image gallery**: 2 to 8 images to show your product; avoid stock images and marketing fluff. Show the product, i.e. product screenshots. You can add social proof and a call-to-action to inspire action; The first image is used as the social preview when you share the link to your launch page.
+- **Image gallery**: at least 3 images to show your product; Avoid stock images and marketing fluff. Show the product, i.e. product screenshots. You can add social proof and a call-to-action to inspire action; The first image is used as the social preview when you share the link to your launch page
 
-**You can find the required inputs [here](https://git.new/meow/kit) on GitHub.**
+To go one step forward, you could also add:
+
+- **First comment**: tells the story, explains why you're building the product, and invites people to join the conversation
+- **Shoutouts**: highlighting products you enjoy
+
+**You can find them all [here](https://git.new/meow/kit) on GitHub.**
 
 Tanya Rai and her team launched LastMile AI in October 2023 and ranked #2 Product of the Day and #4 Product of the Week. In [this blog post](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41), Tanya shared some lessons learned, and I really enjoyed this quote on polishing the details:
 
@@ -120,7 +124,7 @@ In [this blog post](https://medium.com/@rrhoover/building-a-startup-build-an-aud
 
 You can schedule your launch up to 30 days ahead. Below are some ideas to get started:
 
-- Announce it in your Product Forum `/p/{yourProduct}` — see example from Bucket [here](https://meooow.link/bucket/soon)
+- Announce it in your Product Forum `/p/{yourProduct}` — see example from Kilo Code [here](https://meooow.link/kilocode/soon)
 - [Host an AMA session](https://www.producthunt.com/stories/how-to-host-a-successful-ama-on-product-hunt) — see examples from Bucket [here](https://meooow.link/bucket/ama) and Supabase [there](https://meooow.link/rorstro)
 - Add your upcoming launch on [hunted.space](https://hunted.space) and [git.new/meow](https://git.new/meow/upcoming)
 - Schedule as much content as possible: social posts, website banner, email campaigns
@@ -208,11 +212,13 @@ Take Stripe. The company launched [69 times](https://www.producthunt.com/product
 **Launching multiple times creates a tailwind.** 
 — [Repost this](https://twitter.com/fmerian/status/1676554020348100610)
 
-Luis Guzmán, Head of Marketing at n8n (launched [5 times](https://www.producthunt.com/products/n8n-io/launches) since 2019), sums it up perfectly:
+Luis Guzmán, Head of Marketing at n8n (launched [6 times](https://www.producthunt.com/products/n8n-io/launches) since 2019), sums it up perfectly:
 
 > **Every follower we collected from past launches receives a notification about recent launches. This helps get more exposure.**
 >
 > — [Luis Guzmán](https://www.linkedin.com/in/guzmanluis/), Head of Marketing, n8n
+
+Each launch reaches more people, builds more followers, which then helps future launches.
 
 Launch, and keep launching.
 
