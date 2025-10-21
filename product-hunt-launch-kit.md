@@ -49,7 +49,7 @@ https://
 
 ### Links to the product
 
-> GitHub repository, Chrome Web Store, Firefox Add-ons page…
+> `optional` GitHub repository, Chrome Web Store, Firefox Add-ons page… The less, the better for CRO.
 
 ```
 https://
@@ -61,6 +61,8 @@ https://
 - [ ] Is this an open-source project?
 
 ### Twitter / X account of the product
+
+> `optional`
 
 ```
 @
@@ -76,7 +78,8 @@ https://
 
 ## Launch tags
 
-> **Select up to three tags.** [Browse full list here ↗︎](https://www.producthunt.com/topics)
+> **Select up to three tags.** Suggested: `Developer Tools` `API` `Open Source` <br />
+> [Browse full list here ↗︎](https://www.producthunt.com/topics)
 
 -   
 -
@@ -84,7 +87,7 @@ https://
 
 ## First comment
 
-> `optional` This comment is posted upon launch. Adding a first comment is essential to get the discussion started.
+> `optional` This comment is posted upon launch. The first 800 characters are displayed. Adding a first comment is essential to get the discussion started.
 
 ``` html
 Why did you build this? What's new and unique about your launch compared to alternatives? What are you most proud of in this launch?
@@ -150,7 +153,7 @@ How do you use the product? Why do you believe it's fantastic?
 
 ## Pricing
 
-> `optional` The community really appreciates knowing.
+> `optional`
 
 -   [ ] **Free** - The product is free to use
 -   [ ] **Paid** - The product requires payment and there's no free option
@@ -193,6 +196,6 @@ On launch day:
 
 - Add `/launch-day` to the end of your URL to get to a dashboard where you can monitor your entire launch from, respond to questions and comments about your product throughout the day.
 - Share a link to your launch on social, email, and beyond. Don't explicitly ask for upvotes or spam with cold DMs and emails. Keep it genuine.
-- Utilizing upvote services will result in your removal from the homepage. Sharing in promotion/upvote groups often results in low quality or spam activity that will negatively impact your launch performance. If your "growth consultant" is using prohibited tactics you will be held responsible.
+- `!important` **Utilizing upvote services will result in your removal from the homepage.** Sharing in promotion/upvote groups often results in low quality or spam activity that will negatively impact your launch performance. If your "growth consultant" is using prohibited tactics you will be held responsible.
 
 **Looking for inspiration? [See examples here](https://github.com/fmerian/awesome-product-hunt?tab=readme-ov-file#examples).**
