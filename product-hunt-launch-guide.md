@@ -10,9 +10,9 @@ So, here we go — what I learned from 42 (or 55) dev-first product launches on 
 
 **Product Hunt definitely _is_ a great place to launch** — a place where many developer-first products launched successfully: Supabase, Resend, and Warp, to name a few.
 
-In July 2025, according to [similarweb.com](https://www.similarweb.com/website/producthunt.com/#overview), Product Hunt got 3.3 million monthly unique visitors, and according to [Ahrefs](https://ahrefs.com/website-authority-checker/?input=producthunt.com), it had a 91 domain rating.
+In September 2025, according to [similarweb.com](https://www.similarweb.com/website/producthunt.com/#overview), Product Hunt got 2.7 million monthly unique visitors, and according to [Ahrefs](https://ahrefs.com/website-authority-checker/?input=producthunt.com), it had a 91 domain rating.
 
-Product Hunt helps raise awareness, get feedback, and enable early traction.
+Product Hunt isn't just a launch platform. It's also a search engine, a daily newsletter with 1 million subscribers, and a Reddit-like community. Product Hunt helps raise awareness, get feedback, and enable early traction.
 
 Rishabh Kaul, Head of Marketing at Appsmith, who launched in March 2023 and ranked #5 Product of the Day, adds:
 
@@ -42,7 +42,7 @@ When Documenso launched, it was the opposite. We had no plan and launched during
 
 **Two different launches; same results.**
 
-Take Peer Richelsen. Peer is the co-founder and co-CEO of Cal.com. He [launched 7 times on Product Hunt](https://www.producthunt.com/products/cal-com/awards) and got 10 awards. He puts it very simply:
+Take Peer Richelsen. Peer is the co-founder and co-CEO of Cal.com. He [launched 9 times on Product Hunt](https://www.producthunt.com/products/cal-com/awards) and got 12 awards. He puts it very simply:
 
 > **Have a good product.**
 >
@@ -207,7 +207,7 @@ According to [Product Hunt](https://meooow.link/hc/repost), you have to "_wait a
 
 Product Hunt pays off in the long term, where the best teams keep launching.
 
-Take Stripe. The company launched [69 times](https://www.producthunt.com/products/stripe/launches) on Product Hunt in the last 10 years. Supabase launched [16 times](https://www.producthunt.com/products/supabase/launches) in the last 4 years. Raycast has launched [15 products](https://www.producthunt.com/products/raycast/launches) since 2020.
+Take Stripe. The company launched [68 times](https://www.producthunt.com/products/stripe/launches) on Product Hunt in the last 10 years. Supabase launched [16 times](https://www.producthunt.com/products/supabase/launches) in the last 4 years. Raycast has launched [15 products](https://www.producthunt.com/products/raycast/launches) since 2020.
 
 **Launching multiple times creates a tailwind.** 
 — [Repost this](https://twitter.com/fmerian/status/1676554020348100610)
@@ -231,6 +231,8 @@ Below are more resources for inspiration:
 - [How Daytona survived from Product Hunt](https://dev.to/daytona/how-we-missed-1-on-product-hunt-but-still-won-big-1gig) (2024) by [@nkko](https://github.com/nkkko) (launched [Daytona](https://www.producthunt.com/products/daytona/launches/daytona), ranked #2 POTD)
 - [#1 Developer Tool of the Month](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41) (2023) by [@tanya-rai](https://github.com/tanya-rai) (launched [LastMile AI](https://www.producthunt.com/products/lastmile-ai/launches/lastmile-ai), ranked #2 POTD)
 - [Lago's Product Hunt Launch Playbook](https://git.new/meow/lago) (2023) by [@anhtho-lago](https://github.com/anhtho-lago) (launched [Lago](https://www.producthunt.com/products/lago/launches/lago), ranked #1 POTM)
+- [Launching dev tools on Product Hunt](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt) (2022) by [@ronakganatra](https://github.com/ronakganatra) (launched [GraphCMS](https://www.producthunt.com/products/graphcms/launches/graphcms-3), ranked #5 POTD)
+
 
 You can find here more resources to help you get started:
 
