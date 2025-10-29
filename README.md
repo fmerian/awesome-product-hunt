@@ -37,6 +37,7 @@ It also includes:
 
 | Launch date  | Product                                                                                                                              | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | -- | -- | -- |
+| `2025-10-27` | [v0 for iOS](https://www.producthunt.com/products/v0/launches/v0-for-ios)                                                            | Build anything with AI                                              | #1 |
 | `2025-10-18` | [Kibo UI Patterns](https://www.producthunt.com/products/kibo-ui/launches/kibo-ui-patterns)                                           | 1,000+ free shadcn/ui examples for use in your project              | #3 |
 | `2025-10-13` | [Replyke](https://www.producthunt.com/products/replyke/launches/replyke-4)                                                           | APIs for user content, social graphs, and moderation tools  | #2 |
 | `2025-10-13` | [Traycer AI](https://www.producthunt.com/products/traycer-ai/launches/traycer-ai)                                                    | Plan-first AI coding for real codebases                             | #4 |
