@@ -12,7 +12,10 @@ So, here we go — what I learned from 42 (or 55) dev-first product launches on 
 
 In September 2025, according to [similarweb.com](https://www.similarweb.com/website/producthunt.com/#overview), Product Hunt got 2.7 million monthly unique visitors, and according to [Ahrefs](https://ahrefs.com/website-authority-checker/?input=producthunt.com), it had a 91 domain rating.
 
-Product Hunt isn't just a launch platform. It's also a search engine, a daily newsletter with 1 million subscribers, and a Reddit-like community. Product Hunt helps raise awareness, get feedback, and enable early traction.
+Product Hunt helps raise awareness, get feedback, and enable early traction.
+
+> [!TIP] 
+> Product Hunt isn't just a launch platform. It's also a search engine, a daily newsletter with 1 million subscribers, and a Reddit-like community (/p/).
 
 Rishabh Kaul, Head of Marketing at Appsmith, who launched in March 2023 and ranked #5 Product of the Day, adds:
 
@@ -76,6 +79,10 @@ To go one step forward, you could also add:
 
 **You can find them all [here](https://git.new/meow/kit) on GitHub.**
 
+> [!TIP]
+> Underrated: The image gallery.
+> It tells your story, visually. It starts with an intro, i.e. the Open Graph image. It should finish with an end, i.e. your call-to-action.
+
 Tanya Rai and her team launched LastMile AI in October 2023 and ranked #2 Product of the Day and #4 Product of the Week. In [this blog post](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41), Tanya shared some lessons learned, and I really enjoyed this quote on polishing the details:
 
 > **We spent some time nailing the messaging in a way that was palatable to the Product Hunt community. It's good to tailor your messaging and media assets to the community — it will resonate more.**
@@ -91,11 +98,12 @@ Do you need someone specific to submit your dev-first product on Product Hunt? B
 - 79% of featured posts were by makers who self-hunted
 - 60% of #1 Product of the Day winners were self-hunted
 
-If finding a Hunter isn't a requirement _per se_, you may need one for three main reasons:
-
-1. a Hunter reviews your inputs, gives feedback, and suggests improvements
-2. on launch day, a Hunter can support by upvoting and replying to comments
-3. a Hunter can leverage networks by promoting your launch on socials
+> [!TIP] 
+> If finding a Hunter isn't a requirement _per se_, you may need one for three main reasons:
+> 
+> 1. a Hunter reviews your inputs, gives feedback, and suggests improvements
+> 2. on launch day, a Hunter can support by upvoting and replying to comments
+> 3. a Hunter can leverage networks by promoting your launch on socials
 
 **When done right, a Hunter is a catalyst for your launch.** 
 — [Repost this](https://twitter.com/fmerian/status/1737450339824238977)
@@ -136,11 +144,12 @@ Also, make sure to tease your network and community early.
 >
 > — [Tanya Rai](https://www.linkedin.com/in/tanyarai/), Product Manager, LastMile AI
 
-**Pro tip**: use a URL shortener like [Dub](https://meooow.link/dub) as a backdoor edit button.
-
-1. Create your short, memorable URL
-2. Link it to your Product Hub, e.g. `/products/{yourProduct}`
-3. Update it on launch day, e.g. `/products/{yourProduct}/launches/{slug}`
+> [!TIP]
+> Use a URL shortener like [Dub](https://meooow.link/dub) as a backdoor edit button.
+>
+> 1. Create your short, memorable URL
+> 2. Link it to your Product Hub, e.g. `/products/{yourProduct}`
+> 3. Update it on launch day, e.g. `/products/{yourProduct}/launches/{slug}`
 
 In [this file](https://git.new/meow/community), I suggest some ideas to leverage your community:
 
@@ -165,11 +174,12 @@ Here's the day. **Launching on Product Hunt is a 24-hour race — and it starts 
 
 For the first 4 hours of the day, Product Hunt hides upvotes and sorts the homepage randomly. According to [Product Hunt](https://www.producthunt.com/stories/let-s-talk-about-spam), this should give products "a more distributed chance at exposure early." Your objective is to rank in the Top 5 within that time to maximize exposure.
 
-**Pro tip**: use [hunted.space](https://hunted.space) to monitor your launch day in real time.
-
-```html
-https://hunted.space/dashboard/{yourProduct}
-```
+> [!TIP]
+> Use [hunted.space](https://hunted.space) to monitor your launch day in real time.
+>
+> ```html
+> https://hunted.space/dashboard/{yourProduct}
+> ```
 
 During the day, upvote and reply to every comment. Make this day an opportunity to engage: start conversations and ask for feedback.
 
@@ -218,7 +228,8 @@ Luis Guzmán, Head of Marketing at n8n (launched [6 times](https://www.producthu
 >
 > — [Luis Guzmán](https://www.linkedin.com/in/guzmanluis/), Head of Marketing, n8n
 
-Each launch reaches more people, builds more followers, which then helps future launches.
+> [!TIP] 
+> Each launch reaches more people, builds more followers, which then helps future launches.
 
 Launch, and keep launching.
 
@@ -263,8 +274,7 @@ Over to you! I hope this series gave you some insights to prep your launch on Pr
 
 **Enjoy your launch day!**
 
----
-
-*Thanks to [Laura Du Ry](https://www.linkedin.com/in/laura-du-ry-53203b94/) (Appwrite), [Tanya Rai](https://www.linkedin.com/in/tanyarai/) (LastMile AI), [Luis Guzmán](https://www.linkedin.com/in/guzmanluis/) (n8n), and [Rishabh Kaul](https://www.linkedin.com/in/rishabhkaul) (Appsmith) for your contributions. Thanks to [Jack Bridger](https://www.linkedin.com/in/jack-bridger-047bb445) for bs-checking this post. They're all in the Developer Marketing community, a place where 2,000+ tech founders and marketers from awesome dev-first, open-source companies hang out to share insights and best practices. [Join the fun](https://marketingto.dev)!*
-
-*No artificial intelligence was used to generate content for this post.*
+> [!NOTE] 
+> *Thanks to [Laura Du Ry](https://www.linkedin.com/in/laura-du-ry-53203b94/) (Appwrite), [Tanya Rai](https://www.linkedin.com/in/tanyarai/) (LastMile AI), [Luis Guzmán](https://www.linkedin.com/in/guzmanluis/) (n8n), and [Rishabh Kaul](https://www.linkedin.com/in/rishabhkaul) (Appsmith) for your contributions. Thanks to [Jack Bridger](https://www.linkedin.com/in/jack-bridger-047bb445) for bs-checking this post. They're all in the Developer Marketing community, a place where 2,000+ tech founders and marketers from awesome dev-first, open-source companies hang out to share insights and best practices. [Join the fun](https://marketingto.dev)!*
+> 
+> *No artificial intelligence was used to generate content for this post.*
