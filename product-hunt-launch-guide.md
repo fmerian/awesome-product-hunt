@@ -8,11 +8,17 @@ So, here we go — what I learned from 42 (or 55) dev-first product launches on 
 
 ## Why Product Hunt
 
-**Product Hunt definitely _is_ a great place to launch** — a place where many developer-first products launched successfully: Supabase, Resend, and Warp, to name a few.
+**Product Hunt definitely is a great place for developer tools** — a place where many dev-first products launched successfully, Stripe, Resend, Vercel, to name a few; a place where products like Anthropic, ElevenLabs, and Supabase are among the most followed and loved.
+
+Darko Gjorgjievski launched Kilo Code on Product Hunt twice in 2025. Both ranked in the Top 5 Products of the Day. Darko confirms:
+
+> **Many users on Product Hunt are technical founders. They code. And they want to know how to get to where they want faster.**
+>
+> — [Darko Gjorgjievski](https://www.linkedin.com/in/darko-gjorgjievski-65a63627/), Developer Relations Engineer, Kilo Code
 
 In September 2025, according to [similarweb.com](https://www.similarweb.com/website/producthunt.com/#overview), Product Hunt got 2.7 million monthly unique visitors, and according to [Ahrefs](https://ahrefs.com/website-authority-checker/?input=producthunt.com), it had a 91 domain rating.
 
-Product Hunt helps raise awareness, get feedback, and enable early traction.
+**Product Hunt helps raise awareness, get feedback, and enable early traction.**
 
 > [!TIP] 
 > Product Hunt isn't just a launch platform. It's also a search engine, a daily newsletter with 1 million subscribers, and a Reddit-like community (/p/).
@@ -278,6 +284,6 @@ Over to you! I hope this series gave you some insights to prep your launch on Pr
 **Enjoy your launch day!**
 
 > [!NOTE] 
-> *Thanks to [Laura Du Ry](https://www.linkedin.com/in/laura-du-ry-53203b94/) (Appwrite), [Tanya Rai](https://www.linkedin.com/in/tanyarai/) (LastMile AI), [Luis Guzmán](https://www.linkedin.com/in/guzmanluis/) (n8n), and [Rishabh Kaul](https://www.linkedin.com/in/rishabhkaul) (Appsmith) for your contributions. Thanks to [Jack Bridger](https://www.linkedin.com/in/jack-bridger-047bb445) for bs-checking this post. They're all in the Developer Marketing community, a place where 2,000+ tech founders and marketers from awesome dev-first, open-source companies hang out to share insights and best practices. [Join the fun](https://marketingto.dev)!*
+> *Thanks to [Laura Du Ry](https://www.linkedin.com/in/laura-du-ry-53203b94/) (Appwrite), [Tanya Rai](https://www.linkedin.com/in/tanyarai/) (LastMile AI), [Darko Gjorgjievski](https://www.linkedin.com/in/darko-gjorgjievski-65a63627/) (Kilo Code), [Luis Guzmán](https://www.linkedin.com/in/guzmanluis/) (n8n), and [Rishabh Kaul](https://www.linkedin.com/in/rishabhkaul) (Appsmith) for your contributions. Thanks to [Jack Bridger](https://www.linkedin.com/in/jack-bridger-047bb445) for bs-checking this post. They're all in the Developer Marketing community, a place where 2,000+ tech founders and marketers from awesome dev-first, open-source companies hang out to share insights and best practices. [Join the fun](https://marketingto.dev)!*
 > 
 > *No artificial intelligence was used to generate content for this post.*
