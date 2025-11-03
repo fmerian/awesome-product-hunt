@@ -72,16 +72,19 @@ To start, below are the required inputs to submit a new product on Product Hunt.
 - **Thumbnail**: a 240 x 240 pixel thumbnail
 - **Image gallery**: at least 3 images to show your product; Avoid stock images and marketing fluff. Show the product, i.e. product screenshots. You can add social proof and a call-to-action to inspire action; The first image is used as the social preview when you share the link to your launch page
 
+> [!TIP]
+> Underrated: The image gallery.
+> It tells your story, visually. It starts with an intro, i.e. the Open Graph image. It should finish with an end, i.e. your call-to-action.
+
 To go one step forward, you could also add:
 
 - **First comment**: tells the story, explains why you're building the product, and invites people to join the conversation
 - **Shoutouts**: highlighting products you enjoy
 
-**You can find them all [here](https://git.new/meow/kit) on GitHub.**
-
 > [!TIP]
-> Underrated: The image gallery.
-> It tells your story, visually. It starts with an intro, i.e. the Open Graph image. It should finish with an end, i.e. your call-to-action.
+> Reuse the first comment as a blog announcement and/or a social post.
+
+**You can find all the required and optional inputs [here](https://git.new/meow/kit) on GitHub.**
 
 Tanya Rai and her team launched LastMile AI in October 2023 and ranked #2 Product of the Day and #4 Product of the Week. In [this blog post](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41), Tanya shared some lessons learned, and I really enjoyed this quote on polishing the details:
 
