@@ -156,6 +156,7 @@ It also includes:
 
 ### Blog posts
 
+- [A look at Aikido's first launch on Product Hunt](https://git.new/meow/aikido) (2025) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
 - [How Kilo Code launched on Product Hunt](https://git.new/meow/kilocode) (2025) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
 - [Did Appwrite do the ideal Product Hunt launch?](https://git.new/meow/appwrite) (2025) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
 - [Lessons from 42 launches on Product Hunt](https://dev.to/fmerian/lessons-from-42-launches-on-product-hunt-3fp8) (2024) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
