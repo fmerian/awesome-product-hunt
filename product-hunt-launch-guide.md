@@ -206,17 +206,22 @@ Tanya Rai from LastMile AI shares the feeling:
 
 Make this launch day an opportunity to celebrate your efforts with your team and community. Make the most out of it by engaging in conversations and brainstorming new ideas, and above all, _enjoy it._
 
-## Two more things
+## Three more things
 
 You just launched your developer tool on Product Hunt. Bravo!
 
-There's two more things to keep the momentum going:
+There's three more things to keep the momentum going:
 1. Maximize efforts
-2. Keep launching
+2. Engage with the community
+3. Keep launching
 
 ### Maximize efforts
 
 With the assets you've worked on for your Product Hunt launch, you can maximize efforts by launching on more places, like [Hacker News](https://git.new/meow/hn) and [Dev Hunt](https://git.new/meow/dh), an open-source alternative for dev-first products.
+
+### Engage with the community
+
+Product Hunt isn't just a launch platform. Early 2025, Product Hunt introduced Product Forums (/p), a Reddit-like platform for products to engage with their community, an opportunity to keep momentum. Start discussions, cross-post your content, post product updates and open roles. 
 
 ### Keep launching
 
