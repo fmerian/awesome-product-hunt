@@ -37,6 +37,9 @@ It also includes:
 
 | Launch date  | Product                                                                                                                              | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | -- | -- | -- |
+| `2025-11-12` | [Logo.dev](https://www.producthunt.com/products/logo-dev/launches/logo-dev)                                                          | Reliable logos for any product, instantly.                          | #2 | #6 |
+| `2025-11-08` | [Shadcnblocks](https://www.producthunt.com/products/shadcnblocks-2/launches/shadcnblocks-2)                                          | The ultimate block set for shadcn/ui, Tailwind, and React           | #2 |
+| `2025-11-04` | [Firecrawl v2.5](https://www.producthunt.com/products/extract-by-firecrawl/launches/firecrawl-v2-5)                                  | The world's best Web Data API                                       | #4 |
 | `2025-11-01` | [Ultracite v6](https://www.producthunt.com/products/ultracite/launches/ultracite-v6)                                                 | Opinionated, zero-config code linter and formatter                  | #2 |
 | `2025-10-27` | [v0 for iOS](https://www.producthunt.com/products/v0/launches/v0-for-ios)                                                            | Build anything with AI                                              | #1 | #2 |
 | `2025-10-18` | [Kibo UI Patterns](https://www.producthunt.com/products/kibo-ui/launches/kibo-ui-patterns)                                           | 1,000+ free shadcn/ui examples for use in your project              | #3 |
