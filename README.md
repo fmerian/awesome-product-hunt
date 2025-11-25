@@ -74,7 +74,6 @@ It also includes:
 | `2025-03-27` | [Kilo Code for VS Code](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-vs-code)                                | Open-source, lightning speed autonomous AI coding agent             | #5 |
 | `2025-03-26` | [Pulse](https://www.producthunt.com/products/pulse-for-elasticsearch-and-opensearch/launches/pulse-for-elasticsearch-and-opensearch) | Search Cluster Monitoring & Maintenance, Redefined                  | #2 | #8 |
 | `2025-03-25` | [Inferless](https://www.producthunt.com/products/inferless/launches/inferless)                                                       | Deploy any machine learning models in minutes                       | #1 | #4 |
-| `2025-03-03` | [Producta](https://www.producthunt.com/products/producta/launches/producta-2)                                                        | Automate solving your Linear or Jira tickets                        | #4 |
 | `2025-02-23` | [Flags SDK by Vercel](https://www.producthunt.com/products/vercel/launches/flags-sdk-by-vercel)                                      | Free, open-source library for using feature flags in Next.js        | #2 |
 | `2025-02-19` | [Lingo.dev](https://www.producthunt.com/products/lingodotdev/launches/lingodotdev)                                                   | Ship apps translated in every language, in minutes                  | #2 | #4 | #9 |
 | `2025-01-31` | [Orate](https://www.producthunt.com/products/vercel/launches/orate-2)                                                                | The AI toolkit for speech                                           | #5 |
@@ -94,10 +93,8 @@ It also includes:
 | `2024-10-11` | [Octomind QA Agent](https://www.producthunt.com/products/octomind/launches/octomind-qa-agent)                                        | AI-powered end-to-end testing                                       | #1 |
 | `2024-10-10` | [Latitude](https://www.producthunt.com/products/latitude/launches/latitude-7)                                                        | The open-source prompt engineering platform                         | #2 | #8 |
 | `2024-10-09` | [Layouts.dev](https://www.producthunt.com/products/layouts-dev/launches/layouts-dev)                                                 | A notebook for building interfaces with Tailwind & shadcn/UI        | #2 | #6 |
-| `2024-09-25` | [Workflow Kit by Inngest](https://www.producthunt.com/products/inngest/launches/workflow-kit-by-inngest)                             | Open-source SDK to add Zapier-like workflows to your product        | #5 |
 | `2024-08-22` | [Helicone AI](https://www.producthunt.com/products/helicone-ai/launches/helicone-ai)                                                 | Open-source LLM Observability for Developers                        | #1 | #2 |
 | `2024-08-08` | [Inkeep](https://www.producthunt.com/products/inkeep/launches/inkeep)                                                                | AI search & support powered by your content                         | #3 |
-| `2024-06-13` | [Liveblocks 2.0](https://www.producthunt.com/products/liveblocks/launches/liveblocks-2-0)                                            | Unlock collaboration in your product                                | #4 |
 | `2024-06-12` | [MotherDuck](https://www.producthunt.com/products/motherduck/launches/motherduck)                                                    | Now GA: the ducking simple analytics data warehouse                 | #5 |
 | `2024-04-26` | [Langfuse 2.0](https://www.producthunt.com/products/langfuse/launches/langfuse-2-0)                                                  | The open source LLM engineering platform                            | #1 | #8 |
 | `2024-04-23` | [Subframe](https://www.producthunt.com/products/subframe/launches/subframe)                                                          | The best way to build UI, fast                                      | #1 | #4 |
@@ -106,7 +103,6 @@ It also includes:
 | `2024-02-26` | [Octomind](https://www.producthunt.com/products/octomind/launches/octomind)                                                          | Find bugs before your users do with AI                              | #3 | #7 |
 | `2024-01-25` | [Corbado](https://www.producthunt.com/products/corbado/launches/corbado)                                                             | Passkey-first authentication for developers                         | #4 |
 | `2023-11-15` | [OpenMeter](https://www.producthunt.com/products/openmeter/launches/openmeter)                                                       | Usage metering for engineers                                        | #2 | #8 |
-| `2023-11-02` | [Liveblocks Comments](https://www.producthunt.com/products/liveblocks/launches/liveblocks-comments)                                  | Enable discussion in your product effortlessly                      | #5 |
 | `2023-10-18` | [LastMile AI](https://www.producthunt.com/products/lastmile-ai/launches/lastmile-ai)                                                 | AI developer platform for engineering teams                         | #2 | #4 |
 | `2023-10-17` | [Appwrite Cloud Beta](https://www.producthunt.com/products/appwrite/launches/appwrite-cloud-beta)                                    | Build like a team of hundreds                                       | #4 |
 | `2023-10-10` | [Frigade](https://www.producthunt.com/products/frigade/launches/frigade)                                                             | Product onboarding platform for React and Next.js                   | #4 |
@@ -117,8 +113,6 @@ It also includes:
 | `2023-09-08` | [GitStart](https://www.producthunt.com/products/gitstart/launches/gitstart)                                                          | Code as a service                                                   | #1 | #6 |
 | `2023-08-20` | [Langfuse](https://www.producthunt.com/products/langfuse/launches/langfuse)                                                          | Open source tracing and analytics for LLM applications              | #1 | #9 |
 | `2023-08-10` | [AI SQL Editor by Supabase](https://www.producthunt.com/products/supabase/launches/ai-sql-editor-by-supabase)                        | Write SQL without knowing SQL                                       | #1 | #6 |
-| `2023-06-23` | [Pieces for Developers](https://www.producthunt.com/products/pieces-for-developers/launches/pieces-for-developers)                   | AI code snippet manager to streamline your workflow                 | #5 |
-| `2023-06-08` | [Supabase Vector](https://www.producthunt.com/products/supabase/launches/supabase-vector)                                            | The open source backend for AI applications                         | #5 |
 | `2023-05-10` | [Raycast Pro](https://www.producthunt.com/products/raycast/launches/raycast-pro)                                                     | Unlock a new level productivity with AI, Cloud Sync and more        | #1 | #4 | #9 |
 | `2023-04-03` | [Lago](https://www.producthunt.com/products/lago/launches/lago)                                                                      | Open-source alternative to Stripe Billing and Chargebee             | #1 | #1 | #1 |
 | `2023-03-17` | [Warp AI](https://www.producthunt.com/products/warp/launches/warp-ai)                                                                | AI, fully integrated with your terminal                             | #2 | #6 |
@@ -131,8 +125,6 @@ It also includes:
 | `2022-04-06` | [Warp](https://www.producthunt.com/products/warp/launches/warp)                                                                      | The terminal for the 21st century                                   | #1 | #3 | #3 |
 | `2022-02-24` | [Specify](https://www.producthunt.com/products/specify/launches/specify-2)                                                           | Sync your Figma files with GitHub repositories in minutes           | #2 | #9 |
 | `2021-11-30` | [Raycast API and Store](https://www.producthunt.com/products/raycast/launches/raycast-api-and-store)                                 | Supercharged productivity with shareable custom extensions          | #1 | #4 |
-| `2021-09-29` | [Railway](https://www.producthunt.com/products/railway/launches/railway)                                                             | Config free deploys: bring your code, we'll handle the rest         | #3 |
-| `2021-07-29` | [Liveblocks](https://www.producthunt.com/products/liveblocks/launches/liveblocks)                                                    | Build amazing real‑time collaborative products                      | #4 |
 | `2021-02-17` | [Ray.so](https://www.producthunt.com/products/raycast/launches/ray-so)                                                               | Create beautiful images of your code                                | #3 | #2 | #4 |
 
 - Want to add more examples? Awesome! See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-product-hunt/blob/main/CONTRIBUTING.md)
@@ -145,11 +137,11 @@ It also includes:
 > Non-exhaustive list of alternative places to launch dev-first products, sorted by domain rating. Domain ratings by Ahrefs. 
 > More suggestions in [this repository](https://git.new/channels). 
 
-- [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (90)
-- [Uneed](https://www.uneed.best/submit-a-tool?atp=fmerian) (68)
-- [DevHunt](https://devhunt.org/) (54)
-- [launchweek.dev](https://launchweek.dev/) (28)
-- [early.tools](https://www.early.tools/submit) (25)
+- [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (91)
+- [Uneed](https://www.uneed.best/submit-a-tool?atp=fmerian) (72)
+- [DevHunt](https://devhunt.org/) (58)
+- [launchweek.dev](https://launchweek.dev/) (32)
+- [early.tools](https://www.early.tools/submit) (28)
 
 [Back to top ↑](#contents)
 
