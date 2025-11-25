@@ -70,7 +70,7 @@ https://
 
 ## Description
 
-> **260 characters max.**
+> **500 characters max.**
 
 ``` html
 
