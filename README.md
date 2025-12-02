@@ -166,7 +166,8 @@ It also includes:
 
 ### Podcast episodes
 
-- [Launching on Product Hunt](https://spti.fi/meow) on Scaling DevTools (2024) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
+- [Marketing DevTools on Product Hunt](https://spti.fi/deepear) on Going Deepear (2025) feat. [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
+- [Launching on Product Hunt](https://spti.fi/meow) on Scaling DevTools (2024) feat. [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
 
 ### Presentations
 
