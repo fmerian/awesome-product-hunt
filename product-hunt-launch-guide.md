@@ -125,7 +125,7 @@ Take n8n, an open-source Zapier alternative. When the team launched its 1.0 in J
 
 Here's another example. When we launched Specify, we collaborated with [Hiten Shah](https://www.producthunt.com/@hnshah). We chose to partner with Hiten because he has an influence on Product Hunt and beyond. Above all, it was a fantastic feeling for the team, e.g. an extra source of motivation prior to the launch.
 
-More personally, when I collaborate with teams to help them launch, like [Corbado](https://www.producthunt.com/products/corbado/launches/corbado) (launched in January 2024, ranked #4 Product of the Day) or [Kilo Code](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains) (launch in September 2025, ranked #1 Product of the Day), I'm committed to challenging every aspect of the launch plan and supporting on launch days by leveraging my network. 
+More personally, when I collaborate with teams to help them launch, like [Corbado](https://www.producthunt.com/products/corbado/launches/corbado) (launched in January 2024, ranked #4 Product of the Day) or [Kilo Code](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains) (launch in September 2025, ranked #1 Product of the Day and #1 OSS Product of the Month), I'm committed to challenging every aspect of the launch plan and supporting on launch days by leveraging my network. 
 
 If anyone can submit a product on Product Hunt anytime, a Hunter certainly helps with the launch. 
 
@@ -146,6 +146,11 @@ You can schedule your launch up to 30 days ahead. Below are some ideas to get st
 - Add your upcoming launch on [hunted.space](https://hunted.space) and [git.new/meow](https://git.new/meow/upcoming)
 - Schedule as much content as possible: social posts, website banner, email campaigns
 - Support other product launches
+- Run a display ad campaign
+
+> [!TIP]
+> 
+> Follow me [@fmerian on Product Hunt](https://www.producthunt.com/@fmerian) to discover and support developer tools.
 
 Also, make sure to tease your network and community early.
 
