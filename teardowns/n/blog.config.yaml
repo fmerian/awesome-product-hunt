@@ -1,0 +1,11 @@
+# blog metadata
+title: "The Breakpoint"
+description: "Weekly threads on all things developer tools on Product Hunt."
+
+# appearance
+theme: "github-dark"
+font: "geist-mono"
+
+# features
+show_toc: false
+show_repo_link: true
