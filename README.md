@@ -151,11 +151,15 @@ It also includes:
 
 - [Product Hunt Launch Guide](https://www.producthunt.com/launch) by Product Hunt
 
-### Blog posts
+### Teardowns
 
+- [How Dimension launched on Product Hunt](https://git.new/meow/dimension) (2025) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
 - [A look at Aikido's first launch on Product Hunt](https://git.new/meow/aikido) (2025) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
 - [How Kilo Code launched on Product Hunt](https://git.new/meow/kilocode) (2025) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
 - [Did Appwrite do the ideal Product Hunt launch?](https://git.new/meow/appwrite) (2025) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
+
+### Blog posts
+
 - [Lessons from 42 launches on Product Hunt](https://dev.to/fmerian/lessons-from-42-launches-on-product-hunt-3fp8) (2024) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
 - [Automate a Product Hunt launch](https://helicone.ai/blog/product-hunt-automate) (2024) by [@colegottdank](https://github.com/colegottdank) (launched [Helicone AI](https://www.producthunt.com/products/helicone-ai/launches/helicone-ai), ranked #1 POTD)
 - [How Daytona survived from Product Hunt](https://dev.to/daytona/how-we-missed-1-on-product-hunt-but-still-won-big-1gig) (2024) by [@nkko](https://github.com/nkkko) (launched [Daytona](https://www.producthunt.com/products/daytona/launches/daytona), ranked #2 POTD)
