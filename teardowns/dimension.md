@@ -1,6 +1,6 @@
 ---
 title: "From stealth to spotlight: How Dimension launched on Product Hunt"
-date: 2025-01-15
+date: 2025-11-20
 description: "Dimension is a proactive AI assistant for engineering teams that removes context-switching. It launched on Product Hunt in November 2025, for the first time after months in stealth mode, got featured, ranked #2 Product of the Day, and #3 Developer Tool of the Week."
 ---
 

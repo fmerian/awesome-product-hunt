@@ -1,6 +1,6 @@
 ---
 title: "A look at Aikido's first launch on Product Hunt"
-date: 2025-01-15
+date: 2025-09-11
 description: "#1 Product of the Day, #1 Developer Tool of the Month. Aikido first launched on Product Hunt in September 2025, and they crushed it."
 ---
 

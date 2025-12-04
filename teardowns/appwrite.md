@@ -1,6 +1,6 @@
 ---
 title: "Did Appwrite do the ideal Product Hunt launch?"
-date: 2025-01-15
+date: 2025-05-19
 description: "Appwrite launched Sites on Product Hunt in May 2025. It was their fourth launch there, and they really nailed it."
 ---
 

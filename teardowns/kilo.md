@@ -1,6 +1,6 @@
 ---
 title: How Kilo Code launched on Product Hunt
-date: 2025-01-15
+date: 2025-09-28
 description: "When you start prepping a launch on Product Hunt, you may read here and there stories, how-tos, step-by-step guides, and playbooks. This is another, different story."
 ---
 
@@ -28,7 +28,7 @@ According to hunted.space, [^5] Product Hunt has the highest traffic/visibility
 
 We launched Kilo Code on a Sunday. Why? Because of the target audience. Kilo Code is targeting developers, and many of them are developers in and out of work, with hobby projects to experiment with a new language, framework, or tool. 
 
-### you don't need to cold outreach people
+### You don't need to cold outreach people
 
 We didn't send any direct messages. We did post and repost on existing channels:
 
@@ -46,7 +46,8 @@ When launching Kilo Code on Product Hunt, we didn't check the lists you may find
 * 216 comments
 * `#1` Product of the Day
 * `#7` Product of the Week
-* `#1` OSS Product of the Week, `#2` DevTool of the Week
+* `#1` OSS Product of the Week
+* `#1` OSS Product of the Month
 
 You may wonder what my main lesson learned from this launch is. Here's the secret:
 
