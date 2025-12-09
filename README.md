@@ -15,7 +15,7 @@ It also includes:
 **Want to contribute? Awesome! See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-product-hunt/blob/main/CONTRIBUTING.md)**
 
 > [!TIP] 
-> Watch this repo to get notifications about new product launches
+> Watch this repo or follow me [@fmerian on 𝕏](https://x.com/fmerian) to get notified about new product launches
 
 ## Contents
 
@@ -45,7 +45,6 @@ It also includes:
 | `2025-10-27` | [v0 for iOS](https://www.producthunt.com/products/v0/launches/v0-for-ios)                                                            | Build anything with AI                                              | #1 | #2 |
 | `2025-10-18` | [Kibo UI Patterns](https://www.producthunt.com/products/kibo-ui/launches/kibo-ui-patterns)                                           | 1,000+ free shadcn/ui examples for use in your project              | #3 |
 | `2025-10-13` | [Replyke](https://www.producthunt.com/products/replyke/launches/replyke-4)                                                           | APIs for user content, social graphs, and moderation tools          | #2 |
-| `2025-10-13` | [Traycer AI](https://www.producthunt.com/products/traycer-ai/launches/traycer-ai)                                                    | Plan-first AI coding for real codebases                             | #4 |
 | `2025-10-10` | [Layercode CLI](https://www.producthunt.com/products/layercode/launches/layercode-cli)                                               | Build voice AI agents with one command                              | #3 |
 | `2025-10-08` | [QA.tech 1.0](https://www.producthunt.com/products/qa-tech/launches/qa-tech-1-0)                                                     | Stop breaking prod, build & test with a fleet of QA agents          | #2 |
 | `2025-10-03` | [Vercel Domains](https://www.producthunt.com/products/vercel/launches/vercel-domains)                                                | Fastest domain search on the planet with at cost pricing            | #3 |
@@ -69,7 +68,6 @@ It also includes:
 | `2025-05-18` | [Magic UI](https://www.producthunt.com/products/magic-ui/launches/magic-ui-2)                                                        | UI library for Design Engineers                                     | #1 |
 | `2025-04-28` | [cubic](https://www.producthunt.com/products/cubic/launches/cubic-2)                                                                 | Cursor for code review                                              | #1 | #1 |
 | `2025-04-11` | [cognee](https://www.producthunt.com/products/cognee/launches/cognee)                                                                | Memory for AI Agents in 5 lines of code                             | #3 |
-| `2025-04-08` | [Metabase Embedded Analytics](https://www.producthunt.com/products/metabase/launches/metabase-embedded-analytics)                    | Get in-product analytics quickly without waiting for spints         | #3 | 
 | `2025-04-02` | [Supabase UI Library](https://www.producthunt.com/products/supabase/launches/supabase-ui-library)                                    | Drop-in components based on shadcn/ui & powered by Supabase         | #4 | #9 |
 | `2025-03-27` | [Kilo Code for VS Code](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-vs-code)                                | Open-source, lightning speed autonomous AI coding agent             | #5 |
 | `2025-03-26` | [Pulse](https://www.producthunt.com/products/pulse-for-elasticsearch-and-opensearch/launches/pulse-for-elasticsearch-and-opensearch) | Search Cluster Monitoring & Maintenance, Redefined                  | #2 | #8 |
@@ -193,9 +191,9 @@ This repository is maintained by [@fmerian](https://producthunt.com/@fmerian):
 Enjoy your launch day!
 
 > [!NOTE]
-> ### Featured sponsors
+> ### Sponsors
 > 
-> > Thank you for your support.
+> > Thank you for your continuous support.
 > 
 > - [Dimension](https://dimension.dev) - AI that connects with your tools and automates the busywork.
 > - [Kilo Code](https://kilo.ai) - OSS AI coding assistant for planning, building & fixing code.
