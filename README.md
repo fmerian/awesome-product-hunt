@@ -184,10 +184,19 @@ It also includes:
 This repository is maintained by [@fmerian](https://producthunt.com/@fmerian):
 
 - Launched twice on Product Hunt in 2022
-- Contributed to launching 42+ dev-first products in 2023, 2024, and 2025
+- Contributed to launching 200+ dev-first products in 2023, 2024, and 2025
 - Among the Top 3 most active users
 - Brand Ambassador and 2022 Community Member of the Year (runner-up)
 
-**Follow me [@fmerian on 𝕏](https://x.com/fmerian) for more insights. DM for help and support.**
+**Follow me [@fmerian on 𝕏](https://x.com/fmerian) for more insights. [Book a 1-hour AMA session](https://cal.link/fmerian).**
 
 Enjoy your launch day!
+
+> [!NOTE]
+> ### Featured sponsors
+> 
+> > Thank you for your support.
+> 
+> - [Dimension](https://dimension.dev) - AI that connects with your tools and automates the busywork.
+> - [Kilo Code](https://kilo.ai) - OSS AI coding assistant for planning, building & fixing code.
+> - [TwelveLabs](https://www.twelvelabs.io) - AI platform for deep video understanding.
