@@ -23,6 +23,7 @@ It also includes:
 - [Examples](#examples)
 - [Alternatives](#alternatives)
 - [Resources](#resources)
+- [Tooling](#tools)
 - [About](#about)
 
 ## Glossary
@@ -174,6 +175,16 @@ It also includes:
 ### Presentations
 
 - [Setting up the launchpad](https://speakerdeck.com/fmerian/product-hunt) (2022) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
+
+[Back to top ↑](#contents)
+
+## Tools
+
+> Helpful products for your launch. Found in [this playbook](https://github.com/fmerian/awesome-product-hunt/blob/main/product-hunt-launch-guide.md).
+
+- [hunted.space](https://hunted.space/) - Monitor your launch day in real time.
+- [Typefully](https://meooow.link/typefully) - Draft, schedule, and post content on X, LinkedIn, Threads, Mastodon, and Bluesky.
+- [Dub.co](https://meooow.link/dub) - Create short, memorable URLs, and track conversion.
 
 [Back to top ↑](#contents)
 
