@@ -73,7 +73,7 @@ To start, below are the required inputs to submit a new product on Product Hunt.
 
 - **Name of the product**: simply the name of your product in 40 characters or less
 - **Tagline**: the most important part? a concise and descriptive tagline in 60 characters max; Avoid hyperbolic words and emojis; Keep it simple
-- **Description**: a short description of what the product does in less than 260 characters
+- **Description**: a short description of what the product does in less than 500 characters
 - **Launch tags**: up to three tags — [Browse full list here](https://www.producthunt.com/topics)
 - **Thumbnail**: a 240 x 240 pixel thumbnail
 - **Image gallery**: at least 3 images to show your product; Avoid stock images and marketing fluff. Show the product, i.e. product screenshots. You can add social proof and a call-to-action to inspire action; The first image is used as the social preview when you share the link to your launch page
@@ -142,11 +142,11 @@ In [this blog post](https://medium.com/@rrhoover/building-a-startup-build-an-aud
 You can schedule your launch up to 30 days ahead. Below are some ideas to get started:
 
 - Announce it in your Product Forum `/p/{yourProduct}` — see example from Kilo Code [here](https://meooow.link/kilocode/soon)
-- [Host an AMA session](https://www.producthunt.com/stories/how-to-host-a-successful-ama-on-product-hunt) — see examples from Bucket [here](https://meooow.link/bucket/ama) and Supabase [there](https://meooow.link/rorstro)
+- [Host an AMA session](https://www.producthunt.com/stories/how-to-host-a-successful-ama-on-product-hunt) — see examples from Dimension [here](https://meooow.link/dimension/ama) and Supabase [there](https://meooow.link/supabase/ama)
 - Add your upcoming launch on [hunted.space](https://hunted.space) and [git.new/meow](https://git.new/meow/upcoming)
 - Schedule as much content as possible: social posts, website banner, email campaigns
 - Support other product launches
-- Run a display ad campaign
+- Run a display ad campaign on Product Hunt
 
 > [!TIP]
 > 
@@ -289,7 +289,7 @@ If there certainly isn't a formula to launch successfully, there may be a set of
 
 Over to you! I hope this series gave you some insights to prep your launch on Product Hunt. I enjoy contributing to launching dev tools and am happy to help more folks.
 
-**Launching soon on Product Hunt? Feel free to reach out on [Twitter / X](https://x.com/fmerian) or [LinkedIn](https://linkedin.com/in/fmerian) for help and support.**
+**Launching soon on Product Hunt? [Let's connect](https://cal.link/fmerian).**
 
 **Enjoy your launch day!**
 
