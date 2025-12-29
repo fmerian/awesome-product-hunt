@@ -38,6 +38,7 @@ It also includes:
 
 | Launch date  | Product                                                                                                                              | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | -- | -- | -- |
+| `2025-12-01` | [TwelveLabs Marengo 3.0](https://www.producthunt.com/products/twelvelabs/launches/twelvelabs-marengo-3-0)                            | The most powerful embedding model for video understanding       | #3 |
 | `2025-11-20` | [Dimension](https://www.producthunt.com/products/dimension-2/launches/dimension-3)                                                   | AI that connects with your tools and automates the busywork    | #2 |
 | `2025-11-12` | [Logo.dev](https://www.producthunt.com/products/logo-dev/launches/logo-dev)                                                          | Reliable logos for any product, instantly.                          | #2 | #6 |
 | `2025-11-08` | [Shadcnblocks](https://www.producthunt.com/products/shadcnblocks-2/launches/shadcnblocks-2)                                          | The ultimate block set for shadcn/ui, Tailwind, and React           | #2 |
