@@ -38,30 +38,21 @@ It also includes:
 
 | Launch date  | Product                                                                                                                              | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | -- | -- | -- |
-| `2025-12-01` | [TwelveLabs Marengo 3.0](https://www.producthunt.com/products/twelvelabs/launches/twelvelabs-marengo-3-0)                            | The most powerful embedding model for video understanding       | #3 |
-| `2025-11-20` | [Dimension](https://www.producthunt.com/products/dimension-2/launches/dimension-3)                                                   | AI that connects with your tools and automates the busywork    | #2 |
+| `2025-12-01` | [TwelveLabs Marengo 3.0](https://www.producthunt.com/products/twelvelabs/launches/twelvelabs-marengo-3-0)                            | The most powerful embedding model for video understanding           | #3 |
+| `2025-11-20` | [Dimension](https://www.producthunt.com/products/dimension-2/launches/dimension-3)                                                   | AI that connects with your tools and automates the busywork         | #2 |
 | `2025-11-12` | [Logo.dev](https://www.producthunt.com/products/logo-dev/launches/logo-dev)                                                          | Reliable logos for any product, instantly.                          | #2 | #6 |
-| `2025-11-08` | [Shadcnblocks](https://www.producthunt.com/products/shadcnblocks-2/launches/shadcnblocks-2)                                          | The ultimate block set for shadcn/ui, Tailwind, and React           | #2 |
-| `2025-11-04` | [Firecrawl v2.5](https://www.producthunt.com/products/extract-by-firecrawl/launches/firecrawl-v2-5)                                  | The world's best Web Data API                                       | #4 |
 | `2025-11-01` | [Ultracite v6](https://www.producthunt.com/products/ultracite/launches/ultracite-v6)                                                 | Opinionated, zero-config code linter and formatter                  | #2 |
 | `2025-10-27` | [v0 for iOS](https://www.producthunt.com/products/v0/launches/v0-for-ios)                                                            | Build anything with AI                                              | #1 | #2 |
 | `2025-10-18` | [Kibo UI Patterns](https://www.producthunt.com/products/kibo-ui/launches/kibo-ui-patterns)                                           | 1,000+ free shadcn/ui examples for use in your project              | #3 |
-| `2025-10-13` | [Replyke](https://www.producthunt.com/products/replyke/launches/replyke-4)                                                           | APIs for user content, social graphs, and moderation tools          | #2 |
 | `2025-10-10` | [Layercode CLI](https://www.producthunt.com/products/layercode/launches/layercode-cli)                                               | Build voice AI agents with one command                              | #3 |
 | `2025-10-08` | [QA.tech 1.0](https://www.producthunt.com/products/qa-tech/launches/qa-tech-1-0)                                                     | Stop breaking prod, build & test with a fleet of QA agents          | #2 |
 | `2025-10-03` | [Vercel Domains](https://www.producthunt.com/products/vercel/launches/vercel-domains)                                                | Fastest domain search on the planet with at cost pricing            | #3 |
 | `2025-10-01` | [Databuddy Analytics](https://www.producthunt.com/products/databuddy-analytics/launches/databuddy-analytics)                         | Analytics, insights, and feature flags in one platform              | #5 |
-| `2025-09-30` | [C1 by Thesys](https://www.producthunt.com/products/thesys/launches/c1-by-thesys)                                                    | Make AI apps respond with interactive UI in real-time              | #2 | #3 |
-| `2025-09-29` | [Fern](https://www.producthunt.com/products/fern/launches/fern)                                                                      | Instant docs and SDKs for your API                                  | #2 |
+| `2025-09-30` | [C1 by Thesys](https://www.producthunt.com/products/thesys/launches/c1-by-thesys)                                                    | Make AI apps respond with interactive UI in real-time               | #2 | #3 |
 | `2025-09-28` | [Kilo Code for JetBrains](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains)                            | Fast, open-source AI coding agent for JetBrains IDEs                | #1 | #7 |
 | `2025-09-27` | [GitHub Copilot CLI](https://www.producthunt.com/products/github-copilot/launches/github-copilot-cli)                                | Copilot's response to Claude Code and Codex CLI                     | #1 |
 | `2025-09-11` | [Aikido Security](https://www.producthunt.com/products/aikido-2/launches/aikido-security)                                            | Secure everything you build, host, and run.                         | #1 | #8 |
-| `2025-08-25` | [AI Elements by Vercel](https://www.producthunt.com/products/vercel/launches/ai-elements-by-vercel)                                  | The shadcn/ui component library for building AI-native apps         | #5 |
 | `2025-08-12` | [v0.app by Vercel](https://www.producthunt.com/products/v0/launches/v0-app-by-vercel)                                                | The AI builder for everyone                                         | #4 |
-| `2025-08-03` | [Hypertune](https://www.producthunt.com/products/hypertune/launches/hypertune)                                                       | Type-safe feature flags. Optimized for React and Next.js.           | #4 |
-| `2025-07-29` | [Magic Patterns](https://www.producthunt.com/products/magicpatterns/launches/magic-patterns-2)                                       | Design new features with AI                                         | #1 |
-| `2025-06-25` | [FlashDocs API](https://www.producthunt.com/products/flashdocs-api/launches/flashdocs-api/)                                          | Custom Google Slides & PowerPoints via AI-powered API               | #2 | #5 |
-| `2025-06-23` | [AI Assistant by Mintlify](https://www.producthunt.com/products/mintlify/launches/ai-assistant-by-mintlify)                          | A conversational, agentic asisstant built into your docs            | #3 |
 | `2025-06-18` | [Liveblocks 3.0](https://www.producthunt.com/products/liveblocks/launches/liveblocks-3-0)                                            | Ready-made AI copilots and collaboration for your product           | #1 | #6 |
 | `2025-06-17` | [Laravel Nightwatch](https://www.producthunt.com/products/-framework/launches/laravel-nightwatch)                                    | First-class monitoring designed for Laravel                         | #4 |
 | `2025-06-06` | [next-forge](https://www.producthunt.com/products/vercel/launches/next-forge-by-vercel)                                              | Production-grade template for modern Next.js apps                   | #4 |
@@ -72,12 +63,8 @@ It also includes:
 | `2025-04-11` | [cognee](https://www.producthunt.com/products/cognee/launches/cognee)                                                                | Memory for AI Agents in 5 lines of code                             | #3 |
 | `2025-04-02` | [Supabase UI Library](https://www.producthunt.com/products/supabase/launches/supabase-ui-library)                                    | Drop-in components based on shadcn/ui & powered by Supabase         | #4 | #9 |
 | `2025-03-27` | [Kilo Code for VS Code](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-vs-code)                                | Open-source, lightning speed autonomous AI coding agent             | #5 |
-| `2025-03-26` | [Pulse](https://www.producthunt.com/products/pulse-for-elasticsearch-and-opensearch/launches/pulse-for-elasticsearch-and-opensearch) | Search Cluster Monitoring & Maintenance, Redefined                  | #2 | #8 |
-| `2025-03-25` | [Inferless](https://www.producthunt.com/products/inferless/launches/inferless)                                                       | Deploy any machine learning models in minutes                       | #1 | #4 |
 | `2025-02-23` | [Flags SDK by Vercel](https://www.producthunt.com/products/vercel/launches/flags-sdk-by-vercel)                                      | Free, open-source library for using feature flags in Next.js        | #2 |
 | `2025-02-19` | [Lingo.dev](https://www.producthunt.com/products/lingodotdev/launches/lingodotdev)                                                   | Ship apps translated in every language, in minutes                  | #2 | #4 | #9 |
-| `2025-01-31` | [Orate](https://www.producthunt.com/products/vercel/launches/orate-2)                                                                | The AI toolkit for speech                                           | #5 |
-| `2025-01-26` | [Tailwind Catalyst](https://www.producthunt.com/products/tailwind-css/launches/catalyst-6)                                           | A modern UI kit for React, by the creators of Tailwind CSS          | #3 |
 | `2025-01-23` | [Jolt AI](https://www.producthunt.com/products/jolt-ai/launches/usejolt-ai)                                                          | AI assistant for 100k to multi-million line codebases               | #3 |
 | `2025-01-23` | [Opengrep](https://www.producthunt.com/products/opengrep/launches/opengrep)                                                          | The open source static code analysis engine                         | #5 |
 | `2025-01-18` | [Grep by Vercel](https://www.producthunt.com/products/vercel/launches/grep-by-vercel)                                                | Code search made fast                                               | #2 |
@@ -90,7 +77,6 @@ It also includes:
 | `2024-11-10` | [Trench](https://www.producthunt.com/products/trench/launches/trench)                                                                | Open source analytics infrastructure                                | #3 |
 | `2024-10-30` | [bolt.new](https://www.producthunt.com/products/bolt-new/launches/bolt-new)                                                          | Prompt, run, edit & deploy full-stack web apps                      | #1 | #2 | #9 |
 | `2024-10-21` | [Trag](https://www.producthunt.com/products/trag/launches/trag)                                                                      | AI code review companion                                            | #1 | #1 | #2 | 
-| `2024-10-11` | [Octomind QA Agent](https://www.producthunt.com/products/octomind/launches/octomind-qa-agent)                                        | AI-powered end-to-end testing                                       | #1 |
 | `2024-10-10` | [Latitude](https://www.producthunt.com/products/latitude/launches/latitude-7)                                                        | The open-source prompt engineering platform                         | #2 | #8 |
 | `2024-10-09` | [Layouts.dev](https://www.producthunt.com/products/layouts-dev/launches/layouts-dev)                                                 | A notebook for building interfaces with Tailwind & shadcn/UI        | #2 | #6 |
 | `2024-08-22` | [Helicone AI](https://www.producthunt.com/products/helicone-ai/launches/helicone-ai)                                                 | Open-source LLM Observability for Developers                        | #1 | #2 |
@@ -138,9 +124,9 @@ It also includes:
 > More suggestions in [this repository](https://git.new/channels). 
 
 - [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (91)
-- [Uneed](https://www.uneed.best/submit-a-tool?atp=fmerian) (72)
-- [DevHunt](https://devhunt.org/) (58)
-- [launchweek.dev](https://launchweek.dev/) (32)
+- [Uneed](https://www.uneed.best/submit-a-tool?atp=fmerian) (73)
+- [DevHunt](https://devhunt.org/) (59)
+- [launchweek.dev](https://launchweek.dev/) (33)
 - [early.tools](https://www.early.tools/submit) (28)
 
 [Back to top ↑](#contents)
@@ -153,14 +139,14 @@ It also includes:
 
 ### Teardowns
 
-- [How Dimension launched on Product Hunt](https://git.new/meow/dimension) (2025) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
-- [A look at Aikido's first launch on Product Hunt](https://git.new/meow/aikido) (2025) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
-- [How Kilo Code launched on Product Hunt](https://git.new/meow/kilocode) (2025) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
-- [Did Appwrite do the ideal Product Hunt launch?](https://git.new/meow/appwrite) (2025) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
+- [How Dimension launched on Product Hunt](https://git.new/meow/dimension) (2025)
+- [A look at Aikido's first launch on Product Hunt](https://git.new/meow/aikido) (2025)
+- [How Kilo Code launched on Product Hunt](https://git.new/meow/kilocode) (2025)
+- [Did Appwrite do the ideal Product Hunt launch?](https://git.new/meow/appwrite) (2025)
 
 ### Blog posts
 
-- [Lessons from 42 launches on Product Hunt](https://dev.to/fmerian/lessons-from-42-launches-on-product-hunt-3fp8) (2024) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
+- [Lessons from 42 launches on Product Hunt](https://dev.to/fmerian/lessons-from-42-launches-on-product-hunt-3fp8) (2025) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
 - [Automate a Product Hunt launch](https://helicone.ai/blog/product-hunt-automate) (2024) by [@colegottdank](https://github.com/colegottdank) (launched [Helicone AI](https://www.producthunt.com/products/helicone-ai/launches/helicone-ai), ranked #1 POTD)
 - [How Daytona survived from Product Hunt](https://dev.to/daytona/how-we-missed-1-on-product-hunt-but-still-won-big-1gig) (2024) by [@nkko](https://github.com/nkkko) (launched [Daytona](https://www.producthunt.com/products/daytona/launches/daytona), ranked #2 POTD)
 - [#1 Developer Tool of the Month](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41) (2023) by [@tanya-rai](https://github.com/tanya-rai) (launched [LastMile AI](https://www.producthunt.com/products/lastmile-ai/launches/lastmile-ai), ranked #2 POTD)
@@ -170,8 +156,8 @@ It also includes:
 
 ### Podcast episodes
 
-- [Marketing DevTools on Product Hunt](https://spti.fi/deepear) on Going Deepear (2025) feat. [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
-- [Launching on Product Hunt](https://spti.fi/meow) on Scaling DevTools (2024) feat. [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
+- [Marketing DevTools on Product Hunt](https://spti.fi/deepear) on Going Deepear (2025)
+- [Launching on Product Hunt](https://spti.fi/meow) on Scaling DevTools (2024)
 
 ### Presentations
 
