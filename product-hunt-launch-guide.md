@@ -35,13 +35,15 @@ Rishabh Kaul, Head of Marketing at Appsmith, who launched in March 2023 and rank
 
 To start, some definitions:
 
-- **Maker**: a user who works on the product
+- **Maker**: a user who works on a launch
 - **Hunter**: a user who submits a product and doesn't work on it
-- **Upvoter**: a user who upvotes a product
-- **Commenter**: a user who comments on a product
-- **Launch page**: where your launched product lives
+- **Upvoter**: a user who upvotes a launch
+- **Commenter**: a user who comments on a launch
+- **Launch post**: where your launched product lives
+- **Product Hub**: lists your previous launches, reviews, and threads
+- **Product Forum**: where users discuss all-things products 
 - **Kitty coins**: Novice (Level 0-100), Bronze (Level 101-500), Silver (Level 501-1,000), Gold (Level 1,001+)
-- **Ranking**: Product of the Day / Week / Month / Year (i.e. Golden Kitty Award)
+- **Ranking**: Product of the Day / Week / Month
 
 Let's be upfront. Over the years, I've contributed to launching many dev-first products and, is there a secret sauce? _No._
 
