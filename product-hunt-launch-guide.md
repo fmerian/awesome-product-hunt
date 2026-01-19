@@ -6,6 +6,22 @@ No. What you probably care about is what my key takeaways are.
 
 So, here we go — what I learned from 42 (or 55) dev-first product launches on Product Hunt.
 
+## TL,DR
+
+- **Polish the details**: keep the tagline and description simple and straightforward
+- **Show the product**: no stock images, no marketing fluff
+- **Find a Hunter**
+- **Schedule your launch early**
+- **Schedule as much content as possible**: first comment and social posts
+- **Raise awareness**: build an audience, support other product launches
+- **Go live at 12:01 AM PST on a weekday for maximum exposure**
+- **Rank in the Top 4 within the first 4 hours**
+- **Engage**: upvote and reply to every comment
+- **Launch, and keep launching**
+
+> [!TIP] 
+> Launching soon on Product Hunt? [Let's connect](https://cal.link/fmerian).
+
 ## Why Product Hunt
 
 **Product Hunt definitely is a great place for developer tools** — a place where many dev-first products launched successfully, Stripe, Resend, Vercel, to name a few; a place where products like Anthropic, ElevenLabs, and Supabase are among the most followed and loved.
@@ -278,16 +294,16 @@ Product Hunt definitely is a great place to launch a developer-first product.
 
 If there certainly isn't a formula to launch successfully, there may be a set of principles to help maximize your chances:
 
-- Polish the details: keep the tagline and description simple and straightforward
-- Show the product: no stock images, no marketing fluff
-- Find a Hunter
-- Schedule your launch early
-- Schedule as much content as possible: first comment and social posts
-- Raise awareness: build an audience, support other product launches
-- Go live at 12:01 AM PST on a weekday for maximum exposure
-- Rank in the Top 5 within the first 4 hours
-- Engage: upvote and reply to every comment
-- Launch, and keep launching
+- **Polish the details**: keep the tagline and description simple and straightforward
+- **Show the product**: no stock images, no marketing fluff
+- **Find a Hunter**
+- **Schedule your launch early**
+- **Schedule as much content as possible**: first comment and social posts
+- **Raise awareness**: build an audience, support other product launches
+- **Go live at 12:01 AM PST on a weekday for maximum exposure**
+- **Rank in the Top 4 within the first 4 hours**
+- **Engage**: upvote and reply to every comment
+- **Launch, and keep launching**
 
 Over to you! I hope this series gave you some insights to prep your launch on Product Hunt. I enjoy contributing to launching dev tools and am happy to help more folks.
 
