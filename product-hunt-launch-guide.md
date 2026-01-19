@@ -22,6 +22,10 @@ So, here we go — what I learned from 42 (or 55) dev-first product launches on 
 > [!TIP] 
 > Launching soon on Product Hunt? [Let's connect](https://cal.link/fmerian).
 
+> **Flo is one of the most knowledgable, connected and kindest people in devtools. His experience, expertise and taste in marketing to developers, and deep experience with Product Hunt helped make our launch significantly stronger.**
+>
+> — [Aidan Hornsby](https://www.linkedin.com/in/aidanhornsby/), Co-founder, Layercode
+
 ## Why Product Hunt
 
 **Product Hunt definitely is a great place for developer tools** — a place where many dev-first products launched successfully, Stripe, Resend, Vercel, to name a few; a place where products like Anthropic, ElevenLabs, and Supabase are among the most followed and loved.
@@ -143,7 +147,11 @@ Take n8n, an open-source Zapier alternative. When the team launched its 1.0 in J
 
 Here's another example. When we launched Specify, we collaborated with [Hiten Shah](https://www.producthunt.com/@hnshah). We chose to partner with Hiten because he has an influence on Product Hunt and beyond. Above all, it was a fantastic feeling for the team, e.g. an extra source of motivation prior to the launch.
 
-More personally, when I collaborate with teams to help them launch, like [Corbado](https://www.producthunt.com/products/corbado/launches/corbado) (launched in January 2024, ranked #4 Product of the Day) or [Kilo Code](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains) (launch in September 2025, ranked #1 Product of the Day and #1 OSS Product of the Month), I'm committed to challenging every aspect of the launch plan and supporting on launch days by leveraging my network. 
+More personally, when I collaborate with teams to help them launch, like [Layercode](https://www.producthunt.com/products/layercode/launches/layercode-cli) (launched in October 2025, ranked #3 Product of the Day) or [Kilo Code](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains) (launch in September 2025, ranked #1 Product of the Day and #1 OSS Product of the Month), I'm committed to challenging every aspect of the launch plan and supporting on launch days by leveraging my network. 
+
+> **Flo is one of the most knowledgable, connected and kindest people in devtools. His experience, expertise and taste in marketing to developers, and deep experience with Product Hunt helped make our launch significantly stronger.**
+>
+> — [Aidan Hornsby](https://www.linkedin.com/in/aidanhornsby/), Co-founder, Layercode
 
 If anyone can submit a product on Product Hunt anytime, a Hunter certainly helps with the launch. 
 
