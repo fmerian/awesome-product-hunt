@@ -24,7 +24,7 @@ So, here we go - what I learned from 42 (or 55) dev-first product launches on Pr
 
 > **Flo is one of the most knowledgable, connected and kindest people in devtools. His experience, expertise and taste in marketing to developers, and deep experience with Product Hunt helped make our launch significantly stronger.**
 >
-> - [Aidan Hornsby](https://www.linkedin.com/in/aidanhornsby/), Co-founder, Layercode
+> -- [Aidan Hornsby](https://www.linkedin.com/in/aidanhornsby/), Co-founder, Layercode
 
 ## Why Product Hunt
 
@@ -34,7 +34,7 @@ Darko Gjorgjievski launched Kilo Code on Product Hunt twice in 2025. Both rank
 
 > **Many users on Product Hunt are technical founders. They code. And they want to know how to get to where they want faster.**
 >
-> - [Darko Gjorgjievski](https://www.linkedin.com/in/darko-gjorgjievski-65a63627/), Developer Relations Engineer, Kilo Code
+> -- [Darko Gjorgjievski](https://www.linkedin.com/in/darko-gjorgjievski-65a63627/), Developer Relations Engineer, Kilo Code
 
 In September 2025, according to [similarweb.com](https://www.similarweb.com/website/producthunt.com/#overview), Product Hunt got 2.7 million monthly unique visitors, and according to [Ahrefs](https://ahrefs.com/website-authority-checker/?input=producthunt.com), it had a 91 domain rating.
 
@@ -47,7 +47,7 @@ Rishabh Kaul, Head of Marketing at Appsmith, who launched in March 2023 and rank
 
 > **One of the often overlooked parts of Product Hunt is the reviews that you get during launch. They are customer testimonials for your marketing site.**
 >
-> - [Rishabh Kaul](https://www.linkedin.com/in/rishabhkaul), Head of Marketing, Appsmith
+> -- [Rishabh Kaul](https://www.linkedin.com/in/rishabhkaul), Head of Marketing, Appsmith
 
 **The question isn't _if_ you should launch on Product Hunt. It's *how*.**
 
@@ -77,7 +77,7 @@ Take Peer Richelsen. Peer is the co-founder and co-CEO of Cal.com. He [launched 
 
 > **Have a good product.**
 >
-> - Peer Richelsen, Co-founder and CEO, Cal.com
+> -- Peer Richelsen, Co-founder and CEO, Cal.com
 
 **You don't need to overthink to launch on Product Hunt successfully. Keep it simple.**
 
@@ -118,7 +118,7 @@ Tanya Rai and her team launched LastMile AI in October 2023 and ranked #2 Produc
 
 > **We spent some time nailing the messaging in a way that was palatable to the Product Hunt community. It's good to tailor your messaging and media assets to the community - it will resonate more.**
 >
-> - [Tanya Rai](https://www.linkedin.com/in/tanyarai/), Product Manager, LastMile AI
+> -- [Tanya Rai](https://www.linkedin.com/in/tanyarai/), Product Manager, LastMile AI
 
 Now that you've polished the details and tailored the messaging and visual assets in a simple and straightforward way, it's time to schedule the launch and submit the product. I recommend finding a Hunter.
 
@@ -143,7 +143,7 @@ Take n8n, an open-source Zapier alternative. When the team launched its 1.0 in J
 
 > **A recognized Hunter makes a difference. We partnered with Chris Messina to be our Hunter, and it helped a lot - even when Product Hunt says it doesn't.**
 >
-> - [Luis Guzmán](https://www.linkedin.com/in/guzmanluis/), Head of Marketing, n8n
+> -- [Luis Guzmán](https://www.linkedin.com/in/guzmanluis/), Head of Marketing, n8n
 
 Here's another example. When we launched Specify, we collaborated with [Hiten Shah](https://www.producthunt.com/@hnshah). We chose to partner with Hiten because he has an influence on Product Hunt and beyond. Above all, it was a fantastic feeling for the team, e.g. an extra source of motivation prior to the launch.
 
@@ -151,7 +151,7 @@ More personally, when I collaborate with teams to help them launch, like [Layerc
 
 > **Flo is one of the most knowledgable, connected and kindest people in devtools. His experience, expertise and taste in marketing to developers, and deep experience with Product Hunt helped make our launch significantly stronger.**
 >
-> - [Aidan Hornsby](https://www.linkedin.com/in/aidanhornsby/), Co-founder, Layercode
+> -- [Aidan Hornsby](https://www.linkedin.com/in/aidanhornsby/), Co-founder, Layercode
 
 If anyone can submit a product on Product Hunt anytime, a Hunter certainly helps with the launch. 
 
@@ -161,7 +161,7 @@ In [this blog post](https://medium.com/@rrhoover/building-a-startup-build-an-aud
 
 > **Building a startup? Build an audience, first.**
 >
-> - Ryan Hoover, Founder, Product Hunt
+> -- Ryan Hoover, Founder, Product Hunt
 
 **This could apply to product launches, too: if you're launching on Product Hunt, build an audience first.**
 
@@ -182,7 +182,7 @@ Also, make sure to tease your network and community early.
 
 > **We let our network and product community know that we had planned to launch on Product Hunt. It was super valuable for us to have support from our existing users and network and they came through for us.**
 >
-> - [Tanya Rai](https://www.linkedin.com/in/tanyarai/), Product Manager, LastMile AI
+> -- [Tanya Rai](https://www.linkedin.com/in/tanyarai/), Product Manager, LastMile AI
 
 > [!TIP]
 > Use a URL shortener like [Dub](https://meooow.link/dub) as a backdoor edit button.
@@ -227,13 +227,13 @@ Laura Du Ry and the Appwrite team launched its Cloud Beta in October 2023 and ra
 
 > **The team was quick with responding and engaging. We cleared a part of the teams' calendar to be able to engage.**
 >
-> - [Laura Du Ry](https://www.linkedin.com/in/laura-du-ry-53203b94/), Growth Manager, Appwrite
+> -- [Laura Du Ry](https://www.linkedin.com/in/laura-du-ry-53203b94/), Growth Manager, Appwrite
 
 Tanya Rai from LastMile AI shares the feeling:
 
 > **On launch day, we had the whole team on board to respond to messages almost instantly. This was a round-the-clock effort by the team to show that we were actively engaged and interested in what feedback we were receiving from the Product Hunt community. We left no questions or comments unanswered.**
 >
-> - [Tanya Rai](https://www.linkedin.com/in/tanyarai/), Product Manager, LastMile AI
+> -- [Tanya Rai](https://www.linkedin.com/in/tanyarai/), Product Manager, LastMile AI
 
 Make this launch day an opportunity to celebrate your efforts with your team and community. Make the most out of it by engaging in conversations and brainstorming new ideas, and above all, _enjoy it._
 
@@ -271,7 +271,7 @@ Luis Guzmán, Head of Marketing at n8n (launched [6 times](https://www.producthu
 
 > **Every follower we collected from past launches receives a notification about recent launches. This helps get more exposure.**
 >
-> - [Luis Guzmán](https://www.linkedin.com/in/guzmanluis/), Head of Marketing, n8n
+> -- [Luis Guzmán](https://www.linkedin.com/in/guzmanluis/), Head of Marketing, n8n
 
 > [!TIP] 
 > Each launch reaches more people, builds more followers, which then helps future launches.
