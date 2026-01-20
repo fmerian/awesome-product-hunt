@@ -195,6 +195,6 @@ Enjoy your launch day!
 > 
 > > Thank you for your continuous support.
 > 
-> - [Dimension](https://dimension.dev) - AI that connects with your tools and automates the busywork.
 > - [Kilo Code](https://kilo.ai) - OSS AI coding assistant for planning, building & fixing code.
+> - [Mastra](https://mastra.ai) - Build AI agents with a modern TypeScript stack.
 > - [TwelveLabs](https://www.twelvelabs.io) - AI platform for deep video understanding.
