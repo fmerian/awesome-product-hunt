@@ -17,7 +17,7 @@ I still do want to keep the quality of this repo, so I may not merge all PRs.
   - Make sure the PR title is in the format: `Add {product}`
 - Add the link:
 ```
-| `YYYY-MM-DD` | [Name of the product](https://www.producthunt.com/products/{yourProduct}/launches/{slug}) | Tagline | #0 | #0 | #0 |
+| `YY-MM-DD` | [Name of the product](https://www.producthunt.com/products/{yourProduct}/launches/{slug}) | Tagline | #0 | #0 | #0 |
 ```
 - [ ] Make sure the new submission isn't a duplicate
 - [ ] Check the spelling and grammar
