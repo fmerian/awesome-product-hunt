@@ -38,7 +38,8 @@ It also includes:
 
 | Launch date | Product                                                                                                                             | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
-| `26-01-23` | [Tonkotsu](https://www.producthunt.com/products/tonkotsu/launches/tonkotsu)                                                          | Manage a team of coding agents from a doc                        | #1 | #8 |
+| `26-01-28` | [Kilo Code Reviewer](https://www.producthunt.com/products/kilocode/launches/kilo-code-reviewer)                                      | Automatic AI-powered code reviews the moment you open a PR    | #1 |
+| `26-01-23` | [Tonkotsu](https://www.producthunt.com/products/tonkotsu/launches/tonkotsu)                                                          | Manage a team of coding agents from a doc                           | #1 | #8 |
 | `26-01-21` | [Mastra 1.0](https://www.producthunt.com/products/mastra/launches/mastra)                                                            | Build AI agents with a modern TypeScript stack                   | #3 | #4 |
 | `26-01-16` | [1Code](https://www.producthunt.com/products/1code-cursor-like-ui-for-claude-code/launches/1code-2)                                  | Open-source Cursor-like UI for Claude Code                          | #1 | #3 |
 | `26-01-03` | [Ultracite v7](https://www.producthunt.com/products/ultracite/launches/ultracite-v7)                                                 | Opinionated, zero-config code linter and formatter               | #3 |
