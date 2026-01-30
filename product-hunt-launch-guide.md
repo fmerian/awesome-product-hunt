@@ -283,12 +283,11 @@ Launch, and keep launching.
 Below are more resources for inspiration:
 
 - [Product Hunt Launch Guide](https://www.producthunt.com/launch) by Product Hunt
-- [Automate a Product Hunt launch](https://www.helicone.ai/blog/product-hunt-automate) (2024) by [@colegottdank](https://github.com/colegottdank) (launched [Helicone AI](https://www.producthunt.com/products/helicone-ai/launches/helicone-ai), ranked #1 POTD)
-- [How Daytona survived from Product Hunt](https://dev.to/daytona/how-we-missed-1-on-product-hunt-but-still-won-big-1gig) (2024) by [@nkko](https://github.com/nkkko) (launched [Daytona](https://www.producthunt.com/products/daytona/launches/daytona), ranked #2 POTD)
-- [#1 Developer Tool of the Month](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41) (2023) by [@tanya-rai](https://github.com/tanya-rai) (launched [LastMile AI](https://www.producthunt.com/products/lastmile-ai/launches/lastmile-ai), ranked #2 POTD)
-- [Lago's Product Hunt Launch Playbook](https://git.new/meow/lago) (2023) by [@anhtho-lago](https://github.com/anhtho-lago) (launched [Lago](https://www.producthunt.com/products/lago/launches/lago), ranked #1 POTM)
-- [Launching dev tools on Product Hunt](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt) (2022) by [@ronakganatra](https://github.com/ronakganatra) (launched [GraphCMS](https://www.producthunt.com/products/graphcms/launches/graphcms-3), ranked #5 POTD)
-
+- [Reverse-engineering Cursor's recent launches](https://git.new/meow/cursor)
+- [How Dimension launched on Product Hunt](https://git.new/meow/dimension)
+- [A look at Aikido's first launch on Product Hunt](https://git.new/meow/aikido)
+- [How Kilo Code launched on Product Hunt](https://git.new/meow/kilocode)
+- [Did Appwrite do the ideal Product Hunt launch?](https://git.new/meow/appwrite)
 
 You can find here more resources to help you get started:
 
