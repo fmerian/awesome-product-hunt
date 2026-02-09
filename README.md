@@ -38,6 +38,7 @@ It also includes:
 
 | Launch date | Product                                                                                                                             | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
+| `26-02-08` | [Axel](https://www.producthunt.com/products/axel-3/launches/axel-3)                                                                  | Todoist for AI coding agents                                        | #3 |
 | `26-01-28` | [Kilo Code Reviewer](https://www.producthunt.com/products/kilocode/launches/kilo-code-reviewer)                                      | Automatic AI-powered code reviews the moment you open a PR    | #1 | #1 | #2 |
 | `26-01-23` | [Tonkotsu](https://www.producthunt.com/products/tonkotsu/launches/tonkotsu)                                                          | Manage a team of coding agents from a doc                           | #1 | #8 |
 | `26-01-21` | [Mastra 1.0](https://www.producthunt.com/products/mastra/launches/mastra)                                                            | Build AI agents with a modern TypeScript stack                   | #3 | #4 |
