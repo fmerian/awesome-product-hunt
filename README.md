@@ -38,7 +38,10 @@ It also includes:
 
 | Launch date | Product                                                                                                                             | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
+| `26-02-27` | [Superset](https://www.producthunt.com/products/superset-5/launches/superset-5)                                                      | Run an army of Claude Code, Codex, etc. on your machine            | #1 | #4 |
+| `26-02-27` | [Mastra Code](https://www.producthunt.com/products/mastra/launches/mastra-code)                                                      | The AI coding agent that never compacts                             | #5 | 
 | `26-02-26` | [Tessl](https://www.producthunt.com/products/tessl/launches/tessl)                                                                   | Optimize agents skills, ship 3× better code.                   | #5 |
+| `26-02-24` | [KiloClaw](https://www.producthunt.com/products/kiloclaw/launches/kiloclaw)                                                          | Hosted OpenClaw. No Mac mini required.                              | #1 | #1 | #4 |
 | `26-02-08` | [Axel](https://www.producthunt.com/products/axel-3/launches/axel-3)                                                                  | Todoist for AI coding agents                                        | #3 |
 | `26-01-28` | [Kilo Code Reviewer](https://www.producthunt.com/products/kilocode/launches/kilo-code-reviewer)                                      | Automatic AI-powered code reviews the moment you open a PR    | #1 | #1 | #2 |
 | `26-01-23` | [Tonkotsu](https://www.producthunt.com/products/tonkotsu/launches/tonkotsu)                                                          | Manage a team of coding agents from a doc                           | #1 | #8 |
