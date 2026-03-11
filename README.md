@@ -148,6 +148,7 @@ It also includes:
 - [How Permit.io got #1 Product of the Day](https://wpermit.io/blog/producthunt-howto) (2023) by [@danielbass37](https://github.com/danielbass37) (launched [Permit.io](https://www.producthunt.com/products/permit-io/launches/permit-io), ranked #1 POTD)
 - [Lago's Product Hunt Launch Playbook](https://git.new/meow/lago) (2023) by [@anhtho-lago](https://github.com/anhtho-lago) (launched [Lago](https://www.producthunt.com/products/lago/launches/lago), ranked #1 POTM)
 - [Launching dev tools on Product Hunt](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt) (2022) by [@ronakganatra](https://github.com/ronakganatra) (launched [GraphCMS](https://www.producthunt.com/products/graphcms/launches/graphcms-3), ranked #5 POTD)
+- [AI Product Global Launch Playbook](https://github.com/Gingiris/gingiris-launch) (2026) by [@Gingiris](https://github.com/Gingiris) - Complete Product Hunt SOP. Achieved #1 POTD 30 times, #1 POTW 3 times. From the team behind AFFiNE (60k+ stars).
 
 ### Podcast episodes
 
