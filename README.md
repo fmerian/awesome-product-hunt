@@ -1,21 +1,23 @@
 # Awesome Product Hunt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Product Hunt _is_ a great place to launch a developer tool.
+Product Hunt is a great place to launch a developer tool.
 
-Many developer-first products successfully launched there. You can find here their stories and more examples for inspiration.
+Many developer-first products successfully launched there, products like [Supabase](https://www.producthunt.com/products/supabase), [Mastra](https://www.producthunt.com/products/mastra), and [Kilo Code](https://www.producthunt.com/products/kilocode) for example. 
 
-This repository includes a wiki with bit-sized pro tips and discussions to help you prep your launch and enjoy it.
+Inspired by Agam's [awesome-developer-first](https://github.com/agamm/awesome-developer-first) and Ronak's [awesome-developer-marketing](https://github.com/ronakganatra/awesome-developer-marketing), this repository is a curated list of awesome dev-first product launches for inspiration.
+
+This repository includes a wiki with bit-sized pro tips and discussions to help you prep your launch -- and enjoy it.
 
 It also includes:
 
-- [product-hunt-launch-guide.md](https://git.new/meow/guide): best practices when launching on Product Hunt
+- [product-hunt-launch-guide.md](https://git.new/meow/guide): best practices when launching developer tools on Product Hunt
 - [product-hunt-launch-kit.md](https://git.new/meow/kit): required inputs to submit a new product
 - [product-hunt-community-kit.md](https://git.new/meow/community): ideas to leverage your network
 
 **Want to contribute? Awesome! See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-product-hunt/blob/main/CONTRIBUTING.md)**
 
 > [!TIP] 
-> Watch this repo or follow me [@fmerian on 𝕏](https://x.com/fmerian) to get notified about new product launches
+> Watch this repo or follow me [@fmerian on 𝕏](https://x.com/intent/user?screen_name=fmerian) to get notified about new product launches. Launching soon? [Book a 1-hour AMA session](https://cal.link/fmerian).
 
 ## Contents
 
@@ -117,7 +119,7 @@ It also includes:
 > More suggestions in [this repository](https://git.new/channels). 
 
 - [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (91)
-- [Uneed](https://www.uneed.best/submit-a-tool?atp=fmerian) (73)
+- [Uneed](https://uneed.best/submit-a-tool?atp=fmerian) (73)
 - [DevHunt](https://devhunt.org/) (59)
 - [launchweek.dev](https://launchweek.dev/) (33)
 - [early.tools](https://www.early.tools/submit) (28)
@@ -128,7 +130,7 @@ It also includes:
 
 > Sorted by release date.
 
-- [Product Hunt Launch Guide](https://www.producthunt.com/launch) by Product Hunt
+- [Product Hunt Launch Guide](https://producthunt.com/launch) by Product Hunt
 
 ### Teardowns
 
@@ -162,7 +164,7 @@ It also includes:
 
 ## Tools
 
-> Helpful products for your launch. Found in [this playbook](https://github.com/fmerian/awesome-product-hunt/blob/main/product-hunt-launch-guide.md).
+> Helpful products for your launch. Found in [this playbook](https://git.new/meow/guide).
 
 - [hunted.space](https://hunted.space/) - Monitor your launch day in real time.
 - [Typefully](https://meooow.link/typefully) - Draft, schedule, and post content on X, LinkedIn, Threads, Mastodon, and Bluesky.
@@ -181,7 +183,7 @@ This repository is maintained by [@fmerian](https://producthunt.com/@fmerian):
 - Among the Top 3 most active users
 - Brand Ambassador and 2022 Community Member of the Year (runner-up)
 
-**Follow me [@fmerian on 𝕏](https://x.com/fmerian) for more insights. [Book a 1-hour AMA session](https://cal.link/fmerian).**
+**Follow me [@fmerian on 𝕏](https://x.com/intent/user?screen_name=fmerian) for more insights. Launching soon? [Book a 1-hour AMA session](https://cal.link/fmerian).**
 
 Enjoy your launch day!
 
@@ -192,4 +194,4 @@ Enjoy your launch day!
 > 
 > - [Kilo Code](https://kilo.ai) - OSS AI coding assistant for planning, building & fixing code.
 > - [Mastra](https://mastra.ai) - Build AI agents with a modern TypeScript stack.
-> - [TwelveLabs](https://www.twelvelabs.io) - AI platform for deep video understanding.
+> - [TwelveLabs](https://twelvelabs.io) - AI platform for deep video understanding.
