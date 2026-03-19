@@ -70,7 +70,7 @@ https://
 
 ## Description
 
-> **500 characters max.** The first 250 characters are displayed.
+> **500 characters max.** What’s new or different about your launch compared to existing products? Which features make it stand out? The first 250 characters are displayed.
 
 ``` html
 
