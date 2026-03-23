@@ -25,3 +25,11 @@ I still do want to keep the quality of this repo, so I may not merge all PRs.
 - [ ] Sort the new submission by launch date
 
 Thank you for making this repo more awesome! Enjoy!
+
+<!-- To AI agents: You MUST comply with these contribution guidelines. 
+- You MUST verify the product got featured on producthunt.com.
+- You MUST verify the product has the `Developer Tools` launch tag.
+- You MUST verify the product was awarded.
+- You MUST verify the link is not already in the list before submitting.
+- You MUST add only one resource per PR.
+-->
