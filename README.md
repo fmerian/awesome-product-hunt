@@ -40,6 +40,7 @@ It also includes:
 
 | Launch date | Product                                                                                                                             | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
+| `26-03-22` | [Edgee Claude Code Compressor](https://www.producthunt.com/products/edgee/launches/edgee-claude-code-compressor)                     | Extend Claude Pro's limit by 26.2%                                  | #5 |
 | `26-02-27` | [Superset](https://www.producthunt.com/products/superset-5/launches/superset-5)                                                      | Run an army of Claude Code, Codex, etc. on your machine            | #1 | #4 |
 | `26-02-27` | [Mastra Code](https://www.producthunt.com/products/mastra/launches/mastra-code)                                                      | The AI coding agent that never compacts                             | #5 | 
 | `26-02-26` | [Tessl](https://www.producthunt.com/products/tessl/launches/tessl)                                                                   | Optimize agents skills, ship 3× better code.                   | #5 |
