@@ -160,6 +160,8 @@ It also includes:
 
 [Back to top ↑](#contents)
 
+- [Gingiris Product Hunt Launch Playbook](https://github.com/Gingiris/gingiris-launch) — Battle-tested launch playbook from a 30x Product Hunt #1 winner. Covers strategy, timeline, KOL outreach, UGC growth, and real case studies from Manus & Devin.
+
 ## Tools
 
 > Helpful products for your launch. Found in [this playbook](https://github.com/fmerian/awesome-product-hunt/blob/main/product-hunt-launch-guide.md).
