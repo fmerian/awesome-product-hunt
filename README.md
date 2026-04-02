@@ -13,6 +13,7 @@ It also includes:
 - [product-hunt-launch-guide.md](https://git.new/meow/guide): best practices when launching developer tools on Product Hunt
 - [product-hunt-launch-kit.md](https://git.new/meow/kit): required inputs to submit a new product
 - [product-hunt-community-kit.md](https://git.new/meow/community): ideas to leverage your network
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 **Want to contribute? Awesome! See here: [CONTRIBUTING.md](https://github.com/fmerian/awesome-product-hunt/blob/main/CONTRIBUTING.md)**
 
