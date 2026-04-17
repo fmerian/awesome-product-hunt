@@ -124,6 +124,7 @@ It also includes:
 - [DevHunt](https://devhunt.org/) (59)
 - [launchweek.dev](https://launchweek.dev/) (33)
 - [early.tools](https://www.early.tools/submit) (28)
+- [VibeX](https://vibexforge.com) (1)
 
 [Back to top ↑](#contents)
 
