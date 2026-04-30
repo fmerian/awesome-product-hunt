@@ -40,7 +40,8 @@ It also includes:
 
 | Launch date | Product                                                                                                                             | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
-| `26-04-27` | [Pegasus 1.5 by TwelveLabs](https://www.producthunt.com/products/twelvelabs/launches/pegasus-1-5-by-twelvelabs)                      | AI model for transforming video into Time-Based Metadata          | #5 |
+| `26-04-29` | [Plurai](https://www.producthunt.com/products/plurai/launches/plurai)                                                                | Vibe-train evals and guardrails tailored to your use case           | #1 |
+| `26-04-20` | [Pegasus 1.5 by TwelveLabs](https://www.producthunt.com/products/twelvelabs/launches/pegasus-1-5-by-twelvelabs)                      | AI model for transforming video into Time-Based Metadata          | #5 |
 | `26-03-22` | [Edgee Claude Code Compressor](https://www.producthunt.com/products/edgee/launches/edgee-claude-code-compressor)                     | Extend Claude Pro's limit by 26.2%                                  | #5 |
 | `26-02-27` | [Superset](https://www.producthunt.com/products/superset-5/launches/superset-5)                                                      | Run an army of Claude Code, Codex, etc. on your machine            | #1 | #4 |
 | `26-02-27` | [Mastra Code](https://www.producthunt.com/products/mastra/launches/mastra-code)                                                      | The AI coding agent that never compacts                             | #5 | 
