@@ -12,7 +12,7 @@ This file includes the required inputs to submit a new product on Product Hunt.
 
 # Contents
 
-- [link to the product](#link-to-the-product)
+- [link to the launch](#link-to-the-product)
 - [main info](#main-info)
 - [images and media](#images-and-media)
 - [makers](#makers)
@@ -21,7 +21,7 @@ This file includes the required inputs to submit a new product on Product Hunt.
 - [review and launch](#review-and-launch)
 - [additional notes](#additional-notes)
 
-# Link to the product
+# Link to the launch
 
 ```
 https://
@@ -29,7 +29,7 @@ https://
 
 # Main info
 
-## Name of the product
+## Name of the launch
 
 > **40 characters max.** Simply the name of the product.
 
@@ -60,7 +60,7 @@ https://
 
 - [ ] Is this an open-source project?
 
-### Twitter / X account of the product
+### Twitter / X account of the launch
 
 > `optional`
 
@@ -175,8 +175,8 @@ How do you use the product? Why do you believe it's fantastic?
 
 > Check that you’ve completed all of the required `*` information. Go the extra mile with suggested information — Successful launches usually do.
 
-- [ ] Product name `*`
-- [ ] Product tagline `*`
+- [ ] Name of the launch `*`
+- [ ] Tagline `*`
 - [ ] Description `*`
 - [ ] Launch tags `*`
 - [ ] First comment
