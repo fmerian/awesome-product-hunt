@@ -135,6 +135,7 @@ It also includes:
 
 > Sorted by release date.
 
+- [WebCoreLab](https://webcorelab.com) — SEO/GEO audit for product launches. AI search visibility tracking for ProductHunt launches.
 - [Product Hunt Launch Guide](https://producthunt.com/launch) by Product Hunt
 
 ### Teardowns
