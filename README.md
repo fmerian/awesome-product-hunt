@@ -139,8 +139,9 @@ It also includes:
 
 ### Teardowns
 
+- [Reverse-engineering Kilo's recent Product Hunt launch](https://www.producthunt.com/p/kilocode/reverse-engineering-kilo-s-recent-product-hunt-launch) (2026)
 - [Mastra 1.0 - Reasoning](https://git.new/meow/mastra) (2026)
-- [Reverse-engineering Cursor's recent launches](https://git.new/meow/cursor) (2026)
+- [Decoding Cursor's recent launches](https://git.new/meow/cursor) (2026)
 - [How Dimension launched on Product Hunt](https://git.new/meow/dimension) (2025)
 - [A look at Aikido's first launch on Product Hunt](https://git.new/meow/aikido) (2025)
 - [How Kilo Code launched on Product Hunt](https://git.new/meow/kilocode) (2025)
