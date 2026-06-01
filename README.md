@@ -40,6 +40,9 @@ It also includes:
 
 | Launch date | Product                                                                                                                             | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
+| `26-05-24` | [Edgee Fallback Models](https://www.producthunt.com/products/edgee/launches/edgee-fallback-models)                                   | Claude Code that never stops
+                        | #5 |
+| `26-05-13` | [Latitude for Claude Code](https://www.producthunt.com/products/latitude-4/launches/latitude-for-claude-code)                        | See where Claude Code burns tokens. Hit your limits less.       | #2 |
 | `26-05-06` | [Pay.sh](https://www.producthunt.com/products/solanafndn/launches/pay-sh)                                                            | Discover, access, and pay for any API autonomously            | #4 |
 | `26-05-05` | [Kilo Code for VS Code](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-vs-code-7)                              | Parallel agents, diff reviewer, and multi-model comparisons       | #1 | #1 |
 | `26-04-29` | [Plurai](https://www.producthunt.com/products/plurai/launches/plurai)                                                                | Vibe-train evals and guardrails tailored to your use case           | #1 | #1 | #5 |
