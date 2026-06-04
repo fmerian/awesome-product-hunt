@@ -156,7 +156,7 @@ It also includes:
 
 ### Presentations
 
-- [Setting up the launchpad](https://speakerdeck.com/fmerian/product-hunt) (2022) by [@fmerian](https://github.com/fmerian) (launched [Kilo Code](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-vs-code-7), ranked #2 POTD)
+- [Setting up the launchpad](https://speakerdeck.com/fmerian/product-hunt) (2022) by [@fmerian](https://github.com/fmerian) (launched [Kilo Code](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-vs-code-7), ranked #1 POTM)
 
 [Back to top ↑](#contents)
 
