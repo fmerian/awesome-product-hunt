@@ -1,6 +1,6 @@
-I've launched 42 dev tools on Product Hunt in the last 2 years - or maybe 55? To be honest, I've lost count.
+I've launched 42 dev tools on Product Hunt in the last 4 years - or maybe 55? To be honest, I've lost count.
 
-I could bore you with the details of how Specify launched or that Product Hunt awarded me Community Member of the Year in 2022 (runner-up).
+I could bore you with the details of how Kilo Code launched or that Product Hunt awarded me Community Member of the Year in 2022.
 
 No. What you probably care about is what my key takeaways are.
 
@@ -20,11 +20,11 @@ So, here we go - what I learned from 42 (or 55) dev-first product launches on Pr
 - **Launch, and keep launching**
 
 > [!TIP] 
-> Launching soon on Product Hunt? [Let's connect](https://cal.link/fmerian).
+> Launching soon on Product Hunt? - [Let's connect](https://cal.link/fmerian)
 
-> **Flo is one of the most knowledgable, connected and kindest people in devtools. His experience, expertise and taste in marketing to developers, and deep experience with Product Hunt helped make our launch significantly stronger.**
+> **Flo is a Product Hunt expert and made Mastra's 1.0 launch a success. We really appreciated his expertise and his reach helped give us a significant kick-start.**
 >
-> -- [Aidan Hornsby](https://www.linkedin.com/in/aidanhornsby/), Co-founder, Layercode
+> -- Alex Booker, Head of Developer Education, Mastra (YC W25)
 
 ## Why Product Hunt
 
@@ -34,9 +34,9 @@ Darko Gjorgjievski launched Kilo Code on Product Hunt twice in 2025. Both rank
 
 > **Many users on Product Hunt are technical founders. They code. And they want to know how to get to where they want faster.**
 >
-> -- [Darko Gjorgjievski](https://www.linkedin.com/in/darko-gjorgjievski-65a63627/), Developer Relations Engineer, Kilo Code
+> -- Darko Gjorgjievski, Developer Relations Engineer, Kilo Code
 
-In September 2025, according to [similarweb.com](https://www.similarweb.com/website/producthunt.com/#overview), Product Hunt got 2.7 million monthly unique visitors, and according to [Ahrefs](https://ahrefs.com/website-authority-checker/?input=producthunt.com), it had a 91 domain rating.
+In April 2026, according to similarweb.com, [^1] Product Hunt got 4.2 million monthly unique visitors, and according to Ahrefs, [^2] it had a 91 domain rating.
 
 **Product Hunt helps raise awareness, get feedback, and enable early traction.**
 
@@ -47,7 +47,7 @@ Rishabh Kaul, Head of Marketing at Appsmith, who launched in March 2023 and rank
 
 > **One of the often overlooked parts of Product Hunt is the reviews that you get during launch. They are customer testimonials for your marketing site.**
 >
-> -- [Rishabh Kaul](https://www.linkedin.com/in/rishabhkaul), Head of Marketing, Appsmith
+> -- Rishabh Kaul, Head of Marketing, Appsmith
 
 **The question isn't _if_ you should launch on Product Hunt. It's *how*.**
 
@@ -73,7 +73,7 @@ When Documenso launched, it was the opposite. We had no plan and launched during
 
 **Two different launches; same results.**
 
-Take Peer Richelsen. Peer is the co-founder and co-CEO of Cal.com. He [launched 9 times on Product Hunt](https://www.producthunt.com/products/cal-com/awards) and got 12 awards. He puts it very simply:
+Take Peer Richelsen. Peer is the co-founder and co-CEO of Cal.com. They launched 10+ times on Product Hunt [^3] and got 15+ awards. They puts it very simply:
 
 > **Have a good product.**
 >
@@ -96,7 +96,7 @@ To start, below are the required inputs to submit a new product on Product Hunt.
 - **Name of the product**: simply the name of your product in 40 characters or less
 - **Tagline**: the most important part? a concise and descriptive tagline in 60 characters max; Avoid hyperbolic words and emojis; Keep it simple
 - **Description**: a short description of what the product does in less than 500 characters
-- **Launch tags**: up to three tags - [Browse full list here](https://www.producthunt.com/topics)
+- **Launch tags**: up to three tags - Browse full list [here](https://www.producthunt.com/topics)
 - **Thumbnail**: a 240 x 240 pixel thumbnail
 - **Image gallery**: at least 3 images to show your product; Avoid stock images and marketing fluff. Show the product, i.e. product screenshots. You can add social proof and a call-to-action to inspire action; The first image is used as the social preview when you share the link to your launch page
 
@@ -114,17 +114,17 @@ To go one step forward, you could also add:
 
 **You can find all the required and optional inputs [here](https://git.new/meow/kit) on GitHub.**
 
-Tanya Rai and her team launched LastMile AI in October 2023 and ranked #2 Product of the Day and #4 Product of the Week. In [this blog post](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41), Tanya shared some lessons learned, and I really enjoyed this quote on polishing the details:
+Tanya Rai and her team launched LastMile AI in October 2023 and ranked #2 Product of the Day and #4 Product of the Week. In this blog post, [^4] Tanya shared some lessons learned, and I really enjoyed this quote on polishing the details:
 
 > **We spent some time nailing the messaging in a way that was palatable to the Product Hunt community. It's good to tailor your messaging and media assets to the community - it will resonate more.**
 >
-> -- [Tanya Rai](https://www.linkedin.com/in/tanyarai/), Product Manager, LastMile AI
+> -- Tanya Rai, Product Manager, LastMile AI
 
 Now that you've polished the details and tailored the messaging and visual assets in a simple and straightforward way, it's time to schedule the launch and submit the product. I recommend finding a Hunter.
 
 ### Finding a Hunter
 
-Do you need someone specific to submit your dev-first product on Product Hunt? By default, the answer is _no_. According to [Product Hunt](https://www.producthunt.com/launch/before-launch#hunters:-do-you-need-one), using a Hunter isn't a barrier to success:
+Do you need someone specific to submit your dev-first product on Product Hunt? By default, the answer is _no_. According to Product Hunt, [^5] using a Hunter isn't a barrier to success:
 
 - 79% of featured posts were by makers who self-hunted
 - 60% of #1 Product of the Day winners were self-hunted
@@ -136,28 +136,27 @@ Do you need someone specific to submit your dev-first product on Product Hunt? B
 > 2. on launch day, a Hunter can support by upvoting and replying to comments
 > 3. a Hunter can leverage networks by promoting your launch on socials
 
-**When done right, a Hunter is a catalyst for your launch.** 
-- [Repost this](https://twitter.com/fmerian/status/1737450339824238977)
+**When done right, a Hunter is a catalyst for your launch.** - [Repost this](https://twitter.com/fmerian/status/1737450339824238977)
 
-Take n8n, an open-source Zapier alternative. When the team launched its 1.0 in July 2023 (ranked #1 Product of the Day and #2 Product of the Week), it partnered with [Chris Messina](https://www.producthunt.com/@chrismessina), and Luis Guzmán, Head of Marketing, puts it very eloquently:
+Take n8n, an open-source Zapier alternative. When the team launched its 1.0 in July 2023 (ranked #1 Product of the Day and #2 Product of the Week), it partnered with Chris Messina, [^6] and Luis Guzmán, Head of Marketing, puts it very eloquently:
 
 > **A recognized Hunter makes a difference. We partnered with Chris Messina to be our Hunter, and it helped a lot - even when Product Hunt says it doesn't.**
 >
-> -- [Luis Guzmán](https://www.linkedin.com/in/guzmanluis/), Head of Marketing, n8n
+> -- Luis Guzmán, Head of Marketing, n8n
 
-Here's another example. When we launched Specify, we collaborated with [Hiten Shah](https://www.producthunt.com/@hnshah). We chose to partner with Hiten because he has an influence on Product Hunt and beyond. Above all, it was a fantastic feeling for the team, e.g. an extra source of motivation prior to the launch.
+Here's another example. When we launched Specify, we collaborated with Hiten Shah. [^7] We chose to partner with Hiten because he has an influence on Product Hunt and beyond. Above all, it was a fantastic feeling for the team, e.g. an extra source of motivation prior to the launch.
 
-More personally, when I collaborate with teams to help them launch, like [Layercode](https://www.producthunt.com/products/layercode/launches/layercode-cli) (launched in October 2025, ranked #3 Product of the Day) or [Kilo Code](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains) (launch in September 2025, ranked #1 Product of the Day and #1 OSS Product of the Month), I'm committed to challenging every aspect of the launch plan and supporting on launch days by leveraging my network - [let's connect](https://cal.link/fmerian). 
+More personally, when I collaborate with teams to help them launch, like Mastra (YC W25) (launched in January 2026, ranked #3 Product of the Day) [^8] or Kilo Code (launched in May 2026, ranked #1 Product of the Month), [^9] I'm committed to challenging every aspect of the launch plan and supporting on launch days by leveraging my network. - [Let's connect](https://cal.link/fmerian)
 
-> **Flo is one of the most knowledgable, connected and kindest people in devtools. His experience, expertise and taste in marketing to developers, and deep experience with Product Hunt helped make our launch significantly stronger.**
+> **Flo is a Product Hunt expert and made Mastra 1.0 launch a success. We really appreciated his expertise and his reach helped give us a significant kick-start.**
 >
-> -- [Aidan Hornsby](https://www.linkedin.com/in/aidanhornsby/), Co-founder, Layercode
+> -- Alex Booker, Head of Developer Education, Mastra (YC W25)
 
 If anyone can submit a product on Product Hunt anytime, a Hunter certainly helps with the launch. 
 
 ### Warming up
 
-In [this blog post](https://medium.com/@rrhoover/building-a-startup-build-an-audience-first-9fbba4f1fa15), Product Hunt's founder, Ryan Hoover, wrote:
+In this blog post, [^10] Product Hunt's founder, Ryan Hoover, wrote:
 
 > **Building a startup? Build an audience, first.**
 >
@@ -168,8 +167,7 @@ In [this blog post](https://medium.com/@rrhoover/building-a-startup-build-an-aud
 You can schedule your launch up to 30 days ahead. Below are some ideas to get started:
 
 - Announce it in your Product Forum `/p/{yourProduct}` - see example from Kilo Code [here](https://meooow.link/kilocode/soon)
-- [Host an AMA session](https://www.producthunt.com/stories/how-to-host-a-successful-ama-on-product-hunt) - see examples from Dimension [here](https://meooow.link/dimension/ama) and Supabase [there](https://meooow.link/supabase/ama)
-- Add your upcoming launch on [hunted.space](https://hunted.space) and [git.new/meow](https://git.new/meow/upcoming)
+- Host an AMA session [^11] - see example Supabase [here](https://meooow.link/supabase/ama)
 - Schedule as much content as possible: social posts, website banner, email campaigns
 - Support other product launches
 - Run a display ad campaign on Product Hunt
@@ -182,7 +180,7 @@ Also, make sure to tease your network and community early.
 
 > **We let our network and product community know that we had planned to launch on Product Hunt. It was super valuable for us to have support from our existing users and network and they came through for us.**
 >
-> -- [Tanya Rai](https://www.linkedin.com/in/tanyarai/), Product Manager, LastMile AI
+> -- Tanya Rai, Product Manager, LastMile AI
 
 > [!TIP]
 > Use a URL shortener like [Dub](https://meooow.link/dub) as a backdoor edit button.
@@ -191,7 +189,7 @@ Also, make sure to tease your network and community early.
 > 2. Link it to your Product Hub, e.g. `/products/{yourProduct}`
 > 3. Update it on launch day, e.g. `/products/{yourProduct}/launches/{slug}`
 
-In [this file](https://git.new/meow/community), I suggest some ideas to leverage your community:
+Additional ideas to leverage your community:
 
 - List some key elements to play and mix
 - Include links to posts and comments for inspiration
@@ -212,13 +210,13 @@ You're ready to go live.
 
 Here's the day. **Launching on Product Hunt is a 24-hour race - and it starts at 12:01 AM PST.** 
 
-For the first 4 hours of the day, Product Hunt hides upvotes and sorts the homepage randomly. According to [Product Hunt](https://www.producthunt.com/stories/let-s-talk-about-spam), this should give products "a more distributed chance at exposure early." Your objective is to rank in the Top 5 within that time to maximize exposure.
+For the first 4 hours of the day, Product Hunt hides upvotes and sorts the homepage randomly. According to Product Hunt, [^12] this should give products "a more distributed chance at exposure early." Your objective is to rank in the Top 5 within that time to maximize exposure.
 
 > [!TIP]
-> Use [hunted.space](https://hunted.space) to monitor your launch day in real time.
+> Use Product Hunt's built-in dashboard to monitor your launch day in real time. Add `/launch-day` to your post URL.
 >
 > ```html
-> https://hunted.space/dashboard/{yourProduct}
+> https://www.producthunt.com/products/{productName}/{launchName}/launch-day
 > ```
 
 During the day, upvote and reply to every comment. Make this day an opportunity to engage: start conversations and ask for feedback.
@@ -227,13 +225,13 @@ Laura Du Ry and the Appwrite team launched its Cloud Beta in October 2023 and ra
 
 > **The team was quick with responding and engaging. We cleared a part of the teams' calendar to be able to engage.**
 >
-> -- [Laura Du Ry](https://www.linkedin.com/in/laura-du-ry-53203b94/), Growth Manager, Appwrite
+> -- Laura Du Ry, Growth Manager, Appwrite
 
 Tanya Rai from LastMile AI shares the feeling:
 
 > **On launch day, we had the whole team on board to respond to messages almost instantly. This was a round-the-clock effort by the team to show that we were actively engaged and interested in what feedback we were receiving from the Product Hunt community. We left no questions or comments unanswered.**
 >
-> -- [Tanya Rai](https://www.linkedin.com/in/tanyarai/), Product Manager, LastMile AI
+> -- Tanya Rai, Product Manager, LastMile AI
 
 Make this launch day an opportunity to celebrate your efforts with your team and community. Make the most out of it by engaging in conversations and brainstorming new ideas, and above all, _enjoy it._
 
@@ -248,7 +246,7 @@ There's three more things to keep the momentum going:
 
 ### Maximize efforts
 
-With the assets you've worked on for your Product Hunt launch, you can maximize efforts by launching on more places, like [Hacker News](https://git.new/meow/hn) and [Dev Hunt](https://git.new/meow/dh), an open-source alternative for dev-first products.
+With the assets you've worked on for your Product Hunt launch, you can maximize efforts by launching on more places, like Hacker News and Dev Hunt, an open-source alternative for dev-first products. [^13]
 
 ### Engage with the community
 
@@ -258,20 +256,19 @@ Product Hunt isn't just a launch platform. Early 2025, Product Hunt introduced
 
 Launching on Product Hunt isn't a one-time opportunity. Launch early, launch often.
 
-According to [Product Hunt](https://meooow.link/hc/repost), you have to "_wait at least six months in between posts for the same product or from the same company. Along with a six-month period, there also needs to be a significant update to the product._"
+According to Product Hunt, [^14] you have to "_wait at least six months in between posts for the same product or from the same company. Along with a six-month period, there also needs to be a significant update to the product._"
 
 Product Hunt pays off in the long term, where the best teams keep launching.
 
-Take Stripe. The company launched [68 times](https://www.producthunt.com/products/stripe/launches) on Product Hunt in the last 10 years. Supabase launched [16 times](https://www.producthunt.com/products/supabase/launches) in the last 4 years. Raycast has launched [15 products](https://www.producthunt.com/products/raycast/launches) since 2020.
+Take Stripe. The company launched 70+ times on Product Hunt [^15] in the last 10 years. Supabase launched 16+ times [^16] in the last 4 years. Raycast has launched 15+ products [^17] since 2020.
 
-**Launching multiple times creates a tailwind.** 
-- [Repost this](https://twitter.com/fmerian/status/1676554020348100610)
+**Launching multiple times creates a tailwind.** - [Repost this](https://twitter.com/fmerian/status/1676554020348100610)
 
-Luis Guzmán, Head of Marketing at n8n (launched [6 times](https://www.producthunt.com/products/n8n-io/launches) since 2019), sums it up perfectly:
+Luis Guzmán, Head of Marketing at n8n (launched 6+ times [^18] since 2019), sums it up perfectly:
 
 > **Every follower we collected from past launches receives a notification about recent launches. This helps get more exposure.**
 >
-> -- [Luis Guzmán](https://www.linkedin.com/in/guzmanluis/), Head of Marketing, n8n
+> -- Luis Guzmán, Head of Marketing, n8n
 
 > [!TIP] 
 > Each launch reaches more people, builds more followers, which then helps future launches.
@@ -283,11 +280,10 @@ Launch, and keep launching.
 Below are more resources for inspiration:
 
 - [Product Hunt Launch Guide](https://www.producthunt.com/launch) by Product Hunt
-- [Reverse-engineering Cursor's recent launches](https://git.new/meow/cursor)
-- [How Dimension launched on Product Hunt](https://git.new/meow/dimension)
-- [A look at Aikido's first launch on Product Hunt](https://git.new/meow/aikido)
-- [How Kilo Code launched on Product Hunt](https://git.new/meow/kilocode)
-- [Did Appwrite do the ideal Product Hunt launch?](https://git.new/meow/appwrite)
+- [Reverse-engineering Kilo's recent Product Hunt launch](https://git.new/meow/kilo) (2026)
+- [Mastra 1.0 - Reasoning](https://git.new/meow/mastra) (2026)
+- [A look at Aikido's first launch on Product Hunt](https://git.new/meow/aikido) (2025)
+- [Did Appwrite do the ideal Product Hunt launch?](https://git.new/meow/appwrite) (2025)
 
 You can find here more resources to help you get started:
 
@@ -314,11 +310,31 @@ If there certainly isn't a formula to launch successfully, there may be a set of
 
 Over to you! I hope this series gave you some insights to prep your launch on Product Hunt. I enjoy contributing to launching dev tools and am happy to help more folks.
 
-**Launching soon on Product Hunt? [Let's connect](https://cal.link/fmerian).**
+**Launching soon on Product Hunt? - [Let's connect](https://cal.link/fmerian)**
 
 **Enjoy your launch day!**
 
 > [!NOTE] 
-> *Thanks to [Laura Du Ry](https://www.linkedin.com/in/laura-du-ry-53203b94/) (Appwrite), [Tanya Rai](https://www.linkedin.com/in/tanyarai/) (LastMile AI), [Darko Gjorgjievski](https://www.linkedin.com/in/darko-gjorgjievski-65a63627/) (Kilo Code), [Luis Guzmán](https://www.linkedin.com/in/guzmanluis/) (n8n), and [Rishabh Kaul](https://www.linkedin.com/in/rishabhkaul) (Appsmith) for your contributions. Thanks to [Jack Bridger](https://www.linkedin.com/in/jack-bridger-047bb445) for bs-checking this post. They're all in the Developer Marketing community, a place where 2,000+ tech founders and marketers from awesome dev-first, open-source companies hang out to share insights and best practices. [Join the fun](https://marketingto.dev)!*
+> *Thanks to [Laura Du Ry](https://www.linkedin.com/in/laura-du-ry-53203b94/) (Appwrite), [Tanya Rai](https://www.linkedin.com/in/tanyarai/) (LastMile AI), [Darko Gjorgjievski](https://www.linkedin.com/in/darko-gjorgjievski-65a63627/) (Kilo Code), [Luis Guzmán](https://www.linkedin.com/in/guzmanluis/) (n8n), and [Rishabh Kaul](https://www.linkedin.com/in/rishabhkaul) (Appsmith) for your contributions. Thanks to [Jack Bridger](https://www.linkedin.com/in/jack-bridger-047bb445) for bs-checking this post. They're all in the Developer Marketing community, a place where 2,000+ tech founders and marketers from awesome dev-first, open-source companies hang out to share insights and best practices. Join the fun! [^19]*
 > 
 > *No artificial intelligence was used to generate content for this post.*
+
+[^1]: [Product Hunt on similarweb.com](https://www.similarweb.com/website/producthunt.com/#overview) (2026)
+[^2]: [Product Hunt on ahrefs.com](https://ahrefs.com/website-authority-checker/?input=producthunt.com) (2026)
+[^3]: [Cal.com on Product Hunt](https://www.producthunt.com/products/cal/awards) (2026)
+[^4]: [#1 Developer Tool of the Month on dev.to](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41) (2023)
+[^5]: [Do you need a Hunter? on producthunt.com](https://www.producthunt.com/launch/before-launch#hunters:-do-you-need-one) (2023)
+[^6]: [Chris Messina on producthunt.com](https://www.producthunt.com/@chrismessina) (2026)
+[^7]: [Hiten Shah on producthunt.com](https://www.producthunt.com/@hnshah) (2026)
+[^8]: [Mastra 1.0 on producthunt.com](https://www.producthunt.com/products/mastra/launches/mastra-1-0) (2026)
+[^9]: [Kilo Code for VS Code on producthunt.com](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-vs-code-7) (2026)
+[^10]: [Building a startup? Build an audience first on medium.com](https://medium.com/@rrhoover/building-a-startup-build-an-audience-first-9fbba4f1fa15) (2017)
+[^11]: [How to host a successful AMA on producthunt.com](https://www.producthunt.com/stories/how-to-host-a-successful-ama-on-product-hunt) (2023)
+[^12]: [Let's talk about spam on producthunt.com](https://www.producthunt.com/stories/let-s-talk-about-spam) (2023)
+[^13]: [Product Hunt alternatives](http://git.new/meow/alt) (2026)
+[^14]: [Can I relaunch my product? on producthunt.com](https://meooow.link/hc/repost) (2026)
+[^15]: [Stripe on producthunt.com](https://www.producthunt.com/products/stripe/launches) (2026)
+[^16]: [Supabase on producthunt.com](https://www.producthunt.com/products/supabase/launches) (2026)
+[^17]: [Raycast on producthunt.com](https://www.producthunt.com/products/raycast/launches) (2026)
+[^18]: [n8n on producthunt.com](https://www.producthunt.com/products/n8n-io/launches) (2026)
+[^19]: [marketingto.dev](https://marketingto.dev)
