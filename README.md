@@ -2,7 +2,7 @@
 
 Product Hunt is a great place to launch a developer tool.
 
-Many developer-first products successfully launched there, products like [Supabase](https://www.producthunt.com/products/supabase), [Mastra](https://www.producthunt.com/products/mastra), and [Kilo Code](https://www.producthunt.com/products/kilocode) for example. 
+Many developer-first products successfully launched there, products like [Supabase](https://www.producthunt.com/products/supabase), [Tabstack](https://www.producthunt.com/products/tabstack), and [Kilo Code](https://www.producthunt.com/products/kilocode) for example. 
 
 Inspired by Agam's [awesome-developer-first](https://github.com/agamm/awesome-developer-first) and Ronak's [awesome-developer-marketing](https://github.com/ronakganatra/awesome-developer-marketing), this repository is a curated list of awesome dev-first product launches for inspiration.
 
@@ -41,14 +41,12 @@ It also includes:
 | Launch date | Product                                                                                                                             | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
 | `26-05-24` | [Edgee Fallback Models](https://www.producthunt.com/products/edgee/launches/edgee-fallback-models)                                   | Claude Code that never stops                                        | #5 |
-| `26-05-13` | [Latitude for Claude Code](https://www.producthunt.com/products/latitude-4/launches/latitude-for-claude-code)                        | See where Claude Code burns tokens. Hit your limits less.       | #2 |
 | `26-05-06` | [Pay.sh](https://www.producthunt.com/products/solanafndn/launches/pay-sh)                                                            | Discover, access, and pay for any API autonomously            | #4 |
 | `26-05-05` | [Kilo Code for VS Code](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-vs-code-7)                              | Parallel agents, diff reviewer, and multi-model comparisons       | #1 | #1 | #1 |
 | `26-04-29` | [Plurai](https://www.producthunt.com/products/plurai/launches/plurai)                                                                | Vibe-train evals and guardrails tailored to your use case           | #1 | #1 | #5 |
 | `26-04-20` | [Pegasus 1.5 by TwelveLabs](https://www.producthunt.com/products/twelvelabs/launches/pegasus-1-5-by-twelvelabs)                      | AI model for transforming video into Time-Based Metadata          | #5 |
 | `26-03-22` | [Edgee Claude Code Compressor](https://www.producthunt.com/products/edgee/launches/edgee-claude-code-compressor)                     | Extend Claude Pro's limit by 26.2%                                  | #5 |
 | `26-02-27` | [Superset](https://www.producthunt.com/products/superset-5/launches/superset-5)                                                      | Run an army of Claude Code, Codex, etc. on your machine            | #1 | #4 |
-| `26-02-27` | [Mastra Code](https://www.producthunt.com/products/mastra/launches/mastra-code)                                                      | The AI coding agent that never compacts                             | #5 | 
 | `26-02-26` | [Tessl](https://www.producthunt.com/products/tessl/launches/tessl)                                                                   | Optimize agents skills, ship 3× better code.                   | #5 |
 | `26-02-24` | [KiloClaw](https://www.producthunt.com/products/kiloclaw/launches/kiloclaw)                                                          | Hosted OpenClaw. No Mac mini required.                              | #1 | #1 | #4 |
 | `26-02-08` | [Axel](https://www.producthunt.com/products/axel-3/launches/axel-3)                                                                  | Todoist for AI coding agents                                        | #3 |
@@ -58,7 +56,6 @@ It also includes:
 | `26-01-16` | [1Code](https://www.producthunt.com/products/1code-cursor-like-ui-for-claude-code/launches/1code-2)                                  | Open-source Cursor-like UI for Claude Code                          | #1 | #3 |
 | `26-01-03` | [Ultracite v7](https://www.producthunt.com/products/ultracite/launches/ultracite-v7)                                                 | Opinionated, zero-config code linter and formatter               | #3 |
 | `25-12-01` | [Marengo 3.0 by TwelveLabs](https://www.producthunt.com/products/twelvelabs/launches/twelvelabs-marengo-3-0)                            | The most powerful embedding model for video understanding     | #3 |
-| `25-11-20` | [Dimension](https://www.producthunt.com/products/dimension-2/launches/dimension-3)                                                   | AI that connects with your tools and automates the busywork  | #2 |
 | `25-11-12` | [Logo.dev](https://www.producthunt.com/products/logo-dev/launches/logo-dev)                                                          | Reliable logos for any product, instantly.                          | #2 | #6 |
 | `25-10-27` | [v0 for iOS](https://www.producthunt.com/products/v0/launches/v0-for-ios)                                                            | Build anything with AI                                              | #1 | #2 |
 | `25-10-10` | [Layercode CLI](https://www.producthunt.com/products/layercode/launches/layercode-cli)                                               | Build voice AI agents with one command                              | #3 |
@@ -70,20 +67,14 @@ It also includes:
 | `25-08-12` | [v0.app by Vercel](https://www.producthunt.com/products/v0/launches/v0-app-by-vercel)                                                | The AI builder for everyone                                         | #4 |
 | `25-06-18` | [Liveblocks 3.0](https://www.producthunt.com/products/liveblocks/launches/liveblocks-3-0)                                            | Ready-made AI copilots and collaboration for your product        | #1 | #6 |
 | `25-06-17` | [Laravel Nightwatch](https://www.producthunt.com/products/-framework/launches/laravel-nightwatch)                                    | First-class monitoring designed for Laravel                         | #4 |
-| `25-06-06` | [next-forge](https://www.producthunt.com/products/vercel/launches/next-forge-by-vercel)                                              | Production-grade template for modern Next.js apps            | #4 |
 | `25-05-19` | [Appwrite Sites](https://www.producthunt.com/products/appwrite/launches/appwrite-sites)                                              | The open-source Vercel alternative                                  | #1 | #4 | #4 |
 | `25-04-28` | [cubic](https://www.producthunt.com/products/cubic/launches/cubic-2)                                                                 | Cursor for code review                                              | #1 | #1 |
 | `25-04-02` | [Supabase UI Library](https://www.producthunt.com/products/supabase/launches/supabase-ui-library)                                    | Drop-in components based on shadcn/ui & powered by Supabase     | #4 | #9 |
 | `25-03-27` | [Kilo Code for VS Code](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-vs-code)                                | Open-source, lightning speed autonomous AI coding agent            | #5 |
 | `25-02-19` | [Lingo.dev](https://www.producthunt.com/products/lingodotdev/launches/lingodotdev)                                                   | Ship apps translated in every language, in minutes                 | #2 | #4 | #9 |
-| `25-01-23` | [Jolt AI](https://www.producthunt.com/products/jolt-ai/launches/usejolt-ai)                                                          | AI assistant for 100k to multi-million line codebases               | #3 |
 | `25-01-11` | [21st.dev](https://www.producthunt.com/products/21st-dev-the-npm-for-design-engineers/launches/21st-dev-2)                           | GitHub + Pinterest to make your AI websites look beautiful          | #1 | #3 | #5 |
-| `24-12-18` | [Tempo](https://www.producthunt.com/products/tempo-labs/launches/tempo-labs)                                                         | Visual Editor for React, powered by AI                              | #1 | #3 | #9 |
 | `24-12-05` | [Reflex Cloud](https://www.producthunt.com/products/reflex-5/launches/reflex-cloud)                                                  | Build web apps in pure Python + deploy with a single command        | #1 | #8 |
 | `24-12-03` | [Supabase AI Assistant](https://www.producthunt.com/products/supabase/launches/supabase-ai-assistant-lw24)                           | Idea to Postgres database                                           | #2 | #6 |
-| `24-11-21` | [Lovable](https://www.producthunt.com/products/lovable/launches/lovable)                                                             | The world's first AI Full Stack Engineer                            | #1 | #4 | #5 |
-| `24-11-10` | [Trench](https://www.producthunt.com/products/trench/launches/trench)                                                                | Open source analytics infrastructure                                | #3 |
-| `24-10-30` | [bolt.new](https://www.producthunt.com/products/bolt-new/launches/bolt-new)                                                          | Prompt, run, edit & deploy full-stack web apps                    | #1 | #2 | #9 |
 | `24-10-21` | [Trag](https://www.producthunt.com/products/trag/launches/trag)                                                                      | AI code review companion                                            | #1 | #1 | #2 | 
 | `24-10-10` | [Latitude](https://www.producthunt.com/products/latitude/launches/latitude-7)                                                        | The open-source prompt engineering platform                         | #2 | #8 |
 | `24-10-09` | [Layouts.dev](https://www.producthunt.com/products/layouts-dev/launches/layouts-dev)                                                 | A notebook for building interfaces with Tailwind & shadcn/UI    | #2 | #6 |
@@ -144,14 +135,13 @@ It also includes:
 - [Reverse-engineering Kilo's recent Product Hunt launch](https://www.producthunt.com/p/kilocode/reverse-engineering-kilo-s-recent-product-hunt-launch) (2026)
 - [Mastra 1.0 - Reasoning](https://git.new/meow/mastra) (2026)
 - [Decoding Cursor's recent launches](https://git.new/meow/cursor) (2026)
-- [How Dimension launched on Product Hunt](https://git.new/meow/dimension) (2025)
 - [A look at Aikido's first launch on Product Hunt](https://git.new/meow/aikido) (2025)
 - [How Kilo Code launched on Product Hunt](https://git.new/meow/kilocode) (2025)
 - [Did Appwrite do the ideal Product Hunt launch?](https://git.new/meow/appwrite) (2025)
 
 ### Blog posts
 
-- [Lessons from 42 launches on Product Hunt](https://dev.to/fmerian/lessons-from-42-launches-on-product-hunt-3fp8) (2025) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
+- [Lessons from 42 launches on Product Hunt](https://dev.to/fmerian/lessons-from-42-launches-on-product-hunt-3fp8) (2025) by [@fmerian](https://github.com/fmerian) (launched [Kilo Code](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-vs-code-7), ranked #1 POTM)
 - [Automate a Product Hunt launch](https://helicone.ai/blog/product-hunt-automate) (2024) by [@colegottdank](https://github.com/colegottdank) (launched [Helicone AI](https://www.producthunt.com/products/helicone-ai/launches/helicone-ai), ranked #1 POTD)
 - [How Daytona survived from Product Hunt](https://dev.to/daytona/how-we-missed-1-on-product-hunt-but-still-won-big-1gig) (2024) by [@nkko](https://github.com/nkkko) (launched [Daytona](https://www.producthunt.com/products/daytona/launches/daytona), ranked #2 POTD)
 - [#1 Developer Tool of the Month](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41) (2023) by [@tanya-rai](https://github.com/tanya-rai) (launched [LastMile AI](https://www.producthunt.com/products/lastmile-ai/launches/lastmile-ai), ranked #2 POTD)
@@ -166,7 +156,7 @@ It also includes:
 
 ### Presentations
 
-- [Setting up the launchpad](https://speakerdeck.com/fmerian/product-hunt) (2022) by [@fmerian](https://github.com/fmerian) (launched [Specify](https://www.producthunt.com/products/specify/launches/specify-2), ranked #2 POTD)
+- [Setting up the launchpad](https://speakerdeck.com/fmerian/product-hunt) (2022) by [@fmerian](https://github.com/fmerian) (launched [Kilo Code](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-vs-code-7), ranked #2 POTD)
 
 [Back to top ↑](#contents)
 
@@ -186,8 +176,7 @@ It also includes:
 
 This repository is maintained by [@fmerian](https://producthunt.com/@fmerian):
 
-- Launched twice on Product Hunt in 2022
-- Contributed to launching 200+ dev-first products in 2023, 2024, and 2025
+- Contributed to launching 300+ dev-first products in 4 years
 - Among the Top 3 most active users
 - Brand Ambassador and 2022 Community Member of the Year (runner-up)
 
@@ -202,4 +191,5 @@ Enjoy your launch day!
 > 
 > - [Kilo Code](https://kilo.ai) - OSS AI coding assistant for planning, building & fixing code.
 > - [Mastra](https://mastra.ai) - Build AI agents with a modern TypeScript stack.
+> - [Tabstack](https://tabstack.ai) - Extract web data and automate browsers.
 > - [TwelveLabs](https://twelvelabs.io) - AI platform for deep video understanding.
