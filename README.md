@@ -40,6 +40,9 @@ It also includes:
 
 | Launch date | Product                                                                                                                             | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
+| `26-06-11` | [Respan Gateway](https://www.producthunt.com/products/keywords-ai/launches/respan-gateway)                                           | One AI gateway with built-in observability and evals               | #3 | 
+| `26-06-10` | [Spotlight by Backplanes](https://www.producthunt.com/products/backplanes/launches)                                                  | Session reports for Claude Code & Codex to improve your code       | #3 | 
+| `26-06-03` | [superlog](https://www.producthunt.com/products/superlog/launches/superlog)                                                          | Make your product bug-free                                          | #3 |
 | `26-05-24` | [Edgee Fallback Models](https://www.producthunt.com/products/edgee/launches/edgee-fallback-models)                                   | Claude Code that never stops                                        | #5 |
 | `26-05-06` | [Pay.sh](https://www.producthunt.com/products/solanafndn/launches/pay-sh)                                                            | Discover, access, and pay for any API autonomously            | #4 |
 | `26-05-05` | [Kilo Code for VS Code](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-vs-code-7)                              | Parallel agents, diff reviewer, and multi-model comparisons       | #1 | #1 | #1 |
@@ -136,7 +139,6 @@ It also includes:
 - [Mastra 1.0 - Reasoning](https://git.new/meow/mastra) (2026)
 - [Decoding Cursor's recent launches](https://git.new/meow/cursor) (2026)
 - [A look at Aikido's first launch on Product Hunt](https://git.new/meow/aikido) (2025)
-- [How Kilo Code launched on Product Hunt](https://git.new/meow/kilocode) (2025)
 - [Did Appwrite do the ideal Product Hunt launch?](https://git.new/meow/appwrite) (2025)
 
 ### Blog posts
@@ -178,6 +180,7 @@ This repository is maintained by [@fmerian](https://producthunt.com/@fmerian):
 
 - Contributed to launching 300+ dev-first products in 4 years
 - Among the Top 3 most active users
+- 70,000+ followers
 - Brand Ambassador and 2022 Community Member of the Year (runner-up)
 
 **Follow me [@fmerian on 𝕏](https://x.com/intent/user?screen_name=fmerian) for more insights. Launching soon? [Book a 1-hour AMA session](https://cal.link/fmerian).**
@@ -191,5 +194,5 @@ Enjoy your launch day!
 > 
 > - [Kilo Code](https://kilo.ai) - OSS AI coding assistant for planning, building & fixing code.
 > - [Mastra](https://mastra.ai) - Build AI agents with a modern TypeScript stack.
-> - [Tabstack](https://tabstack.ai) - Extract web data and automate browsers.
+> - [Tabstack](https://tabstack.ai) - Extract web data and automate browsers, no scraper required. Built at Mozilla.
 > - [TwelveLabs](https://twelvelabs.io) - AI platform for deep video understanding.
