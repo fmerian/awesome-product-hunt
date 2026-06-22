@@ -22,7 +22,7 @@ So, here we go - what I learned from 42 (or 300+) dev-first product launches on 
 > [!TIP] 
 > Launching soon on Product Hunt? - [Let's connect](https://cal.link/fmerian)
 
-> **Flo is a Product Hunt expert and made Mastra's 1.0 launch a success. We really appreciated his expertise and his reach helped give us a significant kick-start.**
+> **Flo is a Product Hunt expert and made Mastra's 1.0 launch a success. We really appreciated his expertise and his reach helped us give a significant kick-start.**
 >
 > -- Alex Booker, Head of Developer Education, Mastra (YC W25)
 
@@ -148,7 +148,7 @@ Here's another example. When we launched Specify, we collaborated with Hiten Sha
 
 More personally, when I collaborate with teams to help them launch, like Mastra (YC W25) (launched in January 2026, ranked #3 Product of the Day) or Kilo Code (launched in May 2026, ranked #1 Product of the Month), I'm committed to challenging every aspect of the launch plan and supporting on launch days by leveraging my network. [^4][^5]
 
-> **Flo is a Product Hunt expert and made Mastra 1.0 launch a success. We really appreciated his expertise and his reach helped give us a significant kick-start.**
+> **Flo is a Product Hunt expert and made Mastra's 1.0 launch a success. We really appreciated his expertise and his reach helped us give a significant kick-start.**
 >
 > -- Alex Booker, Head of Developer Education, Mastra (YC W25)
 
