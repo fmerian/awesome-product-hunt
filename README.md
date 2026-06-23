@@ -40,6 +40,7 @@ It also includes:
 
 | Launch date | Product                                                                                                                             | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
+| `26-06-22` | [Skybridge](https://www.producthunt.com/products/skybridge/launches/skybridge)                                                       | The full-stack open source React framework for MCP Apps            | #2 |
 | `26-06-18` | [Tabstack Dev Tools](https://www.producthunt.com/products/tabstack/launches/tabstack-dev-tools)                                      | Ditch your scraper. Make one API call with any tool.               | #4 |
 | `26-06-11` | [Respan Gateway](https://www.producthunt.com/products/keywords-ai/launches/respan-gateway)                                           | One AI gateway with built-in observability and evals               | #3 | 
 | `26-06-10` | [Spotlight by Backplanes](https://www.producthunt.com/products/backplanes/launches)                                                  | Session reports for Claude Code & Codex to improve your code       | #3 | 
