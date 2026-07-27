@@ -41,6 +41,9 @@ It also includes:
 | Launch date | Product                                                                                                                             | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
 | `26-07-20` | [Replay QA](https://www.producthunt.com/products/replayio/launches/replay-qa)                                                        | Replay QA tells you what is broken before your users do           | #4 | 
+| `26-07-16` | [Zro](https://www.producthunt.com/products/zro/launches/zro)                                                                         | Private inference for coding agents                                 | #2 |
+| `26-07-15` | [Campus](https://www.producthunt.com/products/flutterflow/launches/campus-4)                                                         | One project space for humans and AI agents
+                        | #3 |
 | `26-07-01` | [Tabstack Browser Automation](https://www.producthunt.com/products/tabstack/launches/tabstack-browser-automation)                    | Automate the web in your app or agent, no browser to host         | #3 |
 | `26-06-22` | [Skybridge](https://www.producthunt.com/products/skybridge/launches/skybridge)                                                       | The full-stack open source React framework for MCP Apps            | #2 | #5 |
 | `26-06-18` | [Tabstack Dev Tools](https://www.producthunt.com/products/tabstack/launches/tabstack-dev-tools)                                      | Ditch your scraper. Make one API call with any tool.               | #4 |
