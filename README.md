@@ -126,10 +126,8 @@ It also includes:
 > More suggestions in [this repository](https://git.new/channels). 
 
 - [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (91)
-- [Uneed](https://uneed.best/submit-a-tool?atp=fmerian) (73)
-- [DevHunt](https://devhunt.org/) (59)
-- [launchweek.dev](https://launchweek.dev/) (33)
-- [early.tools](https://www.early.tools/submit) (28)
+- [Uneed](https://uneed.best/submit-a-tool?atp=fmerian) (75)
+- [launchweek.dev](https://launchweek.dev/) (35)
 
 [Back to top ↑](#contents)
 
@@ -186,7 +184,7 @@ This repository is maintained by [@fmerian](https://producthunt.com/@fmerian):
 
 - Contributed to launching 300+ dev-first products in 4 years
 - Among the Top 3 most active users
-- 70,000+ followers
+- 80,000+ followers
 - Brand Ambassador and 2022 Community Member of the Year (runner-up)
 
 **Follow me [@fmerian on 𝕏](https://x.com/intent/user?screen_name=fmerian) for more insights. Launching soon? [Book a 1-hour AMA session](https://cal.link/fmerian).**
