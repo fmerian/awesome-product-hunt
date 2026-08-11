@@ -40,6 +40,8 @@ It also includes:
 
 | Launch date | Product                                                                                                                             | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
+| `26-08-07` | [Coldtea.ai](https://www.producthunt.com/products/coldtea/launches/coldtea)                                                          | Make your software self-driving
+                        | #1 | #4 |
 | `26-08-05` | [ngrok AI Gateway](https://www.producthunt.com/products/ngrok-ai-gateway/launches/ngrok-ai-gateway)                                  | One private gateway for every AI model                              | #4 |
 | `26-07-20` | [Replay QA](https://www.producthunt.com/products/replayio/launches/replay-qa)                                                        | Replay QA tells you what is broken before your users do           | #4 | #9 |
 | `26-07-16` | [Zro](https://www.producthunt.com/products/zro/launches/zro)                                                                         | Private inference for coding agents                                 | #2 |
