@@ -24,6 +24,7 @@ It also includes:
 - [Glossary](#glossary)
 - [Examples](#examples)
 - [Alternatives](#alternatives)
+- [Forums](#product-forums)
 - [Resources](#resources)
 - [Tooling](#tools)
 - [About](#about)
@@ -132,6 +133,20 @@ It also includes:
 - [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (91)
 - [Uneed](https://uneed.best/submit-a-tool?atp=fmerian) (75)
 - [launchweek.dev](https://launchweek.dev/) (35)
+
+[Back to top ↑](#contents)
+
+## Product forums
+
+> Launched in 2025, Product Forums (/p/) are community subreddits for every product to engage with users, build anticipation before launch day and keep the momentum. Sorted by number of followers.
+
+- [/p/claude](https://www.producthunt.com/p/claude) (75,551)
+- [/p/cursor](https://www.producthunt.com/p/cursor) (57,108)
+- [/p/supabase](https://www.producthunt.com/p/supabase) (56,972)
+- [/p/vercel](https://www.producthunt.com/p/vercel) (17,433)
+- [/p/github](https://www.producthunt.com/p/github) (10,468)
+- [/p/stripe](https://www.producthunt.com/p/stripe) (9,746)
+- [/p/kilocode](https://www.producthunt.com/p/kilocode) (5,207)
 
 [Back to top ↑](#contents)
 
