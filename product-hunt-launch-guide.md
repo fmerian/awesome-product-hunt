@@ -170,11 +170,14 @@ You can schedule your launch up to 30 days ahead. Below are some ideas to get st
 - Host an AMA session - see example Supabase [here](https://meooow.link/supabase/ama)
 - Schedule as much content as possible: social posts, website banner, email campaigns
 - Support other product launches
-- Run a display ad campaign on Product Hunt
+- Run a display ad campaign on Product Hunt - see example from Tines [here](https://x.com/fmerian/status/2087305033285251454)
 
 > [!TIP]
 > 
 > Follow me [@fmerian on Product Hunt](https://www.producthunt.com/@fmerian) to discover and support developer tools.
+
+> [!TIP]
+> Use a marketing tool like [unfair.so](https://meooow.link/unfair) to quickly set up and run a creator marketing campaign. Enter your landing page, define your budget, and launch in hours. Flat prices, 0% fee.
 
 Also, make sure to tease your network and community early.
 
