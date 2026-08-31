@@ -193,6 +193,7 @@ It also includes:
 - [Typefully](https://meooow.link/typefully) - Draft, schedule, and post content on X, LinkedIn, Threads, Mastodon, and Bluesky.
 - [CleanShot](https://meooow.link/cleanshot) - Pixel-perfect screenshots.
 - [Screen Studio](https://meooow.link/screen-studio) - Beautiful screen recordings.
+- [unfair.so](https://meooow.link/unfair) - Creator marketing campaigns in minutes.
 - [Dub.co](https://meooow.link/dub) - Create short, memorable URLs, and track conversion.
 
 [Back to top ↑](#contents)
