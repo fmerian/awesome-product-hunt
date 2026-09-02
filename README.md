@@ -41,11 +41,12 @@ It also includes:
 
 | Launch date | Product                                                                                                                             | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
-| `26-08-11` | [Tines 3B](https://www.producthunt.com/products/tines/launches/tines-3b)                                                             | The secure environment for agents, apps, and automations         | #1 | #5 |
-| `26-08-10` | [oqoqo](https://www.producthunt.com/products/oqoqo/launches/oqoqo)                                                                   | Build evals and custom benchmarks for real-world tasks             | #1 | #9 |
-| `26-08-07` | [Coldtea.ai](https://www.producthunt.com/products/coldtea/launches/coldtea)                                                          | Make your software self-driving                                     | #1 | #4 |
-| `26-08-05` | [ngrok AI Gateway](https://www.producthunt.com/products/ngrok-ai-gateway/launches/ngrok-ai-gateway)                                  | One private gateway for every AI model                              | #4 |
-| `26-07-20` | [Replay QA](https://www.producthunt.com/products/replayio/launches/replay-qa)                                                        | Replay QA tells you what is broken before your users do           | #4 | #9 |
+| `26-09-01` | [Kilo Code for JetBrains](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains-2)                          | Fully native, open-source coding agent built for JetBrains      | #1 |
+| `26-08-11` | [Tines 3B](https://www.producthunt.com/products/tines/launches/tines-3b)                                                             | The secure environment for agents, apps, and automations            | #1 | #5 |
+| `26-08-10` | [oqoqo](https://www.producthunt.com/products/oqoqo/launches/oqoqo)                                                                   | Build evals and custom benchmarks for real-world tasks              | #1 | #9 |
+| `26-08-07` | [Coldtea.ai](https://www.producthunt.com/products/coldtea/launches/coldtea)                                                          | Make your software self-driving                                 | #1 | #4 |
+| `26-08-05` | [ngrok AI Gateway](https://www.producthunt.com/products/ngrok-ai-gateway/launches/ngrok-ai-gateway)                                  | One private gateway for every AI model                           | #4 |
+| `26-07-20` | [Replay QA](https://www.producthunt.com/products/replayio/launches/replay-qa)                                                        | Replay QA tells you what is broken before your users do          | #4 | #9 |
 | `26-07-16` | [Zro](https://www.producthunt.com/products/zro/launches/zro)                                                                         | Private inference for coding agents                                 | #2 |
 | `26-07-15` | [Campus](https://www.producthunt.com/products/flutterflow/launches/campus-4)                                                         | One project space for humans and AI agents                          | #3 |
 | `26-07-01` | [Tabstack Browser Automation](https://www.producthunt.com/products/tabstack/launches/tabstack-browser-automation)                    | Automate the web in your app or agent, no browser to host         | #3 |
@@ -202,7 +203,7 @@ It also includes:
 
 This repository is maintained by [@fmerian](https://producthunt.com/@fmerian):
 
-- Contributed to launching 300+ dev-first products in 4 years
+- Contributed to launching 400+ dev-first products in 4 years
 - Among the Top 3 most active users
 - 80,000+ followers
 - Brand Ambassador and 2022 Community Member of the Year (runner-up)
