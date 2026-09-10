@@ -134,6 +134,7 @@ It also includes:
 - [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (91)
 - [Uneed](https://uneed.best/submit-a-tool?atp=fmerian) (75)
 - [launchweek.dev](https://launchweek.dev/) (35)
+- [VibeHacker](https://vibehacker.com) — Product discovery community for AI builders and vibe coders
 
 [Back to top ↑](#contents)
 
