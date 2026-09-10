@@ -41,7 +41,8 @@ It also includes:
 
 | Launch date | Product                                                                                                                             | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
-| `26-09-01` | [Kilo Code for JetBrains](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains-2)                          | Fully native, open-source coding agent built for JetBrains      | #1 |
+| `26-09-09` | [Mastra Factory](https://www.producthunt.com/products/mastra/launches/mastra-factory)                                                | From issue to production, run by agents.                        | #1 |
+| `26-09-01` | [Kilo Code for JetBrains](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-jetbrains-2)                          | Fully native, open-source coding agent built for JetBrains      | #1 | #1 |
 | `26-08-11` | [Tines 3B](https://www.producthunt.com/products/tines/launches/tines-3b)                                                             | The secure environment for agents, apps, and automations            | #1 | #5 |
 | `26-08-10` | [oqoqo](https://www.producthunt.com/products/oqoqo/launches/oqoqo)                                                                   | Build evals and custom benchmarks for real-world tasks              | #1 | #9 |
 | `26-08-07` | [Coldtea.ai](https://www.producthunt.com/products/coldtea/launches/coldtea)                                                          | Make your software self-driving                                 | #1 | #4 |
@@ -147,7 +148,7 @@ It also includes:
 - [/p/vercel](https://www.producthunt.com/p/vercel) (17,433)
 - [/p/github](https://www.producthunt.com/p/github) (10,468)
 - [/p/stripe](https://www.producthunt.com/p/stripe) (9,746)
-- [/p/kilocode](https://www.producthunt.com/p/kilocode) (5,207)
+- [/p/kilocode](https://www.producthunt.com/p/kilocode) (6,011)
 
 [Back to top ↑](#contents)
 
