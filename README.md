@@ -192,6 +192,7 @@ It also includes:
 > Helpful products for your launch. Found in [this playbook](https://git.new/meow/guide).
 
 - [hunted.space](https://hunted.space/) - Monitor your launch day in real time.
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 - [Typefully](https://meooow.link/typefully) - Draft, schedule, and post content on X, LinkedIn, Threads, Mastodon, and Bluesky.
 - [CleanShot](https://meooow.link/cleanshot) - Pixel-perfect screenshots.
 - [Screen Studio](https://meooow.link/screen-studio) - Beautiful screen recordings.
