@@ -201,6 +201,7 @@ It also includes:
 - [Screen Studio](https://meooow.link/screen-studio) - Beautiful screen recordings.
 - [unfair.so](https://meooow.link/unfair) - Creator marketing campaigns in minutes.
 - [Dub.co](https://meooow.link/dub) - Create short, memorable URLs, and track conversion.
+- [FeeGuard](https://feeguard.dev) - Checks Stripe Connect refunds and disputes for unreversed transfers, unadjusted application fees, and uncovered platform losses.
 
 [Back to top ↑](#contents)
 
