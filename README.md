@@ -2,7 +2,7 @@
 
 Product Hunt is a great place to launch a developer tool.
 
-Many developer-first products successfully launched there, products like [Supabase](https://www.producthunt.com/products/supabase), [Tabstack](https://www.producthunt.com/products/tabstack), and [Kilo Code](https://www.producthunt.com/products/kilocode) for example. 
+Many developer-first products successfully launched there, products like [Supabase](https://www.producthunt.com/products/supabase), [Tabstack](https://www.producthunt.com/products/tabstack), [Mastra](https://www.producthunt.com/products/mastra), and [Kilo Code](https://www.producthunt.com/products/kilocode) for example. 
 
 Inspired by Agam's [awesome-developer-first](https://github.com/agamm/awesome-developer-first) and Ronak's [awesome-developer-marketing](https://github.com/ronakganatra/awesome-developer-marketing), this repository is a curated list of awesome dev-first product launches for inspiration.
 
@@ -42,7 +42,7 @@ It also includes:
 | Launch date | Product                                                                                                                             | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
 | `26-09-21` | [Arcjet](https://www.producthunt.com/products/arcjet/launches/arcjet)                                                                | Secure the AI agents you're building at runtime                 | #4 |
-| `26-09-15` | [Kilo Code for iOS and Android](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-ios-and-android)                | Start coding agents, control sessions, review PRs. Anywhere.   | #3 |
+| `26-09-15` | [Kilo Code for iOS and Android](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-ios-and-android)                | Start coding agents, control sessions, review PRs. Anywhere.   | #3 | #6 |
 | `26-09-14` | [Web Search Agents by Nimble](https://www.producthunt.com/products/nimbleway/launches/web-search-agents-by-nimble)                   | Self-learning agents automate web research                          | #2 |
 | `26-09-11` | [Raycast 2.0](https://www.producthunt.com/products/raycast/launches/raycast-2-0)                                                     | The next generation of Raycast is here                              | #4 |
 | `26-09-09` | [Mastra Factory](https://www.producthunt.com/products/mastra/launches/mastra-factory)                                                | From issue to production, run by agents.                            | #1 | #1 |
@@ -210,7 +210,7 @@ This repository is maintained by [@fmerian](https://producthunt.com/@fmerian):
 
 - Contributed to launching 400+ dev-first products in 4 years
 - Among the Top 3 most active users
-- 80,000+ followers
+- 90,000+ followers
 - Brand Ambassador and 2022 Community Member of the Year (runner-up)
 
 **Follow me [@fmerian on 𝕏](https://x.com/intent/user?screen_name=fmerian) for more insights. Launching soon? [Book a 1-hour AMA session](https://cal.link/fmerian).**
