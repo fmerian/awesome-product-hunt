@@ -222,6 +222,7 @@ Enjoy your launch day!
 > 
 > > Thank you for your continuous support.
 > 
+> - [Arcjet](https://arcjet.com) - Secure the AI agents you're building at runtime.
 > - [Kilo Code](https://kilo.ai) - OSS AI coding assistant for planning, building & fixing code.
 > - [Mastra](https://mastra.ai) - Build AI agents with a modern TypeScript stack.
 > - [Tabstack](https://tabstack.ai) - Extract web data and automate browsers, no scraper required. Built at Mozilla.
