@@ -1,10 +1,10 @@
-I've launched 42 dev tools on Product Hunt in the last 4 years - or maybe 300? To be honest, I've lost count.
+I've launched 42 dev tools on Product Hunt in the last 4 years - or maybe 400? To be honest, I've lost count.
 
 I could bore you with the details of how Kilo Code launched or that Product Hunt awarded me Community Member of the Year in 2022.
 
 No. What you probably care about is what my key takeaways are.
 
-So, here we go - what I learned from 42 (or 300+) dev-first product launches on Product Hunt.
+So, here we go - what I learned from 42 (or 400+) dev-first product launches on Product Hunt.
 
 ## TL,DR
 
@@ -36,7 +36,7 @@ Darko Gjorgjievski launched Kilo Code on Product Hunt twice in 2025. Both rank
 >
 > -- Darko Gjorgjievski, Developer Relations Engineer, Kilo Code
 
-In April 2026, according to similarweb.com, Product Hunt got 4.2 million monthly unique visitors, [^1] and according to Ahrefs, it had a 91 domain rating. [^2]
+In September 2026, according to similarweb.com, Product Hunt got 6.1 million monthly unique visitors, [^1] and according to Ahrefs, it had a 91 domain rating. [^2]
 
 **Product Hunt helps raise awareness, get feedback, and enable early traction.**
 
@@ -263,7 +263,7 @@ According to Product Hunt, you have to "_wait at least six months in between pos
 
 Product Hunt pays off in the long term, where the best teams keep launching.
 
-Take Stripe. The company launched 70+ times on Product Hunt in the last 10 years. Supabase launched 16+ times in the last 4 years. Kilo Code has launched 4+ products since 2025. [^10][^11][^12]
+Take Stripe. The company launched 70+ times on Product Hunt in the last 10 years. Supabase launched 16+ times in the last 4 years. Kilo Code has launched 6+ products since 2025. [^10][^11][^12]
 
 **Launching multiple times creates a tailwind.** - [Repost this](https://twitter.com/fmerian/status/1676554020348100610)
 
