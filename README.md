@@ -148,13 +148,13 @@ It also includes:
 
 > Launched in 2025, Product Forums (/p/) are community subreddits for every product to engage with users, build anticipation before launch day and keep the momentum. Sorted by number of followers.
 
-- [/p/claude](https://www.producthunt.com/p/claude) (75,551)
-- [/p/cursor](https://www.producthunt.com/p/cursor) (57,108)
-- [/p/supabase](https://www.producthunt.com/p/supabase) (56,972)
-- [/p/vercel](https://www.producthunt.com/p/vercel) (17,433)
-- [/p/github](https://www.producthunt.com/p/github) (10,468)
-- [/p/stripe](https://www.producthunt.com/p/stripe) (9,746)
-- [/p/kilocode](https://www.producthunt.com/p/kilocode) (6,011)
+- [/p/claude](https://www.producthunt.com/p/claude) (92,726)
+- [/p/cursor](https://www.producthunt.com/p/cursor) (69,318)
+- [/p/supabase](https://www.producthunt.com/p/supabase) (58,472)
+- [/p/vercel](https://www.producthunt.com/p/vercel) (30,279)
+- [/p/github](https://www.producthunt.com/p/github) (11,873)
+- [/p/stripe](https://www.producthunt.com/p/stripe) (10,790)
+- [/p/kilocode](https://www.producthunt.com/p/kilocode) (6,053)
 
 [Back to top ↑](#contents)
 
@@ -167,7 +167,7 @@ It also includes:
 ### Teardowns
 
 - [Reverse-engineering Kilo's recent Product Hunt launch](https://www.producthunt.com/p/kilocode/reverse-engineering-kilo-s-recent-product-hunt-launch) (2026)
-- [Mastra 1.0 - Reasoning](https://git.new/meow/mastra) (2026)
+- [Mastra 1.0 - Reasoning](https://www.producthunt.com/p/mastra/mastra-1-0-reasoning) (2026)
 - [Decoding Cursor's recent launches](https://git.new/meow/cursor) (2026)
 - [A look at Aikido's first launch on Product Hunt](https://git.new/meow/aikido) (2025)
 - [Did Appwrite do the ideal Product Hunt launch?](https://git.new/meow/appwrite) (2025)
@@ -178,7 +178,7 @@ It also includes:
 - [Automate a Product Hunt launch](https://helicone.ai/blog/product-hunt-automate) (2024) by [@colegottdank](https://github.com/colegottdank) (launched [Helicone AI](https://www.producthunt.com/products/helicone-ai/launches/helicone-ai), ranked #1 POTD)
 - [How Daytona survived from Product Hunt](https://dev.to/daytona/how-we-missed-1-on-product-hunt-but-still-won-big-1gig) (2024) by [@nkko](https://github.com/nkkko) (launched [Daytona](https://www.producthunt.com/products/daytona/launches/daytona), ranked #2 POTD)
 - [#1 Developer Tool of the Month](https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41) (2023) by [@tanya-rai](https://github.com/tanya-rai) (launched [LastMile AI](https://www.producthunt.com/products/lastmile-ai/launches/lastmile-ai), ranked #2 POTD)
-- [How Permit.io got #1 Product of the Day](https://wpermit.io/blog/producthunt-howto) (2023) by [@danielbass37](https://github.com/danielbass37) (launched [Permit.io](https://www.producthunt.com/products/permit-io/launches/permit-io), ranked #1 POTD)
+- [How Permit.io got #1 Product of the Day](https://permit.io/blog/producthunt-howto) (2023) by [@danielbass37](https://github.com/danielbass37) (launched [Permit.io](https://www.producthunt.com/products/permit-io/launches/permit-io), ranked #1 POTD)
 - [Lago's Product Hunt Launch Playbook](https://git.new/meow/lago) (2023) by [@anhtho-lago](https://github.com/anhtho-lago) (launched [Lago](https://www.producthunt.com/products/lago/launches/lago), ranked #1 POTM)
 - [Launching dev tools on Product Hunt](https://ronakganatra.com/posts/successfully-launch-dev-tools-on-producthunt) (2022) by [@ronakganatra](https://github.com/ronakganatra) (launched [GraphCMS](https://www.producthunt.com/products/graphcms/launches/graphcms-3), ranked #5 POTD)
 
