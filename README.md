@@ -141,6 +141,7 @@ It also includes:
 - [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (91)
 - [Uneed](https://uneed.best/submit-a-tool?atp=fmerian) (75)
 - [launchweek.dev](https://launchweek.dev/) (35)
+- [DiscoverLaunches](https://discoverlaunches.com/) (27)
 
 [Back to top ↑](#contents)
 
