@@ -41,6 +41,7 @@ It also includes:
 
 | Launch date | Product                                                                                                                             | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -- | -- | -- |
+| `26-10-06` | [AUDR by Chargebee](https://www.producthunt.com/products/chargebee/launches/audr-by-chargebee)                                        | Open standard for tracking agent run costs                        | #3 |
 | `26-10-01` | [Monospace from Directus](https://www.producthunt.com/products/directus/launches/monospace-from-directus)                            | The governed API layer for every app, person, and agent       | #1 | #1 |
 | `26-10-01` | [Polylane](https://www.producthunt.com/products/polylane/launches/polylane)                                                          | AI agents that fix production before you wake up                 | #5 |
 | `26-09-21` | [Arcjet](https://www.producthunt.com/products/arcjet/launches/arcjet)                                                                | Secure the AI agents you're building at runtime                 | #4 | #5 |
