@@ -43,7 +43,6 @@ It also includes:
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -- | -- | -- |
 | `26-10-06` | [AUDR by Chargebee](https://www.producthunt.com/products/chargebee/launches/audr-by-chargebee)                                        | Open standard for tracking agent run costs                        | #3 |
 | `26-10-01` | [Monospace from Directus](https://www.producthunt.com/products/directus/launches/monospace-from-directus)                            | The governed API layer for every app, person, and agent       | #1 | #1 |
-| `26-10-01` | [Polylane](https://www.producthunt.com/products/polylane/launches/polylane)                                                          | AI agents that fix production before you wake up                 | #5 |
 | `26-09-21` | [Arcjet](https://www.producthunt.com/products/arcjet/launches/arcjet)                                                                | Secure the AI agents you're building at runtime                 | #4 | #5 |
 | `26-09-15` | [Kilo Code for iOS and Android](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-ios-and-android)                | Start coding agents, control sessions, review PRs. Anywhere.   | #3 | #6 |
 | `26-09-14` | [Web Search Agents by Nimble](https://www.producthunt.com/products/nimbleway/launches/web-search-agents-by-nimble)                   | Self-learning agents automate web research                          | #2 |
@@ -55,13 +54,9 @@ It also includes:
 | `26-08-07` | [Coldtea.ai](https://www.producthunt.com/products/coldtea/launches/coldtea)                                                          | Make your software self-driving                                     | #1 | #4 | #9 |
 | `26-08-05` | [ngrok AI Gateway](https://www.producthunt.com/products/ngrok-ai-gateway/launches/ngrok-ai-gateway)                                  | One private gateway for every AI model                              | #4 |
 | `26-07-20` | [Replay QA](https://www.producthunt.com/products/replayio/launches/replay-qa)                                                        | Replay QA tells you what is broken before your users do           | #4 | #9 |
-| `26-07-16` | [Zro](https://www.producthunt.com/products/zro/launches/zro)                                                                         | Private inference for coding agents                                 | #2 |
-| `26-07-15` | [Campus](https://www.producthunt.com/products/flutterflow/launches/campus-4)                                                         | One project space for humans and AI agents                          | #3 |
 | `26-07-01` | [Tabstack Browser Automation](https://www.producthunt.com/products/tabstack/launches/tabstack-browser-automation)                    | Automate the web in your app or agent, no browser to host         | #3 |
 | `26-06-22` | [Skybridge](https://www.producthunt.com/products/skybridge/launches/skybridge)                                                       | The full-stack open source React framework for MCP Apps            | #2 | #5 |
 | `26-06-18` | [Tabstack Dev Tools](https://www.producthunt.com/products/tabstack/launches/tabstack-dev-tools)                                      | Ditch your scraper. Make one API call with any tool.               | #4 |
-| `26-06-16` | [Edgee Turbo Models](https://www.producthunt.com/products/edgee/launches/edgee-turbo-models)                                         | Use Claude Code with Kimi K2.7 Code, MiniMax M2.7, and more  | #5 |
-| `26-06-11` | [Respan Gateway](https://www.producthunt.com/products/keywords-ai/launches/respan-gateway)                                           | One AI gateway with built-in observability and evals               | #3 | #8 |
 | `26-06-10` | [Spotlight by Backplanes](https://www.producthunt.com/products/backplanes/launches/spotlight-by-backplanes)                          | Session reports for Claude Code & Codex to improve your code       | #3 | 
 | `26-06-03` | [superlog](https://www.producthunt.com/products/superlog/launches/superlog)                                                          | Make your product bug-free                                          | #3 | #9 |
 | `26-05-06` | [Pay.sh](https://www.producthunt.com/products/solanafndn/launches/pay-sh)                                                            | Discover, access, and pay for any API autonomously            | #4 |
@@ -213,7 +208,7 @@ This repository is maintained by [@fmerian](https://producthunt.com/@fmerian):
 
 - Contributed to launching 400+ dev-first products in 4 years
 - Among the Top 3 most active users
-- 90,000+ followers
+- 100,000+ followers
 - Brand Ambassador and 2022 Community Member of the Year (runner-up)
 
 **Follow me [@fmerian on 𝕏](https://x.com/intent/user?screen_name=fmerian) for more insights. Launching soon? [Book a 1-hour AMA session](https://cal.link/fmerian).**
