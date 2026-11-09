@@ -41,7 +41,7 @@ It also includes:
 
 | Launch date | Product                                                                                                                             | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -- | -- | -- |
-| `26-11-02` | [beacon.sh](https://www.producthunt.com/products/asymptotelabs/launches/beacon-sh)                                                  | Open-source self-improving memory for AI coding agents               | #1 |
+| `26-11-02` | [beacon.sh](https://www.producthunt.com/products/asymptotelabs/launches/beacon-sh)                                                  | Open-source self-improving memory for AI coding agents               | #1 | #1 |
 | `26-10-20` | [Composio Instant](https://www.producthunt.com/products/composio/launches/composio-instant)                                         | The easiest way for AI agents to pay for their own tools             | #2 | #6 |
 | `26-10-09` | [Zernio](https://www.producthunt.com/products/zernio/launches/zernio-2)                                                             | Marketing infrastructure for products and agents                     | #2 |
 | `26-10-06` | [AUDR by Chargebee](https://www.producthunt.com/products/chargebee/launches/audr-by-chargebee)                                       | Open standard for tracking agent run costs                        | #3 |
