@@ -40,11 +40,12 @@ It also includes:
 > Sorted by launch date. [Go to next section (#alternatives) ↓](#alternatives)
 
 | Launch date | Product                                                                                                                             | Tagline                                                             | `POTD` | `POTW` | `POTM` |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -- | -- | -- |
-| `26-11-02` | [beacon.sh](https://www.producthunt.com/products/asymptotelabs/launches/beacon-sh)                                                  | Open-source self-improving memory for AI coding agents               | #1 | #1 |
-| `26-10-20` | [Composio Instant](https://www.producthunt.com/products/composio/launches/composio-instant)                                         | The easiest way for AI agents to pay for their own tools             | #2 | #6 |
-| `26-10-09` | [Zernio](https://www.producthunt.com/products/zernio/launches/zernio-2)                                                             | Marketing infrastructure for products and agents                     | #2 |
-| `26-10-06` | [AUDR by Chargebee](https://www.producthunt.com/products/chargebee/launches/audr-by-chargebee)                                       | Open standard for tracking agent run costs                        | #3 |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
+| `26-11-09` | [Arcjet AI security models](https://www.producthunt.com/products/arcjet/launches/arcjet-ai-security-models)                          | A family of custom-trained security models for coding agents       | #4 |
+| `26-11-02` | [beacon.sh](https://www.producthunt.com/products/asymptotelabs/launches/beacon-sh)                                                   | Open-source self-improving memory for AI coding agents           | #1 | #1 |
+| `26-10-20` | [Composio Instant](https://www.producthunt.com/products/composio/launches/composio-instant)                                          | The easiest way for AI agents to pay for their own tools         | #2 | #6 |
+| `26-10-09` | [Zernio](https://www.producthunt.com/products/zernio/launches/zernio-2)                                                              | Marketing infrastructure for products and agents                  | #2 |
+| `26-10-06` | [AUDR by Chargebee](https://www.producthunt.com/products/chargebee/launches/audr-by-chargebee)                                       | Open standard for tracking agent run costs                          | #3 |
 | `26-10-01` | [Monospace from Directus](https://www.producthunt.com/products/directus/launches/monospace-from-directus)                            | The governed API layer for every app, person, and agent       | #1 | #1 |
 | `26-09-21` | [Arcjet](https://www.producthunt.com/products/arcjet/launches/arcjet)                                                                | Secure the AI agents you're building at runtime                 | #4 | #5 |
 | `26-09-15` | [Kilo Code for iOS and Android](https://www.producthunt.com/products/kilocode/launches/kilo-code-for-ios-and-android)                | Start coding agents, control sessions, review PRs. Anywhere.   | #3 | #6 |
