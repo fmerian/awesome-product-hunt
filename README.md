@@ -196,6 +196,7 @@ It also includes:
 
 > Helpful products for your launch. Found in [this playbook](https://git.new/meow/guide).
 
+- [Product Hunt MCP](https://producthunt.com/mcp/install) - Launch and discover new products from your AI tools.
 - [hunted.space](https://hunted.space/) - Monitor your launch day in real time.
 - [Typefully](https://meooow.link/typefully) - Draft, schedule, and post content on X, LinkedIn, Threads, Mastodon, and Bluesky.
 - [CleanShot](https://meooow.link/cleanshot) - Pixel-perfect screenshots.
@@ -209,7 +210,7 @@ It also includes:
 
 This repository is maintained by [@fmerian](https://producthunt.com/@fmerian):
 
-- Contributed to launching 400+ dev-first products in 4 years
+- Contributed to launching 500+ dev-first products in 4 years
 - Among the Top 3 most active users
 - 100,000+ followers
 - Brand Ambassador and 2022 Community Member of the Year (runner-up)
