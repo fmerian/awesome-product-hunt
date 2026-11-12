@@ -265,7 +265,7 @@ Product Hunt isn't just a launch platform. Early 2025, Product Hunt introduced
 
 Launching on Product Hunt isn't a one-time opportunity. Launch early, launch often.
 
-According to Product Hunt, you have to "_wait at least six months in between posts for the same product or from the same company. Along with a six-month period, there also needs to be a significant update to the product._" [^9]
+According to Product Hunt, you have to "_wait at least two months between posts for the same product or from the same company. Along with that, there also needs to be a significant update to the product._" [^9]
 
 Product Hunt pays off in the long term, where the best teams keep launching.
 
