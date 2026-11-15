@@ -140,6 +140,7 @@ It also includes:
 
 - [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (91)
 - [Uneed](https://uneed.best/submit-a-tool?atp=fmerian) (75)
+- [Awesome Indie](https://awesomeindie.com/) (41)
 - [launchweek.dev](https://launchweek.dev/) (35)
 
 [Back to top ↑](#contents)
