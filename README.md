@@ -41,6 +41,7 @@ It also includes:
 
 | Launch date | Product                                                                                                                             | Tagline                                                             | `POTD` | `POTW` | `POTM` |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -- | -- | -- |
+| `26-11-13` | [Filament by Galaxy](https://www.producthunt.com/products/galaxy/launches/filament-by-galaxy)                                        | Move data using your terminal or agent. Fast & open source.     | #2 | #9 |
 | `26-11-09` | [Arcjet AI security models](https://www.producthunt.com/products/arcjet/launches/arcjet-ai-security-models)                          | A family of custom-trained security models for coding agents       | #4 |
 | `26-11-02` | [beacon.sh](https://www.producthunt.com/products/asymptotelabs/launches/beacon-sh)                                                   | Open-source self-improving memory for AI coding agents           | #1 | #1 |
 | `26-10-20` | [Composio Instant](https://www.producthunt.com/products/composio/launches/composio-instant)                                          | The easiest way for AI agents to pay for their own tools         | #2 | #6 |
