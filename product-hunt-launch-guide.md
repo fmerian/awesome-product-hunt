@@ -1,10 +1,10 @@
-I've launched 42 dev tools on Product Hunt in the last 4 years - or maybe 400? To be honest, I've lost count.
+I've launched 42 dev tools on Product Hunt in the last 4 years - or maybe 500? To be honest, I've lost count.
 
 I could bore you with the details of how Kilo Code launched or that Product Hunt awarded me Community Member of the Year in 2022.
 
 No. What you probably care about is what my key takeaways are.
 
-So, here we go - what I learned from 42 (or 400+) dev-first product launches on Product Hunt.
+So, here we go - what I learned from 42 (or 500+) dev-first product launches on Product Hunt.
 
 ## TL,DR
 
@@ -263,7 +263,15 @@ Product Hunt isn't just a launch platform. Early 2025, Product Hunt introduced
 
 ### Keep launching
 
-Launching on Product Hunt isn't a one-time opportunity. Launch early, launch often.
+Launching on Product Hunt isn't a one-time opportunity. 
+
+To quote Product Hunt's CEO, Rajiv Ayyangar:
+
+> **A flashy launch is great, but it tells only a tiny part of the story. The real signal now comes from what happens after the hype fades.**
+>
+> -- Rajiv Ayyangar, CEO, Product Hunt
+
+Launch early, launch often.
 
 According to Product Hunt, you have to "_wait at least two months between posts for the same product or from the same company. Along with that, there also needs to be a significant update to the product._" [^9]
 
