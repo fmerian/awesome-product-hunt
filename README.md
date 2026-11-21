@@ -140,8 +140,8 @@ It also includes:
 > More suggestions in [this repository](https://git.new/channels). 
 
 - [Hacker News (ShowHN)](https://news.ycombinator.com/showhn.html) (91)
-- [Uneed](https://uneed.best/submit-a-tool?atp=fmerian) (75)
-- [launchweek.dev](https://launchweek.dev/) (35)
+- [Uneed](https://uneed.best/submit-a-tool?atp=fmerian) (77)
+- [launchweek.dev](https://launchweek.dev/) (37)
 
 [Back to top ↑](#contents)
 
