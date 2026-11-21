@@ -167,6 +167,7 @@ It also includes:
 
 ### Teardowns
 
+- [Launchmaxxing Tabstack on Product Hunt](https://www.producthunt.com/p/tabstack/launchmaxxing-tabstack-on-product-hunt) (2026)
 - [Reverse-engineering Kilo's recent Product Hunt launch](https://www.producthunt.com/p/kilocode/reverse-engineering-kilo-s-recent-product-hunt-launch) (2026)
 - [Mastra 1.0 - Reasoning](https://www.producthunt.com/p/mastra/mastra-1-0-reasoning) (2026)
 - [Decoding Cursor's recent launches](https://git.new/meow/cursor) (2026)
