@@ -149,13 +149,13 @@ It also includes:
 
 > Launched in 2025, Product Forums (/p/) are community subreddits for every product to engage with users, build anticipation before launch day and keep the momentum. Sorted by number of followers.
 
-- [/p/claude](https://www.producthunt.com/p/claude) (92,726)
-- [/p/cursor](https://www.producthunt.com/p/cursor) (69,318)
-- [/p/supabase](https://www.producthunt.com/p/supabase) (58,472)
-- [/p/vercel](https://www.producthunt.com/p/vercel) (30,279)
-- [/p/github](https://www.producthunt.com/p/github) (11,873)
-- [/p/stripe](https://www.producthunt.com/p/stripe) (10,790)
-- [/p/kilocode](https://www.producthunt.com/p/kilocode) (6,053)
+- [/p/claude](https://www.producthunt.com/p/claude) (104,191)
+- [/p/cursor](https://www.producthunt.com/p/cursor) (77,179)
+- [/p/supabase](https://www.producthunt.com/p/supabase) (58,838)
+- [/p/vercel](https://www.producthunt.com/p/vercel) (38,110)
+- [/p/github](https://www.producthunt.com/p/github) (12,291)
+- [/p/stripe](https://www.producthunt.com/p/stripe) (11,075)
+- [/p/kilocode](https://www.producthunt.com/p/kilocode) (5,984)
 
 [Back to top ↑](#contents)
 
