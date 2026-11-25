@@ -20,7 +20,7 @@ Kriesel is the GOAT in the DevTools space. So, when she reached out to collabora
 
 Tabstack is a web API for people and teams running their own models. It fits in a competitive product category, browser automation tools, with multiple, established alternatives.
 
-How to differenciate and drive developer awareness? Product Hunt.
+How to differentiate and drive developer awareness? Product Hunt.
 
 Product Hunt is an awesome place for developer tools to launch, a place where most users are technical founders, a place where developer-first products like Supabase, Kilo and Mastra, are among the most followed and loved products. 
 
